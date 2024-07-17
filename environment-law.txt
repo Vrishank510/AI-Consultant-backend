@@ -1,0 +1,1094 @@
+Environment Law
+Overview of Environment Law
+Environmental law is a body of law that addresses issues concerning the
+environment, natural resources, and land use. The earliest legal remedies available
+to address environmental problems were found under the common law doctrines of
+trespass and nuisance. While these doctrines are still valid, their effectiveness has
+been limited by the “right to farm” laws now enacted in all fifty states. Please see the
+Urban Encroachment Reading Room for more information on “right to farm”
+laws.Congress began promulgating specific statutory protections for the
+environment in 1899 with the Rivers and Harbors Act, which provided a regulatory
+mechanism to limit pollution in the nation’s navigable waters. Modern environmental
+law began developing in the 1950s with the enactment of statutes such as the
+Federal Water Pollution Control Act (now referred to as the Clean Water Act (CWA))
+and the Clean Air Act (CAA).Biotechnology is a developing area of law that continues
+to impact environmental issues. Biotechnology, or genetic engineering (GE), is the
+“genetic modification of organisms by recombinant DNA techniques.”
+The products resulting from GE techniques are often referred to as genetically
+modified organisms (GMOs). Because the federal policy has taken the position that
+biotechnology itself has no inherent dangers, products developed with such
+technology are regulated under existing laws in the same manner as nonbiotechnology products. Three federal agencies have oversight over GE products:
+the United States Department of Agriculture (USDA), the Animal and Plant Health
+Inspection Service (APHIS), the Food and Drug Administration (FDA), and the
+Environmental Protection Agency (EPA).Under this regulatory structure, APHIS is
+responsible for ensuring that agriculture is protected from pests and diseases. APHIS
+regulates GE crops under the Plant Protection Act (PPA).
+PPA provides the authority for APHIS to regulate GE crops as “biological control
+organisms” and de-regulate organisms that meet federal testing and safety
+requirements. The EPA regulates biopesticides, plants whose DNA has chemical
+properties and protections such as Round-Up Ready Corn and Soybeans. The EPA
+has the authority to regulate biopesticides under the Federal Insecticide, Fungicide,
+and Rodenticide Act (FIFRA). Under the Federal Food, Drug, and Cosmetic Act
+(FDCA), the FDA generally has authority over labeling foods containing GE
+components. Until 2016, there were no mandatory labeling requirements for foods
+containing GE components because such foods were deemed to be as safe as their
+traditional counterparts.In 2016, Congress passed the National Bioengineered Food
+Disclosure Standard, which establishes a mandatory labeling requirement for all
+foods falling within the definition of bioengineered food. The USDA has the authority
+to promulgate the rules and regulations implementing this law. For more information,
+see the Biotechnology Reading Room.
+Environmental laws affecting agriculture have rapidly developed over the past sixty
+years and cover a broad spectrum of issues– from pesticide use to erosion control,
+from water quality, quantity, and use to particulate contamination of the air we
+breathe. Due to the wide range of environmental statutes and regulations, many of
+the topics covered in this reading room are also addressed in other places on this
+site. To find more detailed information on specific statutes, follow the links to the
+additional Reading Rooms provided below.
+d International Environmental Agreements
+Profound environmental changes caused by the increasing scale of human activity
+have led many observers to conclude that the planet has entered the
+“Anthropocene”—a geologic era signified by human impact on the biosphere.
+International environmental law is the set of agreements and principles that reflect
+the world's collective effort to manage our transition to the Anthropocene
+by resolving our most serious environmental problems, including climate change,
+ozone depletion and mass extinction of wildlife. More generally, international
+environmental law aims to achieve sustainable development—i.e., development that
+allows people to have a high quality of life today without sacrificing the quality of life
+of future generations. International environmental law is thus critical both for
+addressing specific environmental threats and for integrating long-term
+environmental protection into the global economy.
+But not all environmental threats trigger international (as opposed to solely national
+or local) response. For countries to sacrifice their autonomy, some advantage must
+be gained in addressing the problem collectively. Typically, countries turn to
+international cooperation where (l) the environmental impacts are transboundary
+(such as pollution into the Great Lakes) or global (such as climate change); (2) some
+international activity contributes to environmental harm, for example, the international
+trade in elephant ivory or the killing of whales; or (3) international coordination of
+financial or technical support can catalyze action (for example, for the global
+conservation of biological diversity). In these circumstances, international
+cooperation—whether in the form of a binding treaty or a non-binding “soft law”
+agreement—is necessary for an effective response to the environmental challenge.
+Throughout most of the last century, international environmental law primarily
+reflected bilateral or regional disputes over shared resources, such as rivers or lakes
+that cut across national boundaries. These disputes led to diplomatic tensions that
+either resulted in an international legal case or were settled through relatively narrow
+regional or bilateral treaties. The most famous and important of these disputes was
+the Trail Smelter Arbitration, where Canada was held responsible for air pollution
+entering the United States.
+In recent years, bilateral disputes involving for example Slovakia’s proposed
+construction of a dam on the Danube River near Hungary, Uruguay’s authorization of
+two pulp mills that threatened to pollute Argentina, and Australia’s challenge of
+Japanese whaling operations, highlight the importance of international law in
+peacefully resolving environmental conflicts between countries. Such disputes are
+resolved at the International Court of Justice, the UN Law of the Sea Tribunal or
+other international tribunals.
+In addition to the peaceful resolution of environmental conflicts, international
+environmental law also is relied on to balance the planet’s ecological limits with the
+world’s ever-growing economy to prevent irreversible environmental harm in the first
+place. Today, governments regularly meet to address the general sustainability of the
+planet or to negotiate one of the literally hundreds of bilateral, regional and global
+treaties aimed at managing a specific environmental challenge before it’s too late.
+Sustainable Development Summits
+The United Nations first convened countries to address the global environment at the
+1972 UN Conference on the Human Environment in Stockholm. The Stockholm
+conference highlighted the international aspects of emerging environmental
+challenges and legitimized the environment as an area for international
+cooperation. The Stockholm conference also created the United Nations
+Environment Programme (UNEP)— an institutional home for environmental
+protection in the United Nations. Headquartered in Nairobi, Kenya, UNEP continues
+today to be a leading catalyst for global environmental cooperation.
+Since the 1972 Stockholm Conference, the world has met regularly in a series of
+major summits aimed at shifting the world generally toward a path of
+sustainability. The most important by far has been the 1992 UN Conference on
+Environment and Development (UNCED), also known as the Rio "Earth
+Summit.' Virtually every world leader attended the Earth Summit, where they agreed
+to three major treaties (addressing climate change, biological diversity and
+desertification), and a 500-page blueprint for sustainable development (known as
+Agenda 21). Most importantly, Rio marked the formal acceptance of sustainable
+development as the goal of a modern economy and of international environmental
+law. Indeed, since Rio the concept of sustainable development has received nearly
+universal acceptance among every sector of international society.
+Sustainable development was also the organizing framework for major environment
+and development summits in Johannesburg in 2002 and Rio again in 2012 (the
+Rio+20 Summit). These summits are big affairs, attended not only by governments
+but also by thousands of civil society and private sector representatives. Reflecting
+this wider audience, the recent UN-sponsored Summits have promoted public-private
+Partnerships for Sustainable Development and more recently led to adoption of the
+Sustainable Development Goals (SDGs). These non-binding goals serve as a
+strategic plan for coordinating the global community toward achieving concrete,
+measurable goals by 2030.
+International Environmental Principles
+At both Stockholm in 1972 and at Rio in 1992, the countries adopted a set of basic
+principles (see, e.g., the Rio Declaration on Environment and Development). Some of
+these principles are emerging as customary law, helping to resolve environmental
+disputes and guide negotiations of the various environmental treaties. Ten of the
+most important environmental principles are briefly defined in the sidebar box on
+page --.
+Global Environmental Agreements
+Since the 1972 Stockholm Conference, countries have embarked on an ambitious
+schedule of international environmental treaty negotiations. Today, these treaties
+form the core of international environmental law. They can be grouped into treaties
+aimed at: (1) protecting the global atmosphere, including preventing climate change
+and ozone depletion; (2) conserving wildlife and biological diversity; (3) managing the
+oceans and marine environment; and (4) regulating global movement of chemicals,
+wastes and other hazardous substances (see table of Global Environmental
+Agreements).
+Key Environmental Issues
+Environmental issues are disruptions in the usual function of ecosystems.Further,
+these issues can be caused by humans (human impact on the environment)or they
+can be natural. These issues are considered serious when the ecosystem cannot
+recover in the present situation, and catastrophic if the ecosystem is projected to
+certainly collapse.
+Environmental protection is the practice of protecting the natural environment on the
+individual, organizational or governmental levels, for the benefit of both the
+environment and humans. Environmentalism is a social and environmental
+movement that addresses environmental issues through advocacy, legislation
+education, and activism.
+Environment destruction caused by humans is a global, ongoing problem. Water
+pollution also cause problems to marine life.Most scholars think that the project peak
+global world population of between 9-10 billion people, could live sustainably within
+the earth's ecosystems if human society worked to live sustainably within planetary
+boundaries.The bulk of environmental impacts are caused by excessive consumption
+of industrial goods by the world's wealthiest populations. The UN Environmental
+Program, in its "Making Peace With Nature" Report in 2021, found addressing key
+planetary crises, like pollution, climate change and biodiversity loss, was achievable
+if parties work to address the Sustainable Development Goa.Human impact on the
+environment (or anthropogenic environmental impact) refers to changes
+to biophysical environmentsand to ecosystems, biodiversity, and natural
+resources caused directly or indirectly by humans. Modifying the environment to fit
+the needs of society (as in the built environment) is causing severe effects
+including global warming, environmental degradation[14] (such as ocean
+acidification mass extinction and biodiversity loss,ecological crisis, and ecological
+collapse. Some human activities that cause damage (either directly or indirectly) to
+the environment on a global scale include population growth,neoliberal economic
+policies and rapid economic growth,overconsumption, overexploitation, pollution,
+and deforestation. Some of the problems, including global warming and biodiversity
+loss, have been proposed as representing catastrophic risks to the survival of the
+human species.
+The term anthropogenic designates an effect or object resulting from human activity.
+The term was first used in the technical sense by Russian geologist Alexey Pavlov,
+and it was first used in English by British ecologist Arthur Tansley in reference to
+human influences on climax plant communities. The atmospheric scientist Paul
+Crutzen introduced the term "Anthropocene" in the mid-1970s.The term is sometimes
+used in the context of pollution produced from human activity since the start of
+the Agricultural Revolution but also applies broadly to all major human impacts on the
+environment. Many of the actions taken by humans that contribute to a heated
+environment stem from the burning of fossil fuel from a variety of sources, such as:
+electricity, cars, planes, space heating, manufacturing, or the destruction of forests.
+Environmental degradation is the deterioration of the environment through depletion
+of resources such as quality of air, water and soil; the destruction
+of ecosystems; habitat destruction; the extinction of wildlife; and pollution. It is
+defined as any change or disturbance to the environment perceived to be deleterious
+or undesirable.
+Environmental concerns can be defined as the negative effects of any human activity
+on the environment. The biological as well as the physical features of the
+environment are included. Some of the primary environmental challenges that are
+causing great worry are air pollution, water pollution, natural environment pollution,
+rubbish pollution, and so on.
+Environmental degradation is one of the ten threats officially cautioned by the Highlevel Panel on Threats, Challenges and Change of the United Nations. The United
+Nations International Strategy for Disaster Reduction defines environmental
+degradation as "the reduction of the capacity of the environment to meet social and
+ecological objectives, and needs". Environmental degradation comes in many types.
+When natural habitats are destroyed or natural resources are depleted, the
+environment is degraded. Efforts to counteract this problem include environmental
+protection and environmental resources management. Mismanagement that leads to
+degradation can also lead to environmental conflict where communities organize in
+opposition to the forces that mismanaged the environment.Environmental conflicts or
+ecological distribution conflicts (EDCs) are social conflicts caused by environmental
+degradation or by unequal distribution of environmental
+resources.[43][44][45] The Environmental Justice Atlas documented 3,100
+environmental conflicts worldwide as of April 2020 and emphasised that many more
+conflicts remained undocumented. Parties involved in these conflicts include locally
+affected communities, states, companies and investors, and social or environmental
+movements; typically environmental defenders are protecting their homelands
+from resource extraction or hazardous waste disposal. Resource extraction and
+hazardous waste activities often create resource scarcities (such as
+by overfishing or deforestation), pollute the environment, and degrade the living
+space for humans and nature, resulting in conflict. A particular case of environmental
+conflicts are forestry conflicts, or forest conflicts which "are broadly viewed as
+struggles of varying intensity between interest groups, over values and issues related
+to forest policy and the use of forest resources". In the last decades, a growing
+number of these have been identified globally.
+Frequently environmental conflicts focus on environmental justice issues, the rights
+of indigenous people, the rights of peasants, or threats to communities whose
+livelihoods are dependent on the ocean. Outcomes of local conflicts are increasingly
+influenced by trans-national environmental justice networks that comprise the global
+environmental justice movement.
+Environmental conflict can complicate response to natural disaster or exacerbate
+existing conflicts – especially in the context of geopolitical disputes or where
+communities have been displaced to create environmental migrants.
+The terms socio-environmental conflict, environmental conflict, or EDCs are
+sometimes used interchangeably. The study of these conflicts is related to the fields
+of ecological economics, political ecology, and environmental justice.
+Environmental justice or eco-justice, is a social movement to address environmental
+injustice, which occurs when poor or marginalized communities are harmed
+by hazardous waste, resource extraction, and other land uses from which they do not
+benefit.] The movement has generated hundreds of studies showing that exposure to
+environmental harm is inequitably distributed.
+The movement began in the United States in the 1980s. It was heavily influenced by
+the American civil rights movement and focused on environmental racism within rich
+countries. The movement was later expanded to consider gender, international
+environmental injustice, and inequalities within marginised groups. As the movement
+achieved some success in rich countries, environmental burdens were shifted to
+the Global South (as for example through extractivism or the global waste trade). The
+movement for environmental justice has thus become more global, with some of its
+aims now being articulated by the United Nations. The movement overlaps with
+movements for Indigenous land rights and for the human right to a healthy
+environment.
+The goal of the environmental justice movement is to achieve agency for
+marginalised communities in making environmental decisions that affect their lives.
+The global environmental justice movement arises from local environmental
+conflicts in which environmental defenders frequently confront multi-national
+corporations in resource extraction or other industries. Local outcomes of these
+conflicts are increasingly influenced by trans-national environmental justice
+networks.Environmental justice scholars have produced a large interdisciplinary body
+of social science literature that includes contributions to political
+ecology, environmental law, and theories on justice and sustainability.Environmental
+Impact assessment (EIA) is the assessment of the environmental consequences of a
+plan, policy, program, or actual projects prior to the decision to move forward with the
+proposed action. In this context, the term "environmental impact assessment" is
+usually used when applied to actual projects by individuals or companies and the
+term "strategic environmental assessment" (SEA) applies to policies, plans and
+programmes most often proposed by organs of state. It is a tool of environmental
+management forming a part of project approval and decision-making. Environmental
+assessments may be governed by rules of administrative procedure regarding public
+participation and documentation of decision making, and may be subject to judicial
+review.
+The purpose of the assessment is to ensure that decision-makers consider the
+environmental impacts when deciding whether or not to proceed with a project.
+The International Association for Impact Assessment (IAIA) defines an environmental
+impact assessment as "the process of identifying, predicting, evaluating and
+mitigating the biophysical, social, and other relevant effects of development
+proposals prior to major decisions being taken and commitments made". EIAs are
+unique in that they do not require adherence to a predetermined environmental
+outcome, but rather they require decision-makers to account for environmental
+values in their decisions and to justify those decisions in light of
+detailed environmental studies and public comments on the potential environmental
+impacts.The environmental movement (sometimes referred to as the ecology
+movement), is a social movement that aims to protect the natural world from harmful
+environmental practices in order to create sustainable
+living.Environmentalists advocate the just and sustainable management of resources
+and stewardship of the environment through changes in public policy and individual
+behavior. In its recognition of humanity as a participant in (not an enemy
+of) ecosystems, the movement is centered on ecology, health, as well as human
+rights.
+The environmental movement is an international movement, represented by a range
+of environmental organizations, from enterprises to grassroots and varies from
+country to country. Due to its large membership, varying and strong beliefs, and
+occasionally speculative nature, the environmental movement is not always united in
+its goals. At its broadest, the movement includes private citizens,
+professionals, religious devotees, politicians, scientists, nonprofit organizations, and
+individual advocates like former Wisconsin Senator Gaylord Nelson and Rachel
+Carson in the 20th century.
+Environmental issues are addressed at a regional, national or international level by
+government organizations.
+The largest international agency, set up in 1972, is the United Nations Environment
+Programme. The International Union for Conservation of Nature brings together 83
+states, 108 government agencies, 766 Non-governmental organizations and 81
+international organizations and about 10,000 experts, scientists from
+countries .around the world. International non-governmental
+organizations include Greenpeace, Friends of the Earth and World Wide Fund for
+Nature. Governments enact environmental policy and enforce environmental law and
+this is done to differing degrees around the world.
+Regulation of Pollution
+To protect the environment from the adverse effects of pollution, many nations
+worldwide have enacted legislation to regulate various types of pollution as well as to
+mitigate the adverse effects of pollution. At the local level, regulation usually is
+supervised by environmental agencies or the broader public health system. Different
+jurisdictions often have different levels regulation and policy choices about pollution.
+Historically, polluters will lobby governments in less economically developed areas or
+countries to maintain lax regulation in order to protect industrialisation at the cost of
+human and environmental health.[citation needed]
+The modern environmental regulatory environment has its origins in the United
+States with the beginning of industrial regulations around Air and Water pollution
+connected to industry and mining during the 1960s and 1970s.
+Because many of pollutants have trans-boundary impacts, the UN and other treaty
+bodies have been used to regulate pollutants that circulate as air pollution, water
+pollution or trade in wastes. Early international agreements were successful at
+addressing Global Environmental issues, such as Montreal Protocol, which banned
+Ozone depleting chemicals in 1987, with more recent agreements focusing on
+broader, more widely dispersed chemicals such as persistent organic pollutants in
+the Stockholm Convention on Persistent Organic Pollutants created in 2001, such
+as PCBs, and the Kyoto Protocol in 1997 which initiated collaboration on addressing
+greenhouse gases to mitigate climate change.
+Since pollution crosses political boundaries international treaties have been made
+through the United Nations and its agencies to address international pollution issues.
+Greenhouse gas emissions
+The Kyoto Protocol is an amendment to the United Nations Framework Convention
+on Climate Change (UNFCCC), an international treaty on global warming. It also
+reaffirms sections of the UNFCCC. Countries which ratify this protocol commit to
+reduce their emissions of carbon dioxide and five other greenhouse gases, or
+engage in emissions trading if they maintain or increase emissions of these gases.A
+total of 141 countries have ratified the agreement. Notable exceptions include the
+United States and Australia, who have signed but not ratified the agreement. The
+stated reason for the United States not ratifying is the exemption of large emitters of
+greenhouse gases who are also developing countries, like China and India.
+An UN environmental conference held in Bali 3–14 December 2007 with the
+participation from 180 countries aims to replace the Kyoto Protocol, which will end in
+2012. During the first day of the conference United States, Saudi
+Arabia and Canada were presented with the "Fossil-of-the-day-award", a symbolic
+bag of coal for their negative impact on the global climate. The bags included the
+flags of the respective countries.
+Canada
+In Canada the regulation of pollution and its effects are monitored by a number of
+organizations depending on the nature of the pollution and its location. The three
+levels of government (Federal – Canada Wide; Provincial; and Municipal) equally
+share in the responsibilities, and in the monitoring and correction of pollution.
+China
+China's rapid industrialization has substantially increased pollution. China has some
+relevant regulations: the 1979 Environmental Protection Law, which was largely
+modeled on U.S. legislation, but the environment continues to deteriorate.Twelve
+years after the law, only one Chinese city was making an effort to clean up its water
+discharges. This indicates that China is about 30 years behind the U.S. schedule of
+environmental regulation and 10 to 20 years behind Europe. In July 2007, it was
+reported that the World Bank reluctantly censored a report revealing that 750,000
+people in China die every year as a result of pollution-related diseases. China's State
+Environment Protection Agency and the Health Ministry asked the World Bank to cut
+the calculations of premature deaths from the report fearing the revelation would
+provoke "social unrest".
+United Kingdom
+In the 1840s, the United Kingdom brought onto the statute books legislation to control
+water pollution and was strengthened in 1876 in the Rivers Pollution Prevention
+Act[9] and was subsequently extended to all freshwater in the Rivers (Prevention of
+Pollution) Act 1951 and applied to coastal waters by the Rivers (Prevention of
+Pollution) Act 1961
+The Environmental Protection Act of 1990 established the system of Integrated
+Pollution Control(IPC). Currently[when?] the clean up of historic contamination is
+controlled under a specific statutory scheme found in Part IIA of the Environmental
+Protection Act 1996 (Part IIA), as inserted by the Environment Act 1995, and other
+‘rules’ found in regulations and statutory guidance. The Act came into force in
+England in April 2000.
+Within the current[when?] regulatory framework, Pollution Prevention and Control
+(PPC) is a regime for controlling pollution from certain designated industrial activities.
+The regime introduces the concept of Best Available Techniques (BAT) to
+environmental regulations. Operators must use the BAT to control pollution from their
+industrial activities to prevent, and where that is not practicable, to reduce to
+acceptable levels, pollution to air, land and water from industrial activities. The Best
+Available Techniques also aim to balance the cost to the operator against benefits to
+the environment.
+The system of Pollution Prevention and Control is replacing that of IPC and has been
+taking effect between 2000 and 2007. The Pollution Prevention and Control regime
+implements the European Directive (EC/96/61) on integrated pollution prevention and
+control.
+United States
+Pollution prevention (P2) is a strategy for reducing the amount of waste created and
+released into the environment, particularly by industrial facilities, agriculture, or
+consumers. Many large corporations view P2 as a method of improving the efficiency
+and profitability of production processes through waste reduction and technology
+advancements. Legislative bodies have enacted P2 measures, such as the Pollution
+Prevention Act of 1990 and the Clean Air Act Amendments of 1990 in the United
+States Congress.
+Air pollution
+The United States Congress passed the Clean Air Act in 1963 to legislate the
+reduction of smog and atmospheric pollution in general. That legislation has
+subsequently been amended and extended in 1966, 1970, 1977 and 1990. In
+1968 AP 42 Compilation of Air Pollutant Emission Factors. Numerous state and local
+governments have enacted similar legislation either implementing or filling in locally
+important gaps in the national program. The national Clean Air Act and
+similar state legislative acts have led to the widespread use of atmospheric
+dispersion modeling in order to analyze the air quality impacts of proposed major
+actions. With the 1990 Clean Air Act, the United States Environmental Protection
+Agency (EPA) began a controversial carbon trading system in which tradable rights
+to emit a specified level of carbon are granted to polluters.[citation needed]
+Water pollution
+Enactment of the 1972 Clean Water Act (CWA) required thousands of facilities to
+obtain permits for discharges to navigable waters, through the National Pollutant
+Discharge Elimination System (NPDES). It also required EPA to establish national
+technology-based discharge standards for municipal sewage treatment plants, and
+for many industrial categories (the latter are called "effluent guidelines.")
+Municipal and industrial permittees are required to regularly collect and analyze
+wastewater samples, and submit Discharge Monitoring Reports to a state agency or
+EPA. Amendments in 1977 required stricter regulation of toxic pollutants. In 1987
+Congress expanded NPDES permit coverage to include municipal and
+industrial stormwater discharges.
+The Act also requires use of best management practices for a wide range of other
+water discharges including nonpoint source pollution.
+Thermal pollution discharges are regulated under section 316(a) of the
+CWA. NPDES permits include effluent limitations on water temperature to protect the
+biotic life supported by a water body. A permittee may request a variance to the
+typical thermal limitations. Alternate limitations may be issued in limited
+circumstances, if the permittee has provided sufficient proof through data submission
+that aquatic life in the water body will be protected.
+In addition to wastewater discharge monitoring, EPA works with federal, state and
+local environmental agencies to conduct ambient water monitoring programs in water
+bodies nationwide. The CWA requires EPA and the states to prepare reports to
+Congress on the condition of the nation's waters. Ambient water quality data
+collected by EPA, the US Geological Survey and other organizations are available to
+the public in several online databases.
+Land Pollution
+Congress passed the Resource Conservation and Recovery Act (RCRA) in 1976,
+which created a regulatory framework for both municipal solid waste and hazardous
+waste disposed on land.RCRA requires that all hazardous wastes be managed and
+tracked from generation of the waste, through transport and processing, to final
+disposal, by means of a nationwide permit system. The Hazardous and Solid Waste
+Amendments of 1984 mandated regulation of underground storage tanks containing
+petroleum and hazardous chemicals, and the phasing out of land disposal of
+hazardous waste. The Federal Facilities Compliance Act, passed in 1992, clarified
+RCRA coverage of federally owned properties such as military bases. Illegal disposal
+of waste is punishable by fines of up to $25,000 per occurrence.
+Alongside municipal and hazardous waste the EPA is in charge of soil conservation.
+The EPA, often with the help of state partners, manages soil contamination through
+contaminant sites and facilities. An annual report on the Environment and a Toxics
+Release Inventory is produced as a result of these efforts.
+To specifically mitigate soil pollution from fertilizers, the USDA, National Resources
+Conservation Service (NRCS), National Institutue of Food and Agriculture (NIFA),
+and Agricultural Research Service (ARS) monitor soil resources and provide
+guidelines to prevent nutrient loss.
+Waste Management Laws
+With the increasing industrial growth and development, one of the consequences we
+often seem to ignore is the generation of waste. If the disposal of such wastes is not
+regulated and managed properly, it can lead to serious environmental issues. Also,
+keeping in line with the principle that development and sustainability should go handin-hand, it is necessary that a robust system of waste management is set up. In our
+country, waste management is governed by Ministry of Environment, Forest and
+Climate Change (MoEF) who work together with State Pollution Control Board set up
+in various States. Certain laws are also present in the legal setup which helps in
+regulation of waste in India. The National Environment Policy, 2006 laid emphasis
+not only on disposal of waste but also recycling and treating waste. Let us now look
+at some of the laws, which are there for the purpose of waste regulation.
+The Environmental Protection Act
+This Act was enacted in 1986, and it aims to establish a sufficient protection system.
+This Act confers powers to the Central Government to regulate all forms of waste. It
+is one of the primary legislatures to protect the environment and regulation of waste.
+Some of the important provisions of this Act is given as underSection 7 of this Act places a principal prohibition on harming the environment by
+stating that no person carrying any activity should emit or discharge environmental
+pollutants in excess of the prescribed standards.
+Section 9 of the Act states that if any event takes place which harms the environment
+through any foreseen or unforeseen event, the person responsible for the harm is
+duty bound to prevent or alleviate the pollutant, discharged as a result of such event.
+The person is also obliged to inform the proper authorities about the event which may
+harm the environment.
+*Polluter Pays Principle– Section 9 (3) of the Act embodies the “Polluter Pays
+Principle” which states that any expense which has been incurred to restore the
+environment to its natural state shall be paid by the person who is responsible for
+such degradation. This concept of a continuing punishment is very important.
+1. The Act also contains provisions which remove the corporate veil. In case
+any environmental offense was committed by a company, with the
+connivance or consent of any director, manager, secretary or any other
+officer of the company, they’ll be help personally liable for committing
+offenses in the name of the company.
+2. Environmental Protection Rules-Commonly known as the Environmental
+Protection Rules, 1986, these rules were formulated by the government
+under the power conferred to them by the Environmental Protection Act.
+Through these powers, the government has the authority to give specific
+directions, without changing the principle Act.
+The Hazardous Wastes (Management, Handling and Transboundary Movement)
+Rules, 2008
+Management of hazardous waste is a very complex issue. Certain rules and
+regulations are required, which together form the legal regime. The Rules places an
+obligation on the occupier of hazardous to safe and sound handling of environmental
+waste. The occupier is that person under whose charge there is a plant or unit or
+factory which produces hazardous waste as a result of their operation. The occupier
+must sell or send the hazardous waste to a re-processor or recycler, who is
+authorized by the government to dispose of the waste in a safe manner. Any person
+who is engaged in storage, package, collection, destruction, conversion, processing,
+etc., also has to take authorization for the State Pollution Board.
+The recyclers, occupiers, re-users, re-processors can store the waste for up to 90
+days.
+Sale or transfer of hazardous waste can be done only after obtaining a valid
+registration form Central Pollution Control Board (CPCB). Use of the waste as a
+source of energy also requires registration from the CPCB.
+The trans-boundary shipment of hazardous waste is regulated by the Basel
+Convention, to whom India is a signatory. Import of hazardous waste for disposal in
+India is prohibited by law, although import for the purpose of reuse, recovery as an
+energy source and recycling is allowed subject to certain restrictions. India allows for
+the export of hazardous waste but only with the prior informed consent of the
+importing country.
+The Plastic Waste (Management and Handling) Rules, 2011
+The PWM Rules are set of regulatory framework set up to control the use,
+manufacture, and recycling of plastic waste. Plastic waste includes any plastic
+product which has been discarded after it use of end of the products life. The Rule
+has uniform applicability towards all distributors, users, retailers and manufacturers of
+plastic products. Rule 9 makes it compulsory for every manufacturer of plastic
+products and recycler to obtain registration from State Pollution Control Board. This
+registration has to be renewed every three years. Rule 10 states that no retailer can
+provide plastic bags free of cost. This is done to ensure that people use plastic bags
+judicially. The PWM rules also specify details of plastic products such as the
+classification of the types of plastic like compostable, recyclable or virgin plastic,
+thickness, and color.
+Recycling of plastic products is to be done in a fixed procedure laid down by Bureau
+of Indian Standard Specification.
+Bio-Medical Waste (Management and Handling) Rules, 1998
+The aim of these Rules is to ensure that bio-medical wastes are safely disposed of.
+Bio-medical waste can be defined as any waste or byproduct generated during
+treatment, immunization and treatment of human beings or animals or in research
+activities.Schedule I of the Rules, differentiates biological wastes into different
+categories like microbiological and biotechnological, human anatomical, animal
+anatomical, discarded medicines, chemical related waste, etc.
+The BMW Rules apply to various institutions like nursing homes, animal houses,
+veterinary homes, blood banks, dispensaries, pathological laboratories, etc. the BMW
+Rules prohibit mixing of biological wastes with any other type of wastes. The general
+rule provided is that bio-medical wastes can’t be kept stored beyond the period of 48
+hours without being treated. Rule 8 (1) requires every occupier or any institution
+which is dealing with biological waste to take an authorization form the State
+Pollution Control Board. Further, according to Rule 5 (2), all institutions covered
+under the rules are to mandatorily set up treatment facilities like microwave system,
+autoclave, etc.
+The E- Waste (Management and Handling) Rules, 2011
+The prime aim of the EWM is to put in place a system which manages e-waste in an
+environment-friendly way by regulating the issue of recycling and disposal of ewaste. E-waste management is a problematic issue in India. With the growing
+economy and the technological advancement, India is becoming a hub for the IT
+Sector. This creates a lot of e-waste, disposal of which is necessary. A lot of e-waste
+also gets illegally imported into India, which worsens the problem. The E-waste Rules
+apply manufacturer and consumer. It is important to note that there are bulk
+consumers of electronic products also. There are many big corporate houses, who
+have fully automated their system and use a lot of electronic devices to meet their
+purposes. Factories are also considered as bulk customers.
+E-waste defined under the Rule 3 (k) means any electronic or electrical equipment
+which has been rejected after use or have been discarded. The byproducts which are
+discarded during the manufacturing process also falls under this category. The
+producer of electronic and electrical goods must obtain permission from State
+Pollution Control Board under rule 4. E-waste Rules also delineate the
+responsibilities of collection centers, consumers, bulk consumers, dismantlers, and
+recyclers.
+The Batteries (Management and Handling) Rules, 2001
+The Batteries Rules were notified to set up a mechanism in place which dealt with
+the disposal of lead acid batteries. The Rules apply to every manufacturer, recycler,
+dealer, importer, assembler, bulk consumer (like organizations and department
+purchasing more than 100 batteries) and consumers.Rule 10 makes it compulsory for
+every consumer to deposit the used batteries back with the dealer, manufacturer,
+recycler or labeled collection centers. Bulk consumers are also required to file halfyearly returns with the State Pollution Control Board, about the usage. Under Rule 6,
+if a recycler wants to import used batteries in India, for the purpose of recycling, he
+must first obtain Custom clearance. Additionally, import of batteries will be allowed
+only upon producing valid registration with Reserve Bank of India and MoEF and
+providing an undertaking in prescribed format along with a copy of the latest halfyearly return.
+With the increasing industrial activities, the need for maintaining a balance between
+economic growth and environment protection grows. There is an increased focus
+towards the concept of sustainable development, wherein, both the objectives can be
+fulfilled simultaneously without hampering the other. Compliance with environmental
+norms also builds a better brand image of the organization. Apart from that, the rules
+and laws regarding the management of waste and protection of the environment
+have become more stringent. No laxity is accepted in the obligation of functioning in
+an environment-friendly manner. If organizations do not follow the provided norms,
+their right to carry out business operations can also be revoked by the State. To
+avoid such sanctions, it is important that organizations approach the issue of
+environment protection and waste management in an efficient way, and help the
+society as a whole to develop in a manner, which is sustainable in the longer run.
+Biological Diversity Act, 2002
+The Act’s main objective is to ensure the conservation of biological
+diversity, sustainable use of its components and fair usage of its resources in
+order to prevent overuse or eventual destruction of biodiversity.
+Since India is one of the most biologically diverse nations in the world, this act is a
+necessity to protect its biological heritage.
+The salient features of the Biological Diversity Act are as follows.
+Regulation of access to biological resources of the country
+Conservation and sustainability of biological diversity
+Protecting the knowledge of local communities regarding biodiversity
+Secure sharing of benefits with local people as conservers of biological resources
+and holders of knowledge and information relating to the use of biological resources
+Protection and rehabilitation of threatened species
+Involvement of institutions of state governments in the broad scheme of the
+implementations of the Biological Diversity Act through the establishment of
+dedicated committees.
+Any offense under this Act is non-bailable and cognizable
+Any grievances related to the determination of benefit sharing or order of the National
+Biodiversity Authority or a State Biodiversity Board under this Act shall be taken to
+the National Green Tribunal (NGT).
+Exemptions from the Biological Diversity Act
+The Act excludes Indian biological resources that are normally traded as
+commodities.
+Such exemption holds only so far the biological resources are used as
+commodities and for no other purpose.
+The act also excludes traditional uses of Indian biological resources and associated
+knowledge and when they are used in collaborative research projects between Indian
+and foreign institutions with the approval of the central government.
+Uses by cultivators and breeds, e.g. farmers, livestock keepers and beekeepers and
+traditional healers e.g.vaids and hakims are also exempted.
+National Biodiversity Authority
+In order to carry out the provisions of the act, the National Biodiversity Authority (NBA)
+had been set up under the Ministry of Environments and Forest by the Government
+of India in 2003. The NBA is a statutory, autonomous body headquartered in Chennai.
+State Biodiversity Boards (SBB) were also created in the 29 states along with
+Biological management committees for each local body.
+Under this act, the Central Government in consultation with the NBA:
+ Shall notify threatened species and prohibit or regulate their collection,
+rehabilitation, and conservation. Check out the IUCN Red list to know more
+about endangered species.
+ Designate institutions as repositories for different categories of biological
+resources
+The functions of the National Biodiversity Authority are as follows
+ Monitoring and prevention of actions prohibited under the Act.
+ Providing advice to the government on how best to conserve biodiversity in
+India.
+ Prepare a report on how the government can select biological heritage sites.
+ Make concrete steps to prevent the grant of intellectual property rights
+regarding locally used biological resources or allied traditional knowledge.
+Structure of the NBA
+The National Biodiversity Authority consists of the following members to be appointed
+by the central government, namely:
+ A Chairperson.
+ Three ex officio members, one representing the Ministry dealing with Tribal
+Affairs and two representing the Ministry dealing with Environment and
+Forests.
+ Seven ex-officio members to represent respectively the Ministries of the
+Central Government dealing with:
+ Agricultural Research and Education
+ Biotechnology
+ Ocean Development
+ Agriculture and Cooperation
+ Indian Systems of Medicine and Homoeopathy
+ Science and Technology
+ Scientific and Industrial Research;
+To know more about Intellectual Property Rights in India, visit the linked article
+Should any Foreign individuals or corporate body seek to obtain knowledge or allied
+resources for the purpose of research, survey, and commercial utilization, then they
+need to take permission from the NBA. Indian citizens or corporates seeking to the
+same need to take permission from their respective State Biodiversity Boards.
+The outcome of research that had utilized biological resources from India cannot be
+given to a foreigner or a foreign company without the consent of the NBA. But such
+approval is not required for the publication of the research in a journal done by
+institutions that affiliated with the Central Government or approved by it.
+Renewable Energy Policies and Barriers
+The need for enacting policies to support renewable energy is often attributed to a
+variety of “barriers” or conditions that prevent investments from occurring. Often the
+result of barriers is to put renewable energy at an economic, regulatory, or
+institutional disadvantage relative to other forms of energy supply. Barriers include
+subsidies for conventional forms of energy, high initial capital costs coupled with lack
+of fuel-price risk assessment, imperfect capital markets, lack of skills or information,
+poor market acceptance, technology prejudice, financing risks and uncertainties, high
+transactions costs, and a variety of regulatory and institutional factors. Many of these
+barriers could be considered “market distortions” that unfairly discriminate against
+renewable energy, while others have the effect of increasing the costs of renewable
+energy relative to the alternatives. Barriers are often quite situation-specific in any
+given region or country; nevertheless, three broad categories of barriers are
+discussed in this section.
+Costs and Pricing Many argue that renewable energy “costs more” than other energy
+sources, resulting in cost-driven decisions and policies that avoid renewable energy.
+In practice, a variety of factors can distort the comparison. For example, public
+subsidies may lower the costs of competing fuels. Although it is true that initial capital
+costs for renewable energy technologies are often higher on a cost-per-unit basis
+(i.e., $/kW), it is widely accepted that a true comparison must be made on the basis
+of total “lifecycle” costs. Lifecycle costs account for initial capital costs, future fuel
+costs, future operation and maintenance costs,decommissioning costs, and
+equipment lifetime. Here lies part of the problem in making comparisons: What are
+fuel costs going to be in the future? How should future costs be discounted to allow
+comparison with present costs based on expected interest rates? The uncertainties
+inherent in these questions affect cost comparisons.
+Existing analytical tools for calculating and comparing costs can discriminate against
+renewable energy if they do not account for future uncertainties or make unrealistic
+assumptions. Many policies attempt to compensate for cost-related barriers by
+providing additional subsidies for renewable energy in the form of tax credits or
+incentives, by establishing special pricing and powerpurchasing rules, and by
+lowering transaction costs. Despite many calls for reducing subsidies for fossil fuels
+and nuclear power, in practice this proves politically difficult. Thus practical policies
+have tended to focus on increasing subsidies for renewable energy rather than
+reducing subsidies for fossil fuels and nuclear power. Subsidies for competing fuels.
+Large public subsidies, both implicit and explicit, are channeled in varying amounts to
+all forms of energy, which can distort investment cost decisions. Organizations such
+as the World Bank and International Energy Agency put global annual subsidies for
+fossil fuels in the range of $100-200 billion, although such figures are very difficult to
+estimate (for comparison, the world spends some $1 trillion annually on purchases of
+fossil fuels). Public subsidies can take many forms: direct budgetary transfers, tax
+incentives, R&D spending, liability insurance, leases, land rights-of-way, waste
+disposal, and guarantees to mitigate project financing or fuel price risks. Large
+subsidies for fossil fuels can significantly lower final energy prices, putting renewable
+energy at a competitive disadvantage if it does not enjoy equally large subsidies.
+High initial capital costs. Even though lower fuel and operating costs may make
+renewable energy cost-competitive on a life-cycle basis, higher initial capital costs
+can mean that renewable energy provides less installed capacity per initial dollar
+invested than conventional energy sources. Thus, renewable energy investments
+generally require higher amounts of financing for the same capacity. Depending on
+the circumstances, capital markets may demand a premium in lending rates for
+financing renewable energy projects because more capital is being risked up front
+than in conventional energy projects. Renewable energy technologies may also face
+high taxes and import duties. These duties may exacerbate the high first-cost
+considerations relative to other technologies and fuels.
+Difficulty of fuel price risk assessment. Risks associated with fluctuations in future
+fossil-fuel prices may not be quantitatively considered in decisions about new power
+generation capacity because these risks are inherently difficult to assess. Historically,
+future fuel price risk has not been considered an important factor because future
+fossil fuel prices have been assumed to be relatively stable or moderately increasing.
+Thus, risks of severe fluctuations are often ignored. However, with greater
+geopolitical uncertainties and energy market deregulation has come new awareness
+about future fuel price risks. Renewable energy technologies avoid fuel costs (with
+the exception of biomass) and so avoid fuel price risk. However, this benefit, or “riskreduction premium,” is often missing from economic comparisons and analytical tools
+because it is difficult to quantify. Further, for some regulated utilities, fuel costs are
+factored into regulated power rates, so that consumers rather than utilities bear the
+burden of fuel price risks, and utility investment decisions are made without
+considering fuel price risk.
+Unfavorable power pricing rules. Renewable energy sources feeding into an electric
+power grid may not receive full credit for the value of their power. Two factors are at
+work. First, renewable energy generated on distribution networks near final
+consumers rather than at centralized generation facilities may not require
+transmission and distribution (i.e., would displace power coming from a transmission
+line into a node of a distribution network). But utilities may only pay wholesale rates
+for the power, as if the generation was located far from final consumers and required
+transmission and distribution. Thus, the “locational” value of the power is not
+captured by the producer. Second, renewable energy is often an 5 “intermittent”
+source whose output level depends on the resource (i.e., wind and sun) and cannot
+be entirely controlled. Utilities cannot count on the power at any given time and may
+lower prices for it. Lower prices take two common forms: (i) a zero price for the
+“capacity value” of the generation (utility only pays for the “energy value”); (ii) an
+average price paid at peak times (when power is more valuable) which is lower than
+the value of the power to the utility—even though the renewable energy output may
+directly correspond with peak demand times and thus should be valued at peak
+prices.
+Transaction costs. Renewable energy projects are typically smaller than conventional
+energy projects. Projects may require additional information not readily available, or
+may require additional time or attention to financing or permitting because of
+unfamiliarity with the technologies or uncertainties over performance. For these
+reasons, the transaction costs of renewable energy projects—including resource
+assessment, siting, permitting, planning, developing project proposals, assembling
+financing packages, and negotiating power-purchase contracts with utilities—may be
+much larger on a per-kilowatt (kW) capacity basis than for conventional power plants.
+Higher transaction costs are not necessarily an economic distortion in the same way
+as some other barriers, but simply make renewables more expensive. However, in
+practice some transaction costs may be unnecessarily high, for example, overly
+burdensome utility interconnection requirements and high utility fees for engineering
+reviews and inspection.
+Environmental externalities. The environmental impacts of fossil fuels often result in
+real costs to society, in terms of human health (i.e., loss of work days, health care
+costs), infrastructure decay (i.e., from acid rain), declines in forests and fisheries, and
+perhaps ultimately, the costs associated with climate change. Dollar costs of
+environmental externalities are difficult to evaluate and depend on assumptions that
+can be subject to wide interpretation and discretion. Although environmental impacts
+and associated dollar costs are often included in economic comparisons between
+renewable and conventional energy, investors rarely include such environmental
+costs in the bottom line used to make decisions.
+Legal and Regulatory
+1. Lack of legal framework for independent power producers. In many countries,
+power utilities still control a monopoly on electricity production and distribution. In
+these circumstances, in the absence of a legal framework, independent power
+producers may not be able to invest in renewable energy facilities and sell power to
+the utility or to third parties under so-called “power purchase agreements.” Or utilities
+may negotiate power purchase agreements on an individual ad-hoc basis, making it
+difficult for project developers to plan and finance projects on the basis of known and
+consistent rules.
+2. Restrictions on siting and construction. Wind turbines, rooftop solar hot-water
+heaters, photovoltaic installations, and biomass combustion facilities may all face
+building restrictions based upon height, aesthetics, noise, or safety, particularly in
+urban areas. Wind turbines have faced specific environmental concerns related to
+siting along migratory bird paths and coastal areas. Urban planning departments or
+building inspectors may be unfamiliar with renewable energy technologies and may
+not have established procedures for dealing with siting and permitting. Competition
+for land use with agricultural, recreational, scenic, or development interests can also
+occur.
+3. Transmission access. Utilities may not allow favorable transmission access to
+renewable energy producers, or may charge high prices for transmission access.
+Transmission access is necessary because some renewable energy resources like
+windy sites and biomass fuels may be located far from population centers.
+Transmission or distribution access is also necessary for direct third-party sales
+between the renewable energy producer and a final consumer. New transmission
+access to remote renewable energy sites may be blocked by transmission-access
+rulings or right-of-way disputes.
+4. Utility interconnection requirements. Individual home or commercial systems
+connected to utility grids can face burdensome, inconsistent, or unclear utility
+interconnection requirements. Lack of uniform requirements can add to transaction
+costs. Safety and power-quality risk from non-utility generation is a legitimate
+concern of utilities, but a utility may tend to set interconnection requirements that go
+beyond what is necessary or practical for small producers, in the absence of any
+incentive to set more reasonable but still technically sound requirements. In turn, the
+transaction costs of hiring legal and technical experts to understand and comply with
+interconnection requirements may be significant. Policies that create sound and
+uniform interconnection standards can reduce interconnection hurdles and costs.
+5. Liability insurance requirements. Small power generators (particularly home PV
+systems feeding into the utility grid under “net metering” provisions) may face
+excessive requirements for liability insurance. The phenomenon of “islanding,” which
+occurs when a self-generator continues to feed power into the grid when power flow
+from the central utility source has been interrupted, can result in serious injury or
+death to utility repair crews. Although proper equipment standards can prevent
+islanding, liability is still an issue. Several U.S. states have prohibited utilities from
+requiring additional insurance beyond normal homeowner liability coverage as part of
+net metering statutes.
+Market Performance Lack of access to credit. Consumers or project developers may
+lack access to credit to purchase or invest in renewable energy because of lack of
+collateral, poor creditworthiness, or distorted capital markets. In rural areas,
+“microcredit” lending for household-scale renewable energy systems may not exist.
+Available loan terms may be too short relative to the equipment or investment lifetime.
+In some countries, power project developers have difficulty obtaining bank financing
+because of uncertainty as to whether utilities will continue to honor long-term power
+purchase agreements to buy the power.
+Perceived technology performance uncertainty and risk. Proven, cost-effective
+technologies may still be perceived as risky if there is little experience with them in a
+new application or region. The lack of visible installations and familiarity with
+renewable energy technologies can lead to perceptions of greater technical risk than
+for conventional energy sources. These perceptions may increase required rates of
+return, result in less capital availability, or place more stringent requirements on
+technology selection and resource assessment. “Lack of utility acceptance” is a
+phrase used to describe the historical biases and prejudices on the part of traditional
+electric power utilities. Utilities may be hesitant to develop, acquire, and maintain
+unfamiliar technologies, or give them proper attention in planning frameworks. Finally,
+prejudice may exist because of poor past performance that is out of step with current
+performance norms.
+Lack of technical or commercial skills and information. Markets function best when
+everyone has low-cost access to good information and the requisite skills. But in
+specific markets, skilled personnel who can install, operate, and maintain renewable
+energy technologies may not exist in large numbers. Project developers may lack
+sufficient technical, financial, and business development skills. Consumers,
+managers, engineers, architects, lenders, or planners may lack information about
+renewable energy technology characteristics, economic and financial costs and
+benefits, geographical resources, operating experience, maintenance requirements,
+sources of finance, and installation services. The lack of skills and information may
+increase perceived uncertainties and block decisions.
+RENEWABLE ENERGY PROMOTION POLICIES Policies whose specific goal is to
+promote renewable energy fall into three main categories: (a) pricesetting and
+quantity-forcing policies, which mandate prices or quantities; (b) investment cost
+reduction policies, which provide incentives in the form of lower investment costs;
+and (c) public investments and market facilitation activities, which offer a wide range
+of public policies that reduce market barriers and facilitate or accelerate renewable
+energy markets. Historically, governments have enacted these policies in a rather adhoc manner. More recently, national renewable energy targets (also referred to as
+goals) have emerged as a political context for promoting specific combinations of
+policies from all three categories. Such targets focus on the aggregate energy
+production of an entire country or group of countries. Targets may specify total
+primary energy from renewables and/or minimum renewable energy shares of
+electricity generation. Several countries have adopted or are proposing national
+renewable energy targets. The European Union collectively has adopted a target of
+22% of total electricity generation from renewables by 2010, with individual member
+states having individual targets above or below that amount. Japan has adopted a
+target of 3% of total primary energy by 2010. Recent legislative proposals in the
+United States would require 10% of electricity generation from renewables by 2020.
+China and India are the first developing countries to propose renewable energy
+targets. India has proposed that by 2012, 10% of annual additions to power
+generation would be from renewable energy; China has a similar goal of 5% by 2010.
+Other countries with existing or proposed targets are Australia, Brazil, Malaysia, and
+Thailand. In addition, countries from around the world placed increased attention on
+renewable energy targets at the U.N. World Summit for Sustainable Development in
+2002.
+Price-Setting and Quantity-Forcing Policies Price-setting policies reduce cost- and
+pricing-related barriers by establishing favorable pricing regimes for renewable
+energy relative to other sources of power generation. The quantity of investment
+obtained under such regimes is unspecified, but prices are known in advance.
+Quantity-forcing policies do the opposite; they mandate a certain percentage or
+absolute quantity of generation to be supplied from renewable energy, at unspecified
+prices. Often price-setting or quantity-forcing policies occur in parallel with other
+policies, such as investment cost reduction policies. The two main price-setting
+policies seen to-date are the PURPA legislation in the United States and “electricity
+feed-in laws” in Europe. The two main quantity-forcing policies seen to-date are
+competitively-bid renewable-resource obligations and renewable portfolio standards.
+U. S. Public Utility Regulatory Policies Act (PURPA). PURPA was enacted in 1978 in
+part to encourage electric power production by small power producers using
+renewable resources to reduce U.S. dependence on foreign oil. The policy required
+utilities to purchase power from small renewable generators and cogenerators,
+known as “qualifying facilities,” through long-term (10-year) contracts at prices
+approximating the “avoided costs” of the utilities. These avoided costs represented
+the marginal costs to the utilities of building new generation facilities, which could be
+avoided by purchasing power from the qualifying facilities instead. Avoided cost
+calculations typically assumed an aggressive schedule of escalating future energy
+prices, making contract prices to qualifying facilities quite attractive. For example,
+“standard offer” contracts under PURPA in California in the 1980’s set the avoided
+cost of generation in the range 6-10 cents/kWh—very favorable rates which initially
+spurred many investments by renewable energy producers. However, by the 1990s
+energy prices had not risen as originally expected and a large number of natural-gas
+fired independent generation came on-line in California. 8 Power surpluses emerged,
+wholesale power prices declined, and declining standard offer rates led to reduced
+competitiveness of renewable energy and a significant slowdown in construction of
+new capacity
+Electricity Feed-in Laws. The electricity feed-in laws in Germany, and similar policies
+in other European countries in the 1990s, set a fixed price for utility purchases of
+renewable energy. For example, in Germany starting in 1991, renewable energy
+producers could sell their power to utilities at 90% of the retail market price. The
+utilities were obligated to purchase the power. The German feed-in law led to a rapid
+increase in installed capacity and development of commercial renewable energy
+markets. Wind power purchase prices were highly favorable, amounting to about DM
+0.17/kWh (US 10 cents/kWh), and applied over the entire life of the plant. Total wind
+power installed went from near zero in the early 1990s to over 8500 MW by 2001,
+making Germany the global leader in renewable energy investment. Partly because
+retail electricity prices declined with increasing competition due to electricity
+deregulation, which made producers and financiers wary of new investments, a new
+German Renewable Energy Law of 2000 changed electricity feed-in pricing. Pricing
+became based on fixed norms unique to each technology, which in turn were based
+upon estimates of power production costs and expectations of declines in those costs
+over time. For example, wind power prices remained at the previous level of DM
+0.17/kWh for plants commissioned in 2001, but only for the first five years of
+operation, after which prices paid declined. Solar PV prices were set initially at DM
+0.99/kWh. All prices had build-in declines over time (i.e., 1.5% annual decreases in
+starting tariffs paid for wind power plants commissioned in subsequent years). This
+provision addressed one of the historical criticisms of feed-in approaches, which was
+that they did not encourage technology cost reductions or innovation. The new law’s
+provisions for regular adjustments to prices addressed technological and market
+developments. The law also distributed the costs of the policy (i.e., the additional
+costs of wind power over conventional power) among all utility customers in the
+country. This issue of burden sharing had become a significant political issue in
+Germany by 2000 because the old law placed a disproportionate burden on utility
+customers in specific regions where wind power development was heaviest. Other
+countries in Europe with renewable electricity feed-in laws include Denmark, France,
+Greece, Italy, Portugal, Spain, and Sweden. A combination of feed-in tariffs,
+production subsidies of DK 0.10/kWh, and a strong domestic market helped the
+Danish wind industry maintain a 50% market share of global wind turbine production
+for a number of years.
+Competitively-bid renewable-resource obligations. The United Kingdom tried
+competitive bidding for renewable-energy-resource obligations during the 1990s
+under its “Non-Fossil-Fuel Obligation” (NFFO) policy. Under the NFFO, power
+producers bid on providing a fixed quantity of renewable power, with the lowest-price
+bidder winning the contact. With each successive bidding round (there were four
+total), bidders reduced prices relative to the last round. For example, wind power
+contract prices declined from 10 p/kWh in 1990 under NFFO-1, to 4.5 p/kWh in 1997
+under NFFO-4. One of the lessons some have drawn from the UK experience is that
+competitively determined subsidies can lead to rapidly declining prices for renewable
+energy. However, there has also been criticism that the NFFO process encouraged
+competing projects to bid below cost in order to capture contracts, with the result that
+successful bidders were unable to meet the terms of the bid or ended up insolvent.
+This criticism proved valid in practice; contracts awarded to low-bidders did not
+always translate into projects on the ground. The UK abandoned the NFFO approach
+after the fourth round of bidding in 1997. Other countries with similar competitivelybid renewable resource mechanisms have included Ireland (under the “AER”
+program), France (under the “EOLE” program), and Australia (under the “RECP”
+program).
+Renewable energy portfolio standards (RPS). An RPS requires that a minimum
+percentage of generation sold or capacity installed be provided by renewable energy.
+Obligated utilities are required to ensure that the target is met, either through their
+own generation, power purchases from other producers, 9 or direct sales from thirdparties to the utility’s customers. Typically, RPS obligations are placed on the final
+retailers of power, who must purchase either a portion of renewable power or the
+equivalent amount of green certificates (see next section). Two types of standards
+have emerged: capacity-based standards set a fixed amount of capacity by a given
+date, while generation-based standards mandate a given percentage of electricity
+generation that must come from renewable energy. In the United States, many RPS
+policies have occurred as part of utility restructuring legislation. These are typically
+generation-based standards with phased implementation to allow utilities to reach
+incrementally increasing targets over a number of years. At least twelve U.S. states
+have enacted an RPS, ranging from 1% to 30% of electricity generation. However,
+the amount of new and additional generation expected from these standards varies
+widely depending on existing renewable energy capacity. For example, Maine
+historically generates over 40% of its power from renewable resources, so its 30%
+standard is unlikely to result in any new renewable generation. In contrast,
+California’s requirement to increase renewable sales from 10.5% in 2001 to 20% by
+2017 will likely result in a significant amount of new in-state renewable energy
+generation. Texas implemented an RPS in 2000 requiring 2000 MW of new
+renewable capacity by 2008. Partly due to federal production tax credits, Texas has
+been substantially ahead of schedule, with half of the targeted capacity in place by
+2002. In Europe, the Netherlands has been a leader among RPS initiatives. Dutch
+utilities have adopted an RPS voluntarily, based on targets of 5% of electricity
+generation by 2010, increasing to 17% by 2020. Other countries with regulatory
+requirements for utilities or electricity retailers to purchase a percentage of renewable
+power include Australia, Brazil, Belgium, Denmark, France, Japan, Spain, Sweden,
+and the United Kingdom. The UK's `Renewables Obligation' on suppliers will rise in
+annual steps from 3% in 2003 to 10% in 2010. In Denmark, legislation obliges end
+users to purchase 20% of their electricity from renewable sources by 2003. In Brazil,
+a policy enacted during the electricity crisis of 2001 requires national utilities to
+purchase over 3000 MW of renewable energy capacity by 2016. Purchase prices are
+set by the government at 80 percent of the national average electricity retail price.
+Thus, in contrast to most national policies elsewhere, Brazil’s policy is effectively both
+“price-setting” and “quantity-forcing.”
+Renewable Energy (Green) Certificates. Renewable energy (green) certificates are
+emerging as a way for utilities and customers to trade renewable energy production
+and/or consumption credits in order to meet obligations under RPS and similar
+policies. Standardized certificates provide evidence of renewable energy production,
+and are coupled with institutions and rules for trading that separate renewable
+attributes from the associated physical energy. This enables a “paper” market for
+renewable energy to be created independent of actual electricity sales and flows.
+Green certificate markets are emerging in several countries, allowing producers or
+purchasers of renewable energy who earn green certificates to sell those certificates
+to those who need to meet obligations but haven’t generated or purchased the
+renewable power themselves. Those without obligations, but wishing to voluntarily
+support green power for philosophical or public-relations reasons may also purchase
+certificates. Public and private institutions are emerging that keep track of renewable
+energy generation, assign certificates to generators, and register trades and sales of
+certificates. Green certificate trading is gaining ground in the UK, Belgium, Denmark,
+Australia, and the United States. Europe embarked upon a “test phase” of an EUwide renewable energy certificate trading system during 2001 and 2002; more than
+40 companies in 7 countries had opened trading accounts, with a further 100
+companies intending to join the test phase in late 2002. Certificates for over 1,000
+GWh were issued through 2002. 10 B. Cost Reduction Policies A number of policies
+are designed to provide incentives for voluntary investments in renewable energy by
+reducing the costs of such investments. These policies can be characterized as
+falling in five broad categories: policies that
+Reduce capital costs up front (via subsidies and rebates)
+Reduce capital costs after purchase (via tax relief)
+Offset costs through a stream of payments based on power production (via
+production tax credits)
+Provide concessionary loans and other financial assistance
+Reduce capital and installation costs through economies of bulk procurement.
+Subsidies and Rebates. Reduction in the initial capital outlay by consumers for
+renewable energy systems is accomplished through direct subsidies, or rebates.
+These subsidies are used to “buy down” the initial capital cost of the system, so that
+the consumer sees a lower price. In the United States, at least nineteen states offer
+rebate programs at the state, local, and/or utility level to promote the installation of
+renewable energy equipment. The majority of the programs are available from state
+agencies and municipally-owned utilities and support solar water heating and/or
+photovoltaic systems, though some include geothermal heat pumps, small wind
+generators, passive solar, biomass, and fuel cells. Homes and businesses are
+usually eligible, although some programs target industry and public institutions as
+well. In some cases, rebate programs are combined with low or no-interest loans.
+Sustained efforts to increase the use of renewables have been made via coordinated,
+multi-year, multipolicy initiatives. For example, Japan, Germany, and the United
+States subsidize capital costs of solar PV as part of their “market transformation”
+programs. • Japan's Sunshine Program provides capital subsidies and net metering
+for rooftop PV systems. From 1994 to 2000, the government invested 86 billion yen
+($725 million USD), resulting in 58,000 system installations and over 220 MW of PV
+capacity. Subsidies began at 900,000 yen/peak-kW (US$5/peak-watt) in 1994, and
+were gradually reduced to 120,000 yen/peak-kW (US$1/peak-watt) in 2001 as PV
+prices fell. • Germany began a “1000 solar roofs” program in 1991 that offered
+subsidies for individual household purchases of solar PV of up to 60% of capital
+system costs. The program was expanded in 1999 to 100,000 roofs over five years,
+providing 10-year low-interest loans to households and businesses. As a result of
+favorable feed-in tariffs and low-interest loans, the program was expected to provide
+300 peak-MW of PV capacity. • The United States launched a “million solar roofs”
+initiative in 1997 to install solar PV systems and solar thermal systems on one million
+buildings by 2010. The program includes long-term low-interest customer financing,
+government procurement for federal buildings, commercialization programs, and
+production incentives. Individual states also have capital subsidy programs for PV,
+with the California Energy Commission offering rebates of up to $4.50/peak-watt or
+50 percent off the system purchase price, New York and New Jersey offering up to
+$5/peak-watt subsidies, and New York rebating as much as 70% of the cost of
+eligible equipment as of 2002. Subsidy programs also exist for wind power, such as
+Denmark’s DK 0.10/kWh (US 1.5 cents/kWh) production subsidy paid to utilities.
+Among developing countries, Thailand provided subsidies for small renewable
+energy power producers starting in 2000, soliciting bids for 300 MW of small
+renewable power, and providing production subsidies above standard power
+purchase rates for at least the first five years of operation of each facility.
+Tax Relief. Tax relief policies to promote renewable energy have been employed in
+the United States, Europe, Japan, and India. Tax relief has been especially popular
+in the United States, where a host of 11 federal and state tax policies address energy
+production, property investments, accelerated depreciation, and renewable fuels.
+State policies vary widely in scope and implementation. At least 17 states have
+personal tax incentives, 21 states have corporate tax incentives, 16 states have sales
+tax incentives, and 24 states have property tax incentives. a. Investment Tax Credits.
+Investment tax credits for renewable energy have been offered for businesses and
+residences. In the United States, businesses receive a 10 percent tax credit for
+purchases of solar and geothermal renewable energy property, subject to certain
+limitations. Some U.S. states have investment tax credits of up to 35%. b.
+Accelerated Depreciation. Accelerated depreciation allows renewable energy
+investors to receive the tax benefits sooner than under standard depreciation rules.
+The effect of accelerated depreciation is similar to that of investment tax credits. In
+the United States, businesses can recover investments in solar, wind, and
+geothermal property by depreciating them over a period of five years, rather than the
+15- to 20-year depreciation lives of conventional power investments. India’s
+accelerated depreciation policy allowed 100% depreciation in the first year of
+operation, helping spur the largest wind power industry among developing countries.
+However, this policy led to large investments without sufficient regard to long-term
+operating performance and maintenance, resulting in capacity factors lower than for
+wind power installations elsewhere. This led many to conclude that production-based
+incentives are preferable to investment tax credits and accelerated depreciation,
+although Germany’s investment tax credits accompanied by wind turbine technical
+standards and certification requirements avoided the problems found in India. c.
+Production Tax Credits. A production tax credit provides the investor or owner of
+qualifying property with an annual tax credit based on the amount of electricity
+generated by that facility. By rewarding production, these tax credits encourage
+improved operating performance. A production tax credit in Denmark provides DK
+0.10/kWh (US 1.5 cents/kWh) for wind power, but few other countries have adopted
+similar credits. In the United States the Renewable Electricity Production Credit (PTC)
+provides a per-kWh tax credit for electricity generated by qualified wind, closed-loop
+biomass, or poultry waste resources. Federal tax credits of 1.5 cents/kWh (adjusted
+annually for inflation) are provided for the first ten years of operation for all qualifying
+plants that entered service from 1992 through mid-1999, later extended to 2001 and
+then to 2003. At least five U.S. states have state or local production incentives for
+distributed electrical generation, renewable fuels, or both. These policies are similar
+to the federal PTC, with specific limits on technologies, dates-in-service, and
+maximum payout per provider and per year. Funds to support the incentives are
+obtained from a mixture of sources, including general funds, public benefit or
+environmental funds, and green electricity sales (so-called “green tags”). d. Property
+Tax Incentives. At least 24 U.S. states have property tax incentives for renewable
+energy. These incentives are implemented on many scales--state, county, city, town,
+and municipality. These are generally implemented in one of three ways:
+Renewable energy property is partially or fully excluded from property tax
+assessment, renewable energy property value is capped at the value of an
+equivalent conventional energy system providing the same service
+Tax credits are awarded to offset property taxes. e. Personal Income Tax Incentives.
+Credits against personal state income taxes are available in many U.S. states for
+purchase of and/or conversion to eligible renewable energy systems and renewable
+fuels. In some cases, taxpayers can deduct the interest paid on loans for renewable
+energy equipment.ions for eligible renewable energy systems and renewable fuels.
+Most exempt 100% of the sales tax for capital expenses, and provide specific centsper-gallon exemptions for renewable fuels. Some policies specify maximum or
+minimum sizes for eligible systems. g. Pollution Tax Exemptions. The Netherlands is
+an example where “green” power is exempt from a new and rising fossil-fuel tax on
+electricity generation that is paid by end-users. Starting in 2001, that fossil-fuel tax
+rose to the equivalent of US 5 cents/kWh, providing a large tax incentive for Dutch
+consumers. h. Other Tax Policies. A variety of other tax policies exist, such as
+income tax exemptions on income from renewable power production, excise duty and
+sales tax exemptions on equipment purchased, and reduced or zero import tax duties
+on assembled renewable energy equipment or on components. India, for example,
+has allowed five-year tax exemptions on income from sales of wind power.
+Grants. Many countries have offered grants for renewable energy purchases. For
+example, beginning in 1979, Denmark provided rebates of up to 30% of capital costs
+for wind and other renewable energy technologies. These rebates declined over time.
+In the United States, county and state governments and utilities provide grants for
+renewable energy ranging in size from hundreds to millions of dollars.
+Loans. Loan programs offer financing for the purchase of renewable energy
+equipment. Loans can be market-rate, low-interest (below market rate), or forgivable. 

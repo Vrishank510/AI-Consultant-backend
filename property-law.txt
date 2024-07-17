@@ -1,0 +1,3709 @@
+MUMBAI SILICON VALLEY BANGALORE SINGAPORE MUMBAI-BKC NEW DELHI MUNICH
+© Copyright 2015 Nishith Desai Associates www.nishithdesai.com
+Intellectual Property
+Law in India
+July 2015
+Legal, Regulatory & Tax
+© Nishith Desai Associates 2015
+Intellectual Property Law in India
+Legal, Regulatory & Tax
+About NDA
+Nishith Desai Associates (NDA) is a research based international law firm with offices in Mumbai, Bangalore,
+Silicon Valley, Singapore, New Delhi, Munich. We specialize in strategic legal, regulatory and tax advice coupled
+with industry expertise in an integrated manner. We focus on niche areas in which we provide significant value
+and are invariably involved in select highly complex, innovative transactions. Our key clients include marquee
+repeat Fortune 500 clientele.
+Core practice areas include International Tax, International Tax Litigation, Litigation & Dispute Resolution,
+Fund Formation, Fund Investments, Capital Markets, Employment and HR, Intellectual Property, Corporate
+& Securities Law, Competition Law, Mergers & Acquisitions, JVs & Restructuring, General Commercial Law
+and Succession and Estate Planning. Our specialized industry niches include financial services, IT and telecom,
+pharma and life sciences, education, media and entertainment, real estate and infrastructure.
+Nishith Desai Associates has been ranked as the Most Innovative Indian Law Firm (2014) and the Second Most
+Innovative Asia - Pacific Law Firm (2014) at the Innovative Lawyers Asia-Pacific Awards by the Financial Times
+- RSG Consulting. IFLR1000 has ranked Nishith Desai Associates in Tier 1 for Private Equity (2014). Chambers
+and Partners has ranked us as # 1 for Tax and Technology-Media-Telecom (2014). Legal 500 has ranked us in tier
+1 for Investment Funds, Tax and Technology-Media-Telecom (TMT) practices (2011/2012/2013/2014). IBLJ (India
+Business Law Journal) has awarded Nishith Desai Associates for Private equity & venture capital, Structured
+finance & securitization, TMT and Taxation in 2014. IDEX Legal has recognized Nishith Desai as the Managing
+Partner of the Year (2014). Legal Era, a prestigious Legal Media Group has recognized Nishith Desai Associates
+as the Best Tax Law Firm of the Year (2013). Chambers & Partners has ranked us as # 1 for Tax, TMT and Private
+Equity (2013). For the third consecutive year, International Financial Law Review (a Euromoney publication) has
+recognized us as the Indian “Firm of the Year” (2012) for our Technology - Media - Telecom (TMT) practice. We
+have been named an ASIAN-MENA COUNSEL ‘IN-HOUSE COMMUNITY FIRM OF THE YEAR’ in India for Life
+Sciences practice (2012) and also for International Arbitration (2011). We have received honorable mentions in
+Asian MENA Counsel Magazine for Alternative Investment Funds, Antitrust/Competition, Corporate and M&A,
+TMT and being Most Responsive Domestic Firm (2012). We have been ranked as the best performing Indian
+law firm of the year by the RSG India Consulting in its client satisfaction report (2011). Chambers & Partners has
+ranked us # 1 for Tax, TMT and Real Estate – FDI (2011). We’ve received honorable mentions in Asian MENA
+Counsel Magazine for Alternative Investment Funds, International Arbitration, Real Estate and Taxation for the
+year 2010. We have been adjudged the winner of the Indian Law Firm of the Year 2010 for TMT by IFLR. We have
+won the prestigious “Asian-Counsel’s Socially Responsible Deals of the Year 2009” by Pacific Business Press, in
+addition to being Asian-Counsel Firm of the Year 2009 for the practice areas of Private Equity and Taxation in
+India. Indian Business Law Journal listed our Tax, PE & VC and Technology-Media-Telecom (TMT) practices in
+the India Law Firm Awards 2009. Legal 500 (Asia-Pacific) has also ranked us #1 in these practices for 2009-2010.
+We have been ranked the highest for ‘Quality’ in the Financial Times – RSG Consulting ranking of Indian law
+firms in 2009. The Tax Directors Handbook, 2009 lauded us for our constant and innovative out-of-the-box ideas.
+Other past recognitions include being named the Indian Law Firm of the Year 2000 and Asian Law Firm of the
+Year (Pro Bono) 2001 by the International Financial Law Review, a Euromoney publication. In an Asia survey
+by International Tax Review (September 2003), we were voted as a top-ranking law firm and recognized for our
+cross-border structuring work.
+Our research oriented approach has also led to the team members being recognized and felicitated for thought
+leadership. Consecutively for the fifth year in 2010, NDAites have won the global competition for dissertations
+at the International Bar Association. Nishith Desai, Founder of Nishith Desai Associates, has been voted ‘External
+Counsel of the Year 2009’ by Asian Counsel and Pacific Business Press and the ‘Most in Demand Practitioners’ by
+Chambers Asia 2009. He has also been ranked No. 28 in a global Top 50 “Gold List” by Tax Business, a UK-based
+journal for the international tax community. He is listed in the Lex Witness ‘Hall of fame: Top 50’ individuals
+who have helped shape the legal landscape of modern India. He is also the recipient of Prof. Yunus ‘Social
+Business Pioneer of India’ – 2010 award.
+We believe strongly in constant knowledge expansion and have developed dynamic Knowledge Management
+(‘KM’) and Continuing Education (‘CE’) programs, conducted both in-house and for select invitees. KM and
+CE programs cover key events, global and national trends as they unfold and examine case studies, debate and
+© Nishith Desai Associates 2015
+Provided upon request only
+Disclaimer
+Contact
+This paper is a copyright of Nishith Desai Associates. No reader should act on the basis of any statement
+contained herein without seeking professional advice. The authors and the firm expressly disclaim all and any
+liability to any person who has read this paper, or otherwise, in respect of anything, and of consequences of
+anything done, or omitted to be done by any such person in reliance upon the contents of this paper.
+For any help or assistance please email us on ndaconnect@nishithdesai.com or
+visit us at www.nishithdesai.com
+Please see the last page of this paper for the most recent research papers by our experts.
+analyze emerging legal, regulatory and tax issues, serving as an effective forum for cross pollination of ideas.
+Our trust-based, non-hierarchical, democratically managed organization that leverages research and knowledge
+to deliver premium services, high value, and a unique employer proposition has now been developed into
+a global case study and published by John Wiley & Sons, USA in a feature titled ‘Management by Trust in a
+Democratic Enterprise: A Law Firm Shapes Organizational Behavior to Create Competitive Advantage’ in the
+September 2009 issue of Global Business and Organizational Excellence (GBOE).
+© Nishith Desai Associates 2015
+Intellectual Property Law in India
+Legal, Regulatory & Tax
+1.INTRODUCTION 01
+2.LEGISLATION 02
+3.TRADEMARKS 03
+4.DOMAIN NAMES 10
+5.COPYRIGHTS 11
+6.PATENTS 17
+7.DESIGNS 30
+8.GEOGRAPHICAL INDICATIONS OF GOODS (REGISTRATION AND PROTECTION) ACT, 1999 32
+9.SEMICONDUCTOR INTEGRATED CIRCUITS LAYOUT DESIGN ACT, 2000 34
+10.THE PROTECTION OF PLANT AND VARIETIES AND FARMERS RIGHTS ACT, 2001 36
+11.THE BIOLOGICAL DIVERSITY ACT, 2002 38
+12.CONFIDENTIAL INFORMATION & TRADE SECRETS 39
+13.INTERNATIONAL CONVENTIONS 41
+14.SPECIAL TRIBUNALS 42
+15.TAX REGIME IN INDIA 43
+16.ENFORCEMENT 46
+17.MEASURES TO CHECK IMPORT OF INFRINGING GOODS 48
+CONCLUSION 50
+Content
+© Nishith Desai Associates 2015
+Intellectual Property Law in India
+1
+Legal, Regulatory & Tax
+1. Introduction
+With the advent of the knowledge and information
+technology era, intellectual capital has gained
+substantial importance. Consequently, Intellectual
+Property (“IP”) and rights attached thereto have
+become precious commodities and are being fiercely
+protected. In recent years, especially during the
+last decade, the world has witnessed an increasing
+number of cross-border transactions. Companies are
+carrying on business in several countries and selling
+their goods and services to entities in multiple
+locations across the world. Since intellectual
+property rights (“IPRs”) are country-specific, it is
+imperative, in a global economy, to ascertain and
+analyze the nature of protection afforded to IPRs
+in each jurisdiction. This paper analyzes and deals
+with the IP law regime in India and the protections
+provided thereunder.
+There are well-established statutory, administrative,
+and judicial frameworks for safeguarding IPRs in
+India. It becomes pertinent to mention here that
+India has complied with its obligations under the
+Agreement on Trade Related Intellectual Property
+Rights (“TRIPS”) by enacting the necessary statutes
+and amending the existing statues. Well-known
+international trademarks have been afforded
+protection in India in the past by the Indian courts
+despite the fact that these trade marks were not
+registered in India. Computer databases and software
+programs have been protected under the copyright
+laws in India and pursuant to this; software
+companies have successfully curtailed piracy
+through judicial intervention. Although trade secrets
+and know-how are not protected by any specific
+statutory law in India, they are protected under
+the common law. The courts, under the doctrine of
+breach of confidentiality, have granted protection to
+trade secrets.
+© Nishith Desai Associates 2015
+Provided upon request only
+2
+2. Legislation
+The Trade and Merchandise Marks Act, 1958
+(“TM Act, 1958”) has been replaced by the Trade
+Marks Act, 1999, The Copyright Act, 1957 has been
+amended to protect computer programs as “literary
+work”; The Patent Act, 1970 has been amended by
+the Amendment Acts of 1999 and 2002 and 2005. The
+Designs Act of 1911 has been completely replaced by
+the Designs Act of 2000.
+The following laws have been enacted to protect
+newly recognized species of intellectual property in
+India:
+￭ The Geographical Indications of Goods
+(Registration and protection) Act, 1999;
+￭ The Semiconductor Integrated Circuits LayoutDesign Act, 2000;
+￭ The Protection of Plants & Varieties and Farmers
+Rights Act, 2001; and
+￭ The Biological Diversity Act, 2002
+These acts, and particularly the impact of recent
+amendments to the acts, are discussed in greater
+detail in the ensuing sections.
+© Nishith Desai Associates 2015
+Intellectual Property Law in India
+3
+Legal, Regulatory & Tax
+3. Trademarks
+In India, trademarks are protected both under
+statutory law and common law. The Trade and
+Merchandise Marks Act, 1940 (“TM Act, 1940”)
+was the first law in this regard in India, which was
+replaced later by the TM Act, 1958. The Trade Marks
+Act, 1999 (“TM Act”) - which has replaced the TM
+Act, 1958 - came into effect on September 15, 2003
+and is in compliance with the TRIPS obligations.
+The TM Act allows for the registration of service
+marks and three-dimensional marks as well. India
+follows the NICE Classification of goods and services,
+which is incorporated in the Schedule to the Rules
+under the TM Act.1
+ A Trade Marks Registry had been
+established for the purposes of the TM Act, 1940,
+which has continued to function under the TM Act,
+1958 and TM Act. The Trade Marks Registry is under
+the charge of the Registrar of Trademarks. The head
+office of the Trade Marks Registry is in Bombay
+(Mumbai) and its branches are at Calcutta (Kolkata),
+Delhi, Madras (Chennai), and Ahmedabad. The
+territorial jurisdiction of each office has also been
+allocated.
+In addition to trademarks, the following categories of
+marks can also be registered under the TM Act:
+￭ Certification marks are given for compliance
+with defined standards, but are not confined
+to any membership. Such marks are granted
+to anyone who can certify that the products
+involved meet certain established standards.
+The internationally accepted “ISO 9000” quality
+standard is an example of a widely recognized
+certification mark.
+￭ Collective marks can be owned by any
+association. The members of such associations
+will be allowed to use the collective mark to
+identify themselves with a level of quality and
+other requirements and standards set by the
+association. Examples of such associations would
+be those representing accountants, engineers or
+architects.
+I. Unconventional Marks
+India’s Trade Mark Registry has begun to recognize
+“unconventional trademarks” and has extended
+trademark protection to a sound mark. On August
+18, 2008, India’s first “sound mark” was granted to
+Sunnyvale, California-based Internet firm Yahoo
+Inc.’s three-note Yahoo yodel by the Delhi branch of
+the Trademark Registry. It was registered in classes
+35, 38 and 42 for a series of goods including email,
+advertising and business services and managing
+websites.
+Under the TM Act, the term ‘mark’ is defined to
+include ‘a device, brand, heading, label, ticket,
+name, signature, word, letter, numeral, shape of
+goods, packaging or, combination of colors, or any
+combination thereof.’ Thus, the list of instances of
+marks is inclusive and not exhaustive. Any mark
+capable of being ‘graphically represented’ and
+indicative of a trade connection with the proprietor
+is entitled to get registered as a trademark under
+the TM Act. This interpretation opens the scope of
+trademark protection to unconventional trademarks
+like sound marks provided they satisfy the ‘graphical
+representation’ test and are not prohibited under
+Section 9 and 11 of the Act. The only way the mark
+may be described in the application for trademark
+is by way of “graphical representation”. However,
+the TM Act or the rules framed thereunder do not
+contemplate the form of submission of records of the
+unconventional trademarks.
+II. Scope of ‘Graphical
+Representation’
+Trademark Rules define “graphical representation”
+as representation of a trademark for goods or
+services in paper form.2
+ Therefore, sound marks
+can be represented on paper either in descriptive
+form e.g. kukelekuuuuu (registered as Dutch sound
+mark - onomatopoeia which sounds like the call of
+a cock) or as traditional musical notations e.g. D#,
+E etc. Other alternative methods for their visual
+representation have also emerged like depictions by
+oscillogram; spectrum, spectrogram and sonogram
+are now being accepted in other jurisdictions.
+However, such representations must be handled
+carefully in order to meet the requirements of
+trademark offices in India. In the case of Yahoo’s
+Yodel mark, they represented the mark using
+musical notations.
+1. Classes of Goods and Services: Classes 1 to 34 covers goods while classes 35 to 45 cover services.
+2. See Rule 2 (k), The Trademark Rules, 2002.
+© Nishith Desai Associates 2015
+Provided upon request only
+4
+III.Syncing the Indian Law to
+Tide over the Hurdles of
+Registration
+Reducing a sensory mark to a written description
+on paper may not be always possible. A “graphical
+description” of a sound mark should clearly identify
+the exact sound, else the enforcement of the same,
+would lead to practical issues. E.g. the search result
+of the trademark at Trade Mark Registry would
+not be accurate if the mark is not appropriately
+described. Merely musical notes without a listing of
+the note pattern would not provide enough sensory
+information to contemplate the scope of protection
+on the mark. Musical notations alone are neither a
+clear nor precise description of the sound mark and
+gives no information about the pitch and duration
+of the sounds forming the melody. The graphical
+representations should be clear, precise, selfcontained, easily accessible, intelligible, durable and
+objective. A stave divided into bars and showing, in
+particular, a clef, musical notes and rests whose form
+indicates the relative value and, where appropriate,
+accidentals (sharp, flat, natural) - all of these
+determine the pitch and duration of the sounds.
+This may constitute a faithful representation of the
+sequence of sounds forming the melody in respect of
+which registration is sought.3
+With regard to onomatopoeias, there is lack of
+consistency between the onomatopoeia itself, as
+pronounced, and the actual sound or noise which it
+purports to imitate phonetically. Practical difficulties
+are bound to arise when trademark searches will be
+required. For e.g. if the sound mark is a crow’s call
+and is described as kukelekuuuuu, the same may
+be spelt differently or represented with musical
+notations. The procedure may be highly complicated
+as musical notations need to be matched against
+alphabets. To simplify matters, a sample of the sound
+may be submitted with the application. A separate
+database of these sound marks can be created and
+rules for determination of deceptive similarity
+between sound marks should be developed.
+Indian Trade Mark Registry may have enhanced the
+scope of protection under the trademark umbrella,
+but there need to be clear guidelines for description,
+recording and protection that will help define the
+boundaries of protection of unconventional marks.
+IV. Who can Apply?
+Any person claiming to be the proprietor of a
+trademark used or proposed to be used by that
+person can file an application for registration.
+The application may be made in the name of
+the individual, partner of a firm, a company, any
+government department, a trust, or even in name
+of joint applicants. Domestic and international
+applicants are treated at par. An application can also
+be filed on behalf of a company that is about to be
+incorporated or registered under the Companies Act,
+1956.4
+V. Is Prior use Required?
+Prior use of the trademark is not a prerequisite
+for filing application or its registration and an
+application may be made for registration even if
+the intention of the applicants is bona fide use of
+the trademark in the future. In such a case, the
+application can be filed on a “proposed to be used
+basis”. However, in the case of descriptive marks,
+the Trade Marks Registry usually insists upon proof
+of use of the mark and the distinctiveness acquired
+through such use before granting a registration.
+VI. Is a Prior Search Necessary?
+Though a prior search for a conflicting trademark
+is not a prerequisite for filing an application, it is
+advisable to carry out a search and maintain the
+search results. In opposition proceedings or in
+infringement / passing off actions, such search
+reports act as proof of honesty and good faith in the
+adoption of the marks.
+In a move to curb the spread and sale of counterfeit
+drugs, the Drugs Control Department of the National
+Territory of Delhi has made search reports from
+the Registrar of Trade Marks mandatory before
+approving any drug-manufacturing license under a
+particular brand name.
+3. Shield Mark BV v. Joost Kist h.o.d.n. Memex, (1999) RPC 392.
+4. Section 46 of the TM Act.
+Trademarks
+© Nishith Desai Associates 2015
+Intellectual Property Law in India
+5
+Legal, Regulatory & Tax
+This initiative by the Delhi Drugs Authority is
+in pursuance of the Indian Supreme Court’s (SC)
+observations in the case of Cadila Health Care Ltd.
+v. Cadila Pharmaceuticals Ltd. (decided on March
+26, 2001).5
+ If adopted in the other states in India, this
+provision will eliminate the chances of approval
+of a deceptively similar and look-alike brand of the
+existing products.
+VII. What is the Process of
+Registration?
+The application for trademark registration must
+contain a clear reproduction of the sign, including
+any colors, forms, or three-dimensional features.
+These forms need to be filed with the appropriate
+office of the Trade Marks Registry. The sign must
+fulfill certain conditions in order to be protected
+as a trademark – or as another type of mark – and
+must indicate the class of goods / services to which
+it would apply. The TM Act has laid down absolute6
+and relative grounds of refusal7
+ of trademark
+registration. These grounds are akin to the provisions
+of the UK Trademark Act of 1994.
+The process of registration of trademarks under the
+TM Act can be explained utilizing the diagram on
+the following page:
+5. (2001) SCL 534. In paragraph 41 of the judgment, the Supreme Court observed:
+“Keeping in view the provisions of Section 17-B of the Drugs and Cosmetics Act, 1940 which, inter alia, indicates an imitation or resemblance of
+another drug in a manner likely to deceive being regarded as a spurious drug it is but proper that before granting permission to manufacture a drug
+under a brand name the authority under that Act is satisfied that there will be no confusion or deception in the market. The authorities should
+consider requiring such an applicant to submit an official search report from the Trade Mark office pertaining to the trade mark in question which
+will enable the drug authority to arrive at a correct conclusion.”
+6. Section 9 of the TM Act.
+7. Section 11 of the TM Act.
+Mark should be distinctive and should not be in the prohibited category.
+Carry out a search at the Trade Marks Registry, to find out if same or similar marks are
+either registered or pending registration. This is advisable although not compulsory.
+Under the Trade Marks Act, a single application with respect to multiple classes can be
+filed.
+The application is dated and numbered, and a copy is returned to the applicant /
+attorney. Once the mark is registered, this number is deemed to be the Registration
+Number.
+The Trade Marks Registry sends the “Official Examination Report” asking for
+clarificatioans, if any, and also cites identical or deceptively similar marks already
+registered or pending registration. The applicant has to overcome the objections.
+SELECTION OF THE
+MARK
+SEARCH BEFORE
+APPLICATION
+FILING OF THE
+APPLICATION
+NUMBERING OF THE
+APPLICATION
+MEETING THE OFFICIAL
+OBJECTIONS
+The application is thereafter published in the “Trade Marks Journal,” which is a
+Government of India publication, published by the Trade Marks Registry.
+ADVERTISING OF THE
+APPLICATION
+After publication, if the application is not opposed within the specified opposition
+period (four months), then the registration is granted. On the other hand, if it is
+opposed by a third party, the registration is granted only if the matter is decided in
+favor of the applicant.
+ACCEPTANCE OF THE
+APPLICATION
+© Nishith Desai Associates 2015
+Provided upon request only
+6
+8. Rule 38 of the Trade Marks Rules, 2002.
+9. Section 47(1) (a) of the TM Act.
+10. Section 47(1) (b) of the TM Act.
+11. Section 57 of the TM Act.
+12. Sections 37 to 45 of the TM Act deal with the provisions of the assignment and transmission of the trade mark.
+After the objections are successfully met and answers are provided to the queries,
+the Trade Marks Registry issues an official letter intimating their acceptance of the
+application.
+Registration of a trademark normally takes four to five years. However, when the
+registration certificate is issued, it is always effective from the date on which the
+application is filed.
+OPPOSITION
+PROCEEDINGS
+ISSUE OF CERTIFICATE
+OF REGISTRATION
+VIII.Can the Registration Process
+be Expedited?
+After receipt of the official number of an application,
+the applicant may request an expedited examination
+of a registration application, together with a
+declaration stating the reason for the request and
+a payment of five times the application fee. If the
+Registrar of Trademarks is satisfied with the reason,
+the examination of the application is expedited
+and the examination report is issued within three
+months of the date of such request. If such a request
+is rejected after the hearing, the fee paid is refunded.8
+IX.What is the Term of
+Registration?
+The registration is valid for ten years and is
+renewable for a subsequent period of ten years. Nonrenewal leads to a lapse of registration. However,
+there is a procedure whereby a lapsed registration
+can be restored.
+X.How can the Registration of a
+Trademark be Cancelled?
+An application for cancellation or rectification of
+registration of a trademark can only be filed by the
+aggrieved person (e.g. prior users of the mark). Such
+an application must be filed with the Registrar of
+Trade Marks or the Appellate Board.
+XI.Grounds for Cancellation /
+Revocation
+The following are some of the grounds on which
+the registration of a trademark can be removed or
+cancelled:
+￭ The trademark was registered without any bona
+fide intention on the part of the applicant to
+use the trademark and there has been no bona
+fide use of the trademark for the time being up
+to a date three months before the date of the
+application for removal;9
+ or
+￭ That up to a date three months before the date of
+application for removal, a continuous period of
+five years from the date on which the trademark
+is actually entered on the register or longer
+has elapsed during which the trademark was
+registered and during which there was no bona
+fide use thereof;10 or
+￭ The trademark was registered without sufficient
+cause, or the trademark is wrongly remaining on
+the Register.11
+XII. Assignment of Trademarks12
+A registered trademark can be assigned or
+transmitted with or without the goodwill of the
+business concerned, and in respect of either or all
+of the goods or services in respect of which the
+trademark is registered. An unregistered trademark
+can be assigned or transmitted with or without
+the goodwill of the business concerned. However,
+in respect of assignment of trademarks (registered
+or unregistered) without goodwill of the business
+concerned, the prescribed procedure has to be
+Trademarks
+© Nishith Desai Associates 2015
+Intellectual Property Law in India
+7
+Legal, Regulatory & Tax
+followed, which inter alia, includes advertisement
+of the proposed assignment to be published in the
+newspapers. The Registrar of Trade Marks could
+impose certain restrictions and conditions for the
+assignment or transmission of the trademark. To be
+effective, the assignment or transmission must be
+recorded with the Registrar of Trade Marks.
+XIII. License of Trademarks
+The TM Act provides for a registration procedure
+of registered / licensed users of the registered
+trademark. The benefit of use by the registered /
+license user accrues to the benefit of the mark’s
+proprietor.13 The TM Act recognizes non-registered
+licensed use if only such use is with the consent of
+the proprietor as embodied in a written agreement
+and if such user satisfies the prescribed conditions.14
+Owners of Indian registered trademarks, who are
+located abroad, having no presence in India, can use
+their trademarks in India by granting licenses to the
+Indian parties.
+XIV.Rights Conferred by
+Registration15
+The registration of a trademark gives the registered
+proprietor the exclusive right to use the trademark
+in relation to the goods or services for which it
+is registered and to obtain relief with respect to
+infringement of the same. Registration acts as a
+public notice to others, informing them that they
+should not use the trademarks which are registered
+or pending for registration.
+XV. Paris Convention
+Reciprocity for the purpose of claiming priority is
+allowed from the applications originating from the
+Paris Convention countries if filed within 6 months
+from the date of priority.
+XVI. Infringement of Trademark
+Registration of a trademark is a prerequisite for
+initiating an infringement action. The following
+essential conditions must exist for initiation of an
+infringement action:16
+￭ The allegedly infringing mark must be either
+identical or deceptively similar to the registered
+trademark;
+￭ The goods / services in relation to which the
+allegedly infringing mark is used must be
+specifically covered by the registration of the
+registered trademark;
+￭ The use of the allegedly infringing mark must be
+in the course of trade; and
+￭ The use must be in such a manner as to render
+the use likely to be taken as being used as a
+trademark.
+A registered trademark is also infringed by use of a
+mark when because of:
+￭ Its identity with registered trademark and
+similarity with goods / services covered by
+registration; or
+￭ Its similarity with registered trademark and
+identity with goods / services covered by
+registration; or
+￭ Its identity with registered trademark and
+identity with goods / services covered by
+registration
+Is likely to cause confusion on the part of the public
+(in case 3 above, confusion is presumed), or which
+is likely to have an association with the registered
+trademark.17
+If an identical or similar mark is used with respect to
+goods or services which are not similar to those for
+which a registered trademark is registered, such use
+amounts to infringement if a registered trademark
+has reputation in India and the use of the mark
+without due cause takes unfair advantage of or is
+detrimental to the distinctive character or repute of
+the registered trademark.18
+13. Section 48(2) of the TM Act.
+14. Section 2(1) (r) read with Section 48(2) of the TM Act.
+15. Section 28 of the TM Act.
+16. Section 29(1) of the TM Act.
+17. Sections 29(2) and (3) of the TM Act.
+18. Section 29(4) of the TM Act.
+© Nishith Desai Associates 2015
+Provided upon request only
+8
+Under the TM Act, the following acts would also
+amount to an infringement of the RTM:
+￭ Use of the registered trademark as a trade name
+or part of the trade name dealing in same goods
+or services for which the registered trademark is
+registered;19 or
+￭ Use of the trademark in advertising if such
+advertising takes unfair advantage of and is
+contrary to the honest practice in industrial
+or commercial matters, or is detrimental to its
+distinctive character; or against the reputation of
+the trademark.20
+￭ Under the TM Act, even oral use of the mark can
+constitute infringement.21
+XVII.Who can sue for
+Infringement?
+The registered proprietor, his heirs and the registered
+user(s) can sue for infringement. An assignee of a
+registered trademark can also sue for infringement.
+A passing off suit can be converted into a combined
+action of infringement and passing off, if the
+registration of the trademark is obtained before the
+final hearing of the passing off suit.
+XVIII. Passing Off
+The user of an unregistered trademark is barred
+from instituting an infringement action. However,
+if the mark in question has become well known in
+India, the user of such a trademark is not without
+recourse and may seek a remedy by means of a
+passing off action. The purpose of this tort is to
+protect commercial goodwill and to ensure that
+one’s business reputation is not exploited. Since
+business goodwill is an asset and therefore a species
+of property, the law protects it against encroachment
+as such. In a passing off action, the plaintiff must
+establish that the mark, name or get-up - the use of
+which by the defendant is subject of the action - is
+distinctive of his goods in the eyes of the public or
+class of public and that his goods are identified in the
+market by a particular mark or symbol.
+XIX.Recognition of Foreign WellKnown Marks & Trans-border
+Reputation
+The courts in India have recognized the trans-border
+reputation of foreign trademarks and trade names
+and the importance of their protection.
+The ruling of the Supreme Court of India in N.
+R. Dongre and Others v. Whirlpool Corporation
+and Another22 was perhaps the first Indian case to
+recognize the concept of trans-border reputation of
+trademarks. The subject matter of this case was the
+manufacture, sale of washing machines by an Indian
+company using the trademark “Whirlpool” as part
+of the name by which it had recently commenced
+marketing its washing machines. The appellant
+had also advertised the washing machines as
+such. The claim of the respondent, the Whirlpool
+Corporation and its Indian joint venture TVSWhirlpool Limited was based on prior user of the
+mark “Whirlpool” and the fact that the trademark
+had a trans-border reputation. They contended that
+any goods marketed with the mark “Whirlpool” gave
+the impression of being goods manufactured by the
+respondents. The washing machines manufactured,
+sold, and advertised by the appellant gave that
+impression and this resulted in confusion arising
+in the market. The Whirlpool Corporation sought
+a temporary injunction against the appellant’s use
+of the mark, which was granted by the Delhi High
+Court and upheld by the Supreme Court of India.
+This judgment has been relied upon successfully
+in a number of decisions passed by Indian courts
+down the years. International trademarks, having
+no actual presence in India could, as a result, be
+enforced in India if a trans-border reputation with
+respect to such trademarks can be shown to exist.
+Subsequently, marks such as Volvo, Caterpillar,
+and Ocuflox, have received protection of their
+trademarks via judicial decisions.
+XX. Orders in Infringement and
+Passing off Suits
+In an action for infringement of a registered
+trademark, or in an action for passing off for either a
+19. Section 29(5) of the TM Act.
+20. Section 29(8) of the TM Act.
+21. Section 29(9) of the TM Act.
+22. (1996) 5 SCC 714.
+Trademarks
+© Nishith Desai Associates 2015
+Intellectual Property Law in India
+9
+Legal, Regulatory & Tax
+registered or unregistered mark, the court may order
+an injunction.23 The court may also award damages
+or an order for account of profits along with the
+delivery of the infringing marks, for destruction or
+erasure. In addition to the civil remedies, the TM Act
+contains stringent criminal provisions relating to
+offenses and penalties.
+23. Section 135 of the TM Act provides for identical reliefs for infringement and passing off.
+© Nishith Desai Associates 2015
+Provided upon request only
+10
+4. Domain Names
+Indian courts have been proactive in granting orders
+against the use of infringing domain names. Some
+of the cases in which injunctions against the use
+of conflicting domain names have been granted
+are: www.sifynet.com v. www.siffynet.com24 www.
+yahoo.com v. www.yahooindia.com25 and www.
+rediff.com v. www.radiff.com.
+26 In the www.yahoo.
+com case it has been held that “the domain name
+serves the same function as a trade mark, and is not a
+mere address or like finding number on the internet,
+and therefore, it is entitled to equal protection as a
+trademark”.
+24. Satyam Infoway Ltd. v. Sifynet Solutions Pvt. Ltd. AIR 2004 SC 3540.
+25. Yahoo India v. Akash Arora (1999) PTC 201 (Del).
+26. Rediff Communications Limited v. Cyberbooth AIR 2000 Bom 27.
+© Nishith Desai Associates 2015
+Intellectual Property Law in India
+11
+Legal, Regulatory & Tax
+5. Copyrights
+The Copyright Act, 1957 (“Copyright Act”),
+supported by the Copyright Rules, 1958 (“Copyright
+Rules”), is the governing law for copyright protection
+in India. Substantial amendments were carried out
+to the Copyright Act, in early 2012 (“Amendment”).
+Some of the salient amendments have been discussed
+in this section.
+The Copyright Act provides that a copyright
+subsists in an original literary, dramatic, musical
+or artistic work, cinematograph films, and sound
+recordings.27 However, no copyright subsists in a
+cinematograph film if a substantial part of the film
+is an infringement of the copyright in any other
+work or in a sound recording, if in making the sound
+recording of a literary, dramatic or musical work,
+copyright in such work is infringed.28 A computer
+programme is treated as a “literary work” and is
+protected as such.
+I. Is Copyright Registration
+Compulsory?
+Under Indian law, registration is not a prerequisite
+for acquiring a copyright in a work. A copyright
+in a work is created when the work is created and
+given a material form, provided it is original. The
+Copyright Act provides for a copyright registration
+procedure. However, unlike the U.S. law, the Indian
+law registration does not confer any special rights or
+privileges with respect to the registered copyrighted
+work. The Register of Copyright acts as prima facie
+evidence of the particulars entered therein. The
+documents purporting to be copies of the entries
+and extracts from the Register certified by the
+Registrar of Copyright are admissible in evidence in
+all courts without further proof of original.29 Thus,
+registration only raises a presumption that the
+person in the Register is the actual author, owner
+or right holder. The presumption is not conclusive.
+But where contrary evidence is not forthcoming,
+it is not necessary to render further proof to show
+that the copyright vests in the person mentioned
+in the Register. In infringement suits and criminal
+proceedings, when time is of essence to obtain urgent
+orders, registration is of tremendous help. Copyright
+notice is not necessary under the Indian law to claim
+protection
+II. Berne Convention and
+Universal Copyright
+Convention
+India is a member of the above conventions. The
+Government of India has passed the International
+Copyright Order, 1958. According to this Order,
+any work first published in any country - which is a
+member of any of the above conventions - is granted
+the same treatment as if it was first published in
+India.
+III.What Rights does Copyright
+Provide?
+A copyright grants protection to the creator and
+his representatives for the works and prevents such
+works from being copied or reproduced without his/
+their consent. The creator of a work can prohibit or
+authorize anyone to:
+￭ reproduce the work in any form, such as print,
+sound ,video, etc;
+￭ use the work for a public performance, such as a
+play or a musical work;
+￭ make copies/recordings of the work, such as via
+compact discs, cassettes, etc.;
+￭ broadcast it in various forms; or
+￭ translate the same to other languages
+IV. What is the term of Copyright?
+The term of copyright is, in most cases, the lifetime
+of the author plus 60 years thereafter.
+27. Section 13 of the Copyright Act.
+28. Ibid.
+29. Section 48 of the Copyright Act.
+© Nishith Desai Associates 2015
+Provided upon request only
+12
+V. First Ownership of Copyright &
+‘Work for Hire’
+The author of a work is usually the ‘first owner’ of
+such work. In certain circumstances, Section 17 of
+the Copyright Act determines who may be regarded
+as the ‘first owner’ of a copyrighted work. The
+concept of ‘first owner’ under Indian copyright law is
+quite important and may be determined as follows:
+￭ In the case of a literary, dramatic or artistic
+work (which includes a photograph, painting
+or a portrait) created during the course of
+employment or, under a contract of service or
+apprenticeship, for the purpose of publication
+in a newspaper, magazine or similar periodical,
+the proprietor of such a publication shall, in the
+absence of a contract to the contrary, be the first
+owner of copyright. However, such ownership
+shall vest with the proprietor of the publication
+only for the limited purpose of publishing
+the work or a reproduction of the work in a
+publication and, for all other purposes, the
+copyright shall vest with the author of the work.
+￭ If a photograph, painting or portrait has not
+been made for the purposes of publication in
+a periodical but has been made for any other
+purpose, then in the absence of a contract to the
+contrary, the copyright in such work shall vest
+with the person at whose instance the work was
+created.30
+￭ In the case of a cinematograph film, in the
+absence of a contract to the contrary, the
+copyright in the cinematograph film shall vest
+with the producer of the film i.e. the person at
+whose instance the film was made for a valuable
+consideration.31
+￭ In case of a work made during the course of
+employment or under a contract of service or
+apprenticeship, (to which the instances given
+under serial no. 1 do not apply), the employer
+shall, in the absence of a contract to the contrary
+shall be the first owner of copyright.32
+￭ In case of a government work, in the absence of
+a contract to the contrary, the copyright in the
+work shall vest with the government.33
+The concept of ‘Work for Hire’ though not expressly
+covered under the Copyright Act, it is implied under
+Section 17 whereby, the copyright in any work
+created on commissioned basis, shall vest with
+the person creating such work. In order to vest the
+copyright with the person commissioning the work,
+an assignment in writing shall be necessary.
+VI.Special Monetary Rights
+in Underlying Works in a
+Cinematograph Film / Sound
+Recordings.
+￭ The Amendment has introduced significant
+monetary rights for authors of literary,
+musical works etc. that are incorporated in
+cinematograph films and sound recordings.
+Authors of literary or musical works (i)
+incorporated in films; or (ii) sound recordings
+(which are not part of films) have the right to
+receive royalties equal to the royalties received
+by the assignee of such rights for exploitation of
+their works (other than communication to public
+of that film in cinema halls). These rights cannot
+be assigned or waived by the right holders (except
+in favor of legal heirs and copyright societies).
+Any agreement that seeks to assign or waive the
+above rights shall be void. While the language in
+the amendment is not very clear from the debates
+surrounding the Amendment, it seems that
+scriptwriters/screenplay writers are intended to
+be covered within the scope of these provisions.
+￭ Further, no assignment of the copyright in any
+work to make a cinematograph film or sound
+recording can affect the right of the author
+of the work to claim royalties or any other
+consideration payable in case of utilization of
+the work in any form other than as part of the
+cinematograph film or sound recording.
+￭ The business of issuing or granting license in
+respect of literary, dramatic, musical and artistic
+works incorporated in a cinematographic film
+or sound recordings post the amendment can be
+carried out only through a copyright society duly
+registered under the Act.
+VII. Assignment of Copyright
+As mandated by Section 19, no assignment of
+copyright shall be valid unless such assignment is in
+30. Proviso (a) and (b) to Section 17 of the Copyright Act.
+31. Proviso (b) to Section 17 of the Copyright Act.
+32. Proviso (c) to Section 17 of the Copyright Act.
+33. Proviso (d) to Section 17 of the Copyright Act.
+Copyrights
+© Nishith Desai Associates 2015
+Intellectual Property Law in India
+13
+Legal, Regulatory & Tax
+writing and signed by the assignee and the assignee.
+Such assignment ought to identify:
+￭ the work and the rights assigned,
+￭ the territorial extent and,
+￭ the duration of the assignment
+Where, the territorial extent and the duration of the
+assignment has not been specified, it shall be deemed
+that the assignment extends to the territory of India
+and the duration of assignment is for a period of five
+years respectively.
+Under Section 18 of the Copyright Act, even
+the copyright in a future work can be assigned
+in accordance with Section 19, however, such
+assignment shall come into effect only upon date of
+creation of the work. It has now been added by the
+Amendment that no assignment shall be applied to
+any medium or mode of exploitation of the work,
+which did not exist or was not in commercial use at
+the time when the assignment was made, unless the
+assignment specifically referred to such medium or
+mode of exploitation of the work.
+VIII. Moral Rights
+Section 57 of the Copyright Act grants an author
+“special rights,” which exist independently of the
+author’s copyright, and subsists even after the
+assignment (whole or partial) of the said copyright.
+The author has the right to (a) claim authorship of the
+work; and (b) restrain or claim damages with respect
+to any distortion, mutilation, modification, or other
+act in relation to the said work if such distortion,
+mutilation, modification, or other act would be
+prejudicial to his honor or repute.These special
+rights can be exercised by the legal representatives
+of the author. Before the Amendment the right to
+claim authorship could not be exercised by legal
+representatives of the author. Now, post death of
+the author, if he is not given credit for his work,
+then even legal representatives, may be able to take
+necessary action to remedy such breach. As per the
+Amendment, the right against distortion is available
+even after the expiry of the term of copyright. Earlier,
+it was available only against distortion, mutilation
+etc. done during the term of copyright of the work.
+IX. Rights Related to Copyright
+A field of rights related to copyright has rapidly
+developed over the last 50 years. These related rights
+have developed around copyrighted works and
+provide similar, though more limited protection.
+Such rights are:
+A. Performers’ Right
+When any performer (e.g., an actor or a musician)
+appears or engages in any performance, he has
+this special right in relation to his performance.
+The Amendment has modified the definition
+of “Performer” by clarifying that that in a
+cinematograph film a person whose performance
+is casual or incidental in nature and is not
+acknowledged in the credits of the film shall not
+be treated as a performer except for the purpose of
+attributing moral rights. The term of this right is
+50 years from the beginning of the calendar year
+following the year of performance.34 The “Performer’s
+Right” is stated to be the exclusive right subject to the
+provisions of the Act, to do or authorize for doing any
+of the following acts in respect of the performance or
+any substantial part thereof, namely:
+i. to make a sound recording or a visual recording
+of the performance, including—
+a. reproduction of it in any material form
+including the storing of it in any medium by
+electronic or any other means;
+b. issuance of copies of it to the public not being
+copies already in circulation;
+c. communication of it to the public;
+d. selling or giving it on commercial rental or
+offer for sale or for commercial rental any
+copy of the recording;
+ii. to broadcast or communicate the performance
+to the public except where the performance
+is already broadcast. Once a performer
+has by written agreement consented to
+the incorporation of his performance in a
+cinematograph film he shall not in the absence
+of any contract to the contrary object to the
+enjoyment by the producer of the film of the
+performers rights in the same film. However, the
+performer shall be entitled for royalties in case of
+making of the performances for commercial use.
+34. Section 38 of the Copyright Act.
+© Nishith Desai Associates 2015
+Provided upon request only
+14
+B. Broadcast Reproduction Right
+Every broadcasting organization has this right with
+respect to its broadcasts. The term of this right is
+25 years from the beginning of the calendar year
+following the year in which the broadcast is made.35
+X. Infringement of a Copyright
+A copyright is infringed if a person without an
+appropriate license does anything that the owner
+of the copyright has an exclusive right to do.36
+However, there are certain exceptions37 to the above
+rule (e.g., fair dealing). The Copyright Act provides
+for both civil and criminal remedies for copyright
+infringement. When an infringement is proved,
+the copyright owner is entitled to remedies by way
+of injunction, damages, and order for seizure and
+destruction of infringing articles.
+XI.Importation of Infringing
+Copies
+The Amendment has introduced a revised Section
+53, which provides a detailed procedure where the
+owner of the copyright can make an application
+to the Commissioner of Customs (or any other
+authorised officer) for seizing of infringing copies of
+works that are imported into India.
+XII.Copyright Protection of
+Software
+By the 1994 amendment of the Copyright Act, an
+inclusive definition of the term “Literary Work”
+was inserted to read as: “Literary Work includes
+computer38 programmes39 , tables and compilations
+including computer databases”.40 The terms tables,
+compilations, and computer database have not been
+defined in the Copyright Act.
+XIII. Rights Conferred
+The owner of a computer programme (“CP”) has the
+exclusive right to do or authorize third parties to do
+the following acts: reproduction of the CP, issuing
+copies to public, perform / communicate it to public,
+to make translation or adaptation41 of the work, to
+sell or give on commercial rental or offer for sale or
+for commercial rental any copy of the CP. However,
+the commercial rental provision does not apply if
+the CP itself is not an essential part of the rental. Any
+violation of these exclusive rights amounts to an
+infringement.
+XIV. Infringement – Defenses
+Section 52 of the Copyright Act enlists the acts that
+do not constitute copyright infringement. If the
+lawful possessor of the CP makes copies or adaptation
+of the CP in the following circumstances, they do
+not constitute infringement: (1) for utilizing the CP
+for the purpose for which it was supplied; or (2) to
+make backup copies purely as a temporary protection
+against loss, destruction or damage. Further, to obtain
+information essential for operating inter-operability
+of an independently created the CP with other the CP,
+the lawful possessor can do any act, provided such
+information is not readily available. Observation,
+study or test of functioning of the CP to determine
+the ideas and principles that underline any elements
+of the CP (while performing such acts necessary
+for the function for which the CP is supplied), does
+not amount to infringement. Making of copies
+or adaptation of the CP from a personally legally
+obtained copy for non-commercial personal use is
+also allowed. The fair dealing defense is not available
+in the case of a CP.
+XV. Registration
+For registration of CP, a practice has developed
+wherein the first 25 and last 25 pages of the source
+code are deposited with the Registrar of Copyright.
+There is no specific provision for the deposit of
+35. Section 37 of the Copyright Act.
+36. Section 51 of the Copyright Act.
+37. Section 52 of the Copyright Act.
+38. Per Section 2 (ffb) of the Copyright Act: “Computer includes any electronic or similar device having information processing capabilities.”
+39. Per Section 2 (ffc) of the Copyright Act: “Computer Programme means a set of instructions expressed in words, codes, schemes or in any other form,
+including a machine readable medium, capable of causing computer to perform a particular task or achieve a particular result.”
+40. Section 2(o) of the Copyright Act.
+41. Any use of work involving rearrangement or alteration.
+Copyrights
+© Nishith Desai Associates 2015
+Intellectual Property Law in India
+15
+Legal, Regulatory & Tax
+the source code on any specified media. In any
+event, such deposit is not advisable. Since the only
+advantage of registration is that it acts as prima
+facie proof, other means could be adopted to prove
+date of creation, ownership of copyright, and other
+details with respect to the same (e.g., deposit of the
+CP in a safe deposit locker, posting of the CP to a
+lawyer or one’s own address). Further, maintenance
+of logbooks recording the details of the development
+of CP could also act as proof of date of creation and
+ownership.
+XVI. Offences
+Knowingly making use on a computer of an
+infringing copy of CP is a punishable offence.42
+The penalty for such an offence is imprisonment
+(minimum of seven days and maximum of three
+years) and a fine (minimum INR43 50,000 and
+maximum INR 2,00,000). If the offender proves that
+such use was not for gain in the course of trade or
+business, the court may waive imprisonment and
+grant a fine up to INR 50,000.
+XVII. Copyright Societies
+The primary function of a copyright society (also
+generally referred to as ‘collecting society’) is to
+administer the rights on behalf of its members and
+grant licenses for the commercial exploitation of
+these rights. Such a society collect the license fee
+or the royalty on behalf of its members, which
+is then conveyed to the members after making
+deductions for the expenses borne for collection and
+distribution.
+At present, in accordance with section 33 of the
+Copyright Act, the following are registered as
+copyright societies:
+￭ Indian Performing Rights Society or IPRS, which
+administers the rights relating to musical and
+lyrical works on behalf of its members which
+primarily include authors, composers and the
+publishers of musical and lyrical works.
+￭ Phonographic Performance Limited or PPL
+administers the commercial exploitation of
+phonograms or sound recordings on behalf of its
+members.
+￭ Society for Copyright Regulation of Indian
+Producers for Film and Television or SCRIPT,
+which acts on behalf of the producers or the
+copyright owners of cinematograph and
+television films to protect their copyright therein.
+￭ Indian Reprographic Rights Organization or
+IRRO, which administers the rights relating to
+reprographic (photocopying) works on behalf
+of its members who are essentially authors
+and publishers of printed works such as books,
+newspapers, magazines, journals, periodicals, etc.
+The Amendment has brought in significant changes
+to the provisions dealing with Copyright Societies.
+The Amendment permits authors of the work to
+be members of the Copyright Societies as opposed
+to only owners of works. Copyright Societies are
+required to have governing bodies consisting of
+equal number of authors and owners of work for
+the purpose of administration of the society. All
+members of the Copyright Society shall enjoy
+equal membership rights and there shall be no
+discrimination between authors and owners in
+the distribution of royalties. The Amendment also
+envisages the Copyright Societies registered under
+the Act to administer the rights of the performers
+and broadcasters. The provisions applicable to the
+authors’ societies including the new tariff related
+provision specified below are applicable in relation
+to such societies.
+The Amendment has also inserted a new Section 33A
+providing for the following:
+￭ Every copyright society is required to publish its
+Tariff Scheme in a prescribed manner;
+￭ Any person who is aggrieved by the tariff scheme
+may appeal to the Copyright Board and the Board
+may, if satisfied after holding such inquiry as it
+may consider necessary, make such orders as may
+be required to remove any unreasonable element,
+anomaly or inconsistency therein;
+￭ However, the aggrieved person is required to
+pay to the copyright society any fee as may be
+prescribed that has fallen due before making an
+appeal to the Copyright Board and shall continue
+to pay such fee until the appeal is decided. The
+Board has no authority to issue any order staying
+the collection of such fee pending disposal of the
+appeal:
+￭ The Copyright Board may after hearing
+the parties fix an interim tariff and direct
+the aggrieved parties to make the payment
+accordingly pending disposal of the appeal.
+42. Section 63B of the Copyright Act.
+43. Indian Rupees.
+© Nishith Desai Associates 2015
+Provided upon request only
+16
+XVIII. Compulsory Licenses and
+Statutory Licenses
+A compulsory license (CL) is an involuntary license
+issued for a copyrighted piece of work that the
+copyright owner has to grant for the use of their
+rights in the work against payment as established
+under law in case the Copyright Board concludes
+that the copyrighted piece of work is withheld from
+the public. Under the Act, the CL provisions under
+Section 31 (in relation to published work) and 31A
+(in relation to unpublished or anonymous work)
+were earlier restricted only to Indian works. The
+Amendment seeks to remove this limitation. The
+provisions have now been made applicable to all
+works. A new provision has been inserted where the
+work may be made available under CL for the benefit
+of people suffering from disabilities.
+The Amendment has introduced the concept of
+“statutory license” in relation to published works.
+Any broadcasting organization, that proposes to
+communicate the a published work to the public
+by way of broadcast (including television and radio)
+or a performance of any published musical/ lyrical
+work and sound recording, may do so by giving
+prior notice of its intention to the owners of the
+rights. Such prior notice has to state the duration
+and territorial coverage of the broadcast and pay
+royalties for each work at the rate and manner fixed
+by the Copyright Board. The rates fixed for television
+broadcasting shall be different than that fixed for
+radio broadcasting. In fixing the manner and the
+rate of royalty, the Copyright Board may require the
+broadcasting organization to pay an advance to the
+owners of rights. No fresh alteration to any literary or
+musical work, which is not technically necessary for
+the purpose of broadcasting, other than shortening
+the work for convenience of broadcast, shall be made
+without the consent of the owners of rights. The
+names of the author and the principal performer
+will have to be announced with the broadcast
+(unless communicated by way of the performance
+itself). Records and books of accounts will have to be
+maintained by the Broadcasting Organizations and
+reports will be required to be given to the owners of
+the rights. The owners are also granted audit rights
+against the broadcasting organizations.
+XIX. Statutory License for Cover
+Versions
+The Act pursuant to the Amendment provides for
+the grant of statutory licenses for making “cover
+versions”. Cover version may be made only of such
+literary, dramatic or musical work, in relation to
+which a sound recording has already been made by
+or with the license or consent of the owner of the
+right in the work. Cover version can be made only
+after the expiration of five calendar years, after the
+end of the year in which the first sound recordings
+of the original work was made. Cover version shall
+not contain any alteration in the literary or musical
+work, which has not been made previously by or
+with the consent of the owner of rights, or which is
+not technically necessary for the purpose of making
+the sound recordings. Cover version shall not be sold
+or issued in any form of packaging or with any cover
+or label which is likely to mislead or confuse the
+public as to their identity, and in particular shall not
+contain the name or depict in any way any performer
+of an earlier sound recording of the same work or any
+cinematograph film in which such sound recording
+was incorporated. Cover version should state on the
+cover that it is a cover version made under Section
+31C of Act.
+Copyrights
+© Nishith Desai Associates 2015
+Intellectual Property Law in India
+17
+Legal, Regulatory & Tax
+6. Patents
+In India, the law governing patents is the Patents
+Act, 1970 (“Patents Act”). In India’s continued
+efforts to comply with it’s commitment under
+TRIPS the Patents Act has been amended thrice
+since 1995, by the Patents (Amendment) Act, 1999
+(“First Amendment”), the Patents (Amendment)
+Act, 2002 (“Second Amendment”) and Patents
+(Amendment) Act, 2005 (“Third Amendment”), Prior
+to the Third Amendment, the President of India had
+promulgated Patents (Amendment) Ordinance, 2004
+(“Ordinance”), which was later replaced by the Third
+Amendment.44 The legislation is supported by the
+Patents Rule, 2003 (“Rules”). The following outlines
+the current Indian patent law framework.
+Not all innovations are “inventions” within the
+definition of the Patents Act.The term “invention”
+is defined under Section 2(1) (j) of the Patents Act
+as “a new product or process involving an inventive
+step45 and capable of industrial application.”46 Thus,
+the traditional aspects of novelty, non-obviousness,
+and utility have been specifically included in the
+definition of the term “invention”.
+I. Novelty
+If the invention was known or used by any other
+person, or used or sold by the applicant to any person
+in India and/or outside India, then the applicant
+would not be entitled to the grant of a patent. Public
+use or publication of the invention will affect
+the validity of an application in India. The patent
+application must be filed prior to any publication
+or public use. However, there is a 12-month grace
+period permitted in India when a person has made
+an application for a patent in a convention country
+and if that person or his legal representative (or his
+assignee) makes an application with respect to the
+same invention in India. Although patent rights
+are essentially territorial in nature, the criteria of
+novelty and non-obviousness are to be considered
+on / compared with prior arts on a worldwide basis.
+Any earlier patent, earlier publication, document
+published in any country, earlier product disclosing
+the same invention, or earlier disclosure or use by
+the inventor will prevent the granting of a patent in
+India.
+Inventions That are Not “Inventions”
+Section 3 of the Patents Act enlists the innovations
+that are not classified as “inventions” within the
+meaning of the Act. These may fall within the
+definition of the expression “invention,” but the
+Patents Act expressly excludes them from the
+definition. Innovations that are not inventions
+within the meaning of the Patents Act, and
+accordingly are not patentable in India, include: (i) a
+method of agriculture or horticulture; (ii) a process
+for the medicinal or other treatment of human
+beings and animals; (iii) a mere discovery of any new
+property, or new use for a known substance, or a
+44. Don’t take this for granted <eco-times/2005/Don%27t-take-this-for-granted-VV-GG(Apr10,05).pdf>, April 10, 2005.
+45. Section 2(1) (ja) of the Patents Act: “inventive step means a feature of an invention that involves technical advance as compared to the existing
+knowledge or having economic significance or both and that makes the invention not obvious to a person skilled in the art.”
+46. Section 2(1) (ac) of the Patents Act: “capable of industrial application in relation to an invention means that the invention is capable of being made or
+used in an industry.”
+Which Inventions are Patentable?
+Innovations Innovations
+Section 3
+exclusions
+Section 4
+exclusions
+© Nishith Desai Associates 2015
+Provided upon request only
+18
+mere use of a known process, machine, or apparatus
+(unless such known process results in a new product
+or employs at least one new reactant); and (iv)
+an invention which is frivolous or which claims
+anything obviously contrary to well established
+natural laws.
+By the Second Amendment, the following have been
+added to the innovations that are not inventions
+within the meaning of the Patents Act:
+“j. plants and animals in whole or any part thereof
+other than micro-organisms but including seeds,
+varieties and species and essentially biological
+processes for production or propagation of plants
+and animals;
+k. a mathematical or business method or a
+computer program per se or algorithms;
+l. a literary, dramatic, musical or artistic work
+or any other aesthetic creation whatsoever
+including cinematographic works and television
+productions;
+m. a mere scheme or rule or method of performing
+mental act or method of playing game;
+n. a presentation of information;
+o. a topography of integrated circuits;
+p. an invention which, in effect, is traditional
+knowledge or which is an aggregation or
+duplication of known properties of traditionally
+known component or components.”
+Interesting omissions are those of business methods
+and computer programs per se.
+II. Business Method Patents
+Historically, in nearly every country “business
+methods” were dismissed as abstract and hence,
+were considered to be unpatentable. However, in
+the late 1990s, in what is known as the State Street
+Bank case47 the US Federal Circuit for the first time
+allowed a business method patent and a patent for
+a computer program to track mutual funds.In Bilski
+v. Kappos,48 the US Supreme Court dwelled into the
+issue of business method patents and held that the
+US Patent Act does contemplate business method
+patent and thus business method patent are not
+excluded subject matter.49
+However, traditional requirements of practical
+utility, novelty, and non-obviousness have to be
+satisfied. The European Patent Convention (“EPC”)
+explicitly excludes business method patents from
+patentability.50 However the EPC also states that
+business methods are excluded from patentability
+only to the extent to which a European patent
+application relates to a business method i.e. “as
+such”. The European Technical Board of Appeal
+has held time and again that if the subject matter
+of the application can be shown to have a technical
+character i.e. it is not a mere business method. In
+India, due to the express exclusion of “business
+method” from patentable inventions, business
+method patents cannot be granted.
+III. Computer Programs Per Se
+The 2002 Amendment to the Patents Act stated that
+“computer programs per se” is not an “invention”
+- raising a debate whether a computer program
+(“CP”) with any additional features such as technical
+features, would be patentable. In Sec 3(k) of the
+Act, while maintaining that CP per se is not an
+invention, the Ordinance had created exclusion
+for certain CPs. CP, in its technical application to
+industry and CP in combination with hardware
+were identified as patentable inventions.51 This
+exclusion introduced by the Ordinance has been
+done away with by the Third Amendment, once
+again creating an ambiguity in respect of grant of CP
+patents. ‘Computer programs per se’ was interpreted,
+based on similar UK law, that CP’s with a technical
+effect could be patentable. Experts were already
+interpreting ‘computer programs per se’ on similar
+lines. Ordinance, made things even clearer. However,
+now it may be difficult to use the same interpretation
+as it could be argued that if the intention of the
+statute was to allow patenting CP’s having a
+technical effect, why did the lawmakers not retain
+the language of the Ordinance. Thus there is now
+additional uncertainty in interpretation of ‘computer
+programme per se’.
+On June 28th, 2013 the India Patent Office released
+47. 149 F.3d 1368.
+48. 130 S. Ct. 3218.
+49. The court looked into the definition of “process” in § 100(b) includes the word “method” which comprehends a presence of a business method.
+Further, 35 U.S.C. § 273(b) (1) also provides a defense to patent infringement for prior use of a “method of conducting or doing business” this clearly
+shows that the statute contemplates business method patents because it provides for a defense of patent infringement relating to business method
+patents. - Id at page 10 and 11.
+50. Article 52 (2) (c) of the EPC excludes methods for doing business from patentability.
+51. The New patents ordinance gives IT a breather <eco-times/2005/New-patents-ordinance-Jan-16-2005.htm>, January 16, 2005.
+Patents
+© Nishith Desai Associates 2015
+Intellectual Property Law in India
+19
+Legal, Regulatory & Tax
+draft Guidelines for Examination of Computer
+Related Inventions (CRI) to invite public comments.
+The Guidelines provide standards / procedures to
+determine whether the CRI claims are falling under
+the scope of non-patentable subject matter under
+Section 3k of India Patent Act, 1970 (as amended).
+Feedback has been provided by various stakeholders
+to these draft guidelines. The Patent office has not
+yet released a final copy of these guidelines. The
+guidelines once finalized will be very helpful for
+various stakeholders to determine patentability of
+computer implemented inventions.
+IV.Pharma and Agro-Chemical
+Patents
+The Third Amendment has deleted Section 5 of the
+Act, which barred patent being granted in respect of
+substances:
+￭ intended for use or capable of being used as food,
+medicine, or drugs; or,
+￭ prepared or produced by chemical processes
+(including alloys, optical glass, semi-conductors
+and inter-metallic compounds).
+Thus, product patents for pharmaceutical substances
+are allowed in India. Section 3 of the Act, however,
+carves out certain exceptions. Under Section 3 (j)
+plants and animals in whole or any part thereof
+(other than micro-organisms) including seeds,
+varieties and species and essentially biological
+processes for the production of plants or animals –
+cannot be patented. This is in line with Article 27.3
+of TRIPS. Thus micro-organisms, which satisfy the
+patentability criteria, may be patented in India.
+Section 3(d) as amended by the Third Amendment
+clarifies that mere discovery of a new form of
+a known substance, which does not result in
+the enhancement of the known efficacy of that
+substance is not an invention and therefore not
+patentable. For the purposes of this clause, salts,
+esters, ethers, polymorphs, metabolites, pure
+form, particle size, isomers, mixtures of isomers,
+complexes, combinations and other derivatives of
+known substances are to be considered to be the
+same substances, unless they differ significantly in
+properties with regard to efficacy. Therefore, “Swiss
+Claims”are not allowed in India.52
+Section 3(d), Reads as Under
+“Section 3- The following are not inventions within
+the meaning of this Act,
+(d)- the mere discovery of a new form of a known
+substance which does not result in the enhancement
+of known efficacy of that substance or the mere
+discovery of any new property or new use for a
+known substance or that the mere use of a known
+process, machine or apparatus unless such known
+process results in a new product or employs atleast
+one new reactant.
+Explanation- For the purposes of this clause, salts,
+esters, ethers, polymorphs, metabolites, pure form,
+practical size, isomers, and mixtures of isomers,
+complexes, combinations and other derivatives
+of a known substance shall be considered the
+same substance, unless they differ significantly in
+properties with regard to efficacy.”
+This provision had caused quite a stir when it was
+enacted primarily by Big Pharma as this Section was
+enacted to prevent evergreening of patents. Further,
+since there was not much clarity on how known
+substances are to be determined, what efficacy is
+and how to prove enhancement of efficacy a lot
+of litigation surrounding this Section was being
+initiated at various judicial and quasi-judicial
+forums as the patent office had rejected many
+pharmaceutical patent application under Section
+3 (d). The most seminal case in this regard was the
+Swiss pharmaceutics giant, Novartis AG (“Novartis”)
+rejection of its Indian patent application for the
+beta crystalline form of Imatinib Mesylate filed
+in July 1998 on the grounds of Section 3 (d) when
+the application was examined post 2005. This case
+finally made it to the Indian Supreme Court (“SC”)
+which delivered a landmark judgment on April 1,
+2013, rejecting Novartis Patent application.
+V. Recent judicial decisions
+relating to Patents in India
+Novartis AG vs. Union of India53
+Novartis AG (“Novartis”) had filed an Indian patent
+application for the beta crystalline form of Imatinib
+Mesylate in July 1998. Due to the impending change
+52. A ‘Swiss Claim’ is a claim wherein the use of a substance or composition that has already been used for a medical purpose is intended or specified to
+be used for a new medical purpose.
+53. AIR 2013 SC 1311
+© Nishith Desai Associates 2015
+Provided upon request only
+20
+in patent regime, the application was “kept in
+mailbox”. The application received five pre grant
+oppositions. In 2006, the application was rejected
+on the basis that the application lacked novelty, was
+obvious and was not an invention in view of Section
+3(d) of the Act. The Controller held that the Product
+was a new version of an older molecule that Novartis
+first patented in 1993 and the increment in efficacy
+is not substantial enough to receive the grant of a
+patent. An appeal was preferred before the Madras
+High Court, during the pendency of which, the case
+was transferred to the Intellectual Property Appellate
+Board (“IPAB”). The IPAB upheld the decision of
+the Controller with respect to the finding that the
+patentability of the drug was barred under Section
+3(d). A Special Leave Petition was filed by Novartis in
+the Indian Supreme Court (“SC”) appealing against
+the decision of the Controller. The SC made an
+exception and admitted the Special Leave Petition
+side-stepping the jurisdiction of the Madras High
+Court, in view of the importance of the case and the
+number of seminal issues that were involved in the
+case. The SC noted that this was an exception and
+any attempt directly challenging an IPAB order.
+before the SC side-stepping the High Court, was
+strongly discouraged.
+The invention as claimed in the patent application
+was the beta-crystalline form of Imatinib Mesylate.
+This was a derivative of the free base form called
+Imatinib disclosed vide example 21 of a patent
+application filed by Novartis in US on April 2, 1993
+(“Zimmermann patent”).
+Novartis’ argument was that the known substance
+was Imatinib as disclosed in Zimmerman patent
+from which beta-crystalline form of Imatinib
+Mesylate was derived and that the substance
+immediately preceding beta crystalline form of
+Imatinib Mesylate was Imatinib and not Imatinib
+Mesylate as the Zimmerman patent did not disclose
+Imatinib Mesylate. The SC rejected this argument
+after examining the evidence on record and
+concluded that the known substance was Imatinib
+Mesylate from which beta-crystalline form of
+Imatinib Mesylate was derived.
+Since the term “efficacy” is not defined in the
+Act, the SC referred to the Oxford Dictionary and
+observed that Efficacy means “the ability to produce
+a desired or intended result”. Accordingly the SC
+observed that the test of efficacy depends “upon the
+function, utility or the purpose of the product under
+consideration”. Therefore, the SC held that in case of
+medicines, whose function is to cure disease, the test
+of efficacy can only be “therapeutic efficacy”.
+In relation to “enhanced efficacy”, the SC held that
+the parameters for proving enhanced therapeutic
+efficacy especially in case of medicines should
+receive a narrow and a strict interpretation.
+However, the SC pointed out that just because the
+word ‘efficacy’ has to be given a strict interpretation
+under Section 3 (d), that does not in any way mean
+that it bars all incremental inventions of chemical
+and pharmaceutical substances. Essentially Section
+3 (d) provides a bar that incremental inventions of
+chemical and pharmaceutical substances need to
+pass in order to be patentable.
+The SC had concluded that the known substance
+was Imatinib Mesylate and not free base Imatinib.
+However, all the evidence submitted by Novartis
+compared the efficacy of the Product with that of
+Imatinib, but there was no evidence provided by
+Novartis which compared the efficacy of the Product
+with that of Imatinib Mesylate.
+However, SC went on to examine the expert
+affidavits submitted by Novartis according to which
+the following properties exhibited by the Product
+demonstrated its enhanced efficacy over Imatinib:
+i. more beneficial flow properties
+ii. better thermodynamic stability
+iii. lower hygroscopicity; and
+iv. 30 % increase in bio-availability.
+The SC held that the first three properties of the
+Product related to improving processability and
+storage, thus they did not in any way demonstrate
+enhancement of therapeutic efficacy over Imatinib
+Mesylate as required to pass the test of Section
+3(d). The SC came to this conclusion even though
+the affidavits submitted by Novartis compared the
+Product over Imatinib.
+The SC after this was left with 30 % increase in
+bio-availability, with regard to this the SC held
+that increase in bioavailability could lead to
+enhancement of efficacy but it has to be specifically
+claimed and established by research data. In this
+case the SC did not find any research data to this
+effect other than the submission of the counsel and
+material “to indicate that the beta-crystalline form
+of Imatinib Mesylate will produce an enhanced or
+superior efficacy (therapeutic) on molecular basis
+than that could be achieved with Imatinib free base
+in vivo animal”.
+In view of the above findings the SC held and
+concluded that Novartis claim for the Product failed
+the test of patentability under Section 3 (d) of the
+Act.
+Patents
+© Nishith Desai Associates 2015
+Intellectual Property Law in India
+21
+Legal, Regulatory & Tax
+Hoffmann-La Roche Ltd. and Anr. vs.
+Cipla Ltd.
+F.Hoffmann-La Roche AG (“Roche”), the patentee of
+the small cell lung cancer drug Erlotinib (sold under
+brand name Tarceva) in January, 2008 filed a suit
+for injunction at the High Court of Delhi54 against
+Cipla Ltd., for allegedly infringing its patent in the
+drug Erlotinib by engaging in manufacturing and
+selling of generic version of Erlotinib in India, under
+the brand name “Erlocip”. The Delhi High Court
+refused interim injunctive relief to the patentee on
+the ground of “public interest”. While, determining
+the balance of convenience, the Court interestingly
+found it relevant to consider the difference in
+the market price of the two drugs in dispute. The
+Court opined that in the present matter involving
+a lifesaving drug, “the balancing would have to
+factor in imponderables such as the likelihood of
+injury to unknown parties and the potentialities
+of risk of denial of remedies.” Further, the Court
+held that “as between the two competing public
+interests, that is, the public interest in granting an
+injunction to affirm a patent during the pendency
+of an infringement action, as opposed to the public
+interest in access for the people to a lifesaving drug,
+the balance has to be tilted in favor of the latter.”55
+Roche appealed against this interim order to a
+division bench of the same court.56 In April 2009,
+the Court not only upheld the interim order but also
+imposed a penalty of INR 500,000 for not making
+full disclosure about the specification of the product
+whose patent is claimed to have been infringed
+amounting to suppression of material facts. Cipla
+was able to raise a serious prima facie doubt, whether
+the drug Tarceva sold in the Indian markets did, in
+fact, correspond to the drug protected by the patent
+that was allegedly being infringed.
+A final decision in this case was rendered by the
+Delhi High Court vide an order dated September 7,
+2012.57 The Court held that Cipla’s product does not
+fall within the scope of the claims of the Roche’s
+patent and thus Cipla did not infringe Roche’s patent.
+Further, Cipla had challenged validity of Roche’s
+patent on multiple grounds in its counterclaim. The
+court dwelled on these grounds in detail but did not
+find any basis for invalidating Roche’s patent. The
+court examined how the test of non-obviousness
+should be applied in case of chemical patents.
+Interestingly, this is the first Indian case wherein
+an Indian court has rendered a final decision on
+pharmaceutical patent infringement after an
+extensive trail. This judgment is landmark because
+it lays down principles for patent infringement
+analysis. The court borrowed heavily from
+the English Law on this issue, since the Indian
+jurisprudence on this issue is almost nil.
+The court held that in cases where there exists a
+patented claim for a product and the impugned
+product which may substantially contain the
+patented product but also contain some other
+variants or some other parts in addition to the
+patented article or product, the test of purposive
+construction has to be used to determine whether
+the impugned product infringes the patent or not.
+The court has held that this is the test to be followed
+even in cases of pharmaceutical patented products or
+process.
+According to the rule of purposive construction, if
+a person skilled in the art understands that strict
+compliance with the claims of the patent is intended
+by the patentee to be an essential requirement of the
+invention then any variant of the patented invention
+would fall outside the scope of the claim, even when
+the role of the variant does not have any material
+effect upon the way the invention is worked.
+However, in cases where the variant attached to
+the invented work would have material bearing
+upon the working of the invention then the rule of
+purposive construction is not applicable as in those
+cases the variant attached would exclude the product
+in question from the ambit of the patented claim and
+thereby there will be no infringement of patent.
+Further, there is an exception to this exception and
+this occurs when it is proved on record that from the
+reading of the patented claim the patentee could not
+have intended to exclude the minor variants which
+to the knowledge of him as well as readers of the
+patent could have no material effect in the way in
+which the invention worked. Thus, in cases where
+the impugned product or process is a minor variant
+of the patented invention there is an infringement of
+the patent. This exception can be sub categorized as
+below:-
+i. That one has to show through evidence as to
+what is missing in the patented claim and the
+product in question is a minor variant;
+54. I.A. No. 642/2008 in CS (OS) 89/2008 decided on 19.03.2008 [2008(37) PTC71 (Del)].
+55. The Court stated that Cipla’s drug cost INR 1600 per tablet as compared to Roche’s Tarceva at INR 4800 per tablet.
+56. FAO (OS) No. 188 of 2008 decided on 24.04.2009.
+57. C.S.(O.S).No. 89 of 2008 decided on 07.09.2012.
+© Nishith Desai Associates 2015
+Provided upon request only
+22
+ii. That there could not have been intention of the
+patentee to exclude such minor variant from the
+ambit of invention;
+iii. That the said minor variant could have no
+material effect on the way in which the invention
+worked.
+In summary under the principle of purposive
+construction the infringement analysis has to be
+undertaken in three steps.
+Step 1
+Whether a person skilled in the art based on reading
+of the specification would understand that the
+patentee intended strict compliance with the claims
+of the patent to be essential to the invention. If, yes
+then any variant of the patent will not amount to an
+infringement of the patent.
+Step 2
+In case where the variant of the patented invention
+is a major variant and has material bearing upon
+the working of the invention. If, yes then there is no
+infringement of the patent.
+Step 3
+In case where the patentee did not intend to exclude
+minor variant of the invention and the said minor
+variant does not have any material impact on the
+way the invention is worked. If, Yes then there is an
+infringement of the patent.
+Monsanto – IPAB Decision
+Monsanto Technology LLC (Monsanto) had filed a
+patent application on May 1, 2006 titled “A method
+for producing a transgeneic plant with increased
+heat tolerance, salt tolerance or drug tolerance”.
+In addition to other grounds the patent application
+was refused by the Indian Patent Office (IPO) on
+ground that the claims were essentially a biological
+process for the production or propagation of plants
+under Section 3 (j) of the Act.
+Monsanto appealed the decision of the IPO before the
+IPAB. With respect to Section 3 (j) IPAB held that the
+IPO had erred in finding the claims as an “essentially
+biological process” under section 3(j) of Act.
+Monsanto contended that the claims of the
+subject application do not fall within the ambit of
+section 3(j) of the Act as they do not constitute an
+“essentially biological process.” The claims involve
+human intervention in the: steps of “inserting
+into the genome of plant cells a recombinant
+DNA molecule comprising a DNA encoding a cold
+shock protein” and “obtaining transformed plant
+cell containing said recombinant DNA”. Even
+the selection step in the claim involves human
+intervention. Thus, it is not possible to obtain
+the transgenic plant without substantial human
+intervention.
+Monsanto also relied on a decision of the Enlarged
+Board of Appeal of the European Patent Office
+T1242/06 wherein it had been held that a process
+which contains in addition to a step of sexually
+crossing a selection step of technical nature which,
+would introduce a trait or modify a trait in the
+genome of the plant produced and this introduction
+or modification of that trait in the genome is not the
+result of mixing the genes of the plant chosen for
+sexual crossing then the process is not essentially a
+biological process. Thus, the invention in question
+involved human interference and was not essentially
+a biological process and hence was not barred from
+patenablity under Section 3 (1) (j) of the Act.
+The IPAB held that the current claims being perused
+were directed to a series of individual steps that
+involves an act of human intervention on a plant cell
+that results in some change to the plant cell. Thus,
+the method as claimed is not essentially a biological
+process and is not barred from patentability under
+Section 3 (j) of the Act.
+Indian Network for People Living with
+HIV/AIDS and Anr. Vs Union of India
+and Ors.58
+In a case involving another Roche patent for
+the antiviral drug Valcyte (Valganciclovir
+hydrochloride), the Chennai Patent Office, in
+January 2009, dismissed a pre-grant opposition
+representation that had been filed by two Non
+Governmental Organisations - Indian Network
+for People living with HIV/AIDS and Tamil Nadu
+Networking People with HIV/AIDS in June 2006.
+Roche had filed a Patent Application in 1995.
+The opponents had filed a pre-grant opposition
+under Section 25(1) of the Patents Act, 1970
+accompanied by a specific request for a hearing
+in the matter. The Controller did not allow oral
+hearing to the two NGOs in relation to their
+58. Writ Petition No. 24904 of 2008 and M.P. Nos. 2 & 3 of 2008 decided by High Court of Madras on December 2, 2008.
+Patents
+© Nishith Desai Associates 2015
+Intellectual Property Law in India
+23
+Legal, Regulatory & Tax
+representation and proceeded to grant the patent
+to Roche. The opponents filed a writ petition
+against the controller’s order with High Court of
+Madras wherein the court held that the grant of
+Roche’s patent without hearing the Opponents’
+representation was “in blatant violation of statutory
+procedure by the statutory authority, which is
+acting in a quasi-judicial capacity” and directed
+the Controller to grant hearing to the opponents.
+The opponents were heard by the Controller in
+January 2009. However, the pre-grant opposition was
+dismissed.59 Nevertheless, this decision of the High
+Court of Madras has demonstrated the vigilance of
+the courts on patent office procedure.
+VI. Mashelkar Committee Report
+In December 2006, the Technical Expert Group
+constituted under the chairmanship of Dr. R.A.
+Mashelkar and set up by the Ministry of Health and
+Family Welfare, released its recommendations on
+Patent Law Issues (“Mashelkar Committee Report”).
+The committee’s recommendations were put forth
+pursuant to debates raised at the Parliament level
+with respect to bringing the Patents Act at par
+with India’s international obligations, specifically
+under the Agreement on Trade Related Aspects of
+Intellectual Property Rights (TRIPS Agreement).
+The Mashelkar Committee Report dealt with two
+issues, namely:
+i. Whether restricting the grant of patents for
+pharmaceutical substances to new chemical
+entities (“NCEs”) or new medical entities
+(“NMEs”) involving one or more inventive steps
+would be TRIPS compatible; and
+ii. Whether excluding micro-organisms from patent
+protection would violate TRIPS.
+The Mashelkar Committee Report had concluded
+that limiting the grant of patents for pharmaceutical
+substances to NCEs and NMEs would contravene
+the TRIPS provisions. The conclusion drawn in
+respect of the second issue, in light of Article 27.360,
+was that excluding micro-organisms, per se, from
+patent protection would be in violation of the TRIPS
+Agreement.
+The Mashelkar Committee Report was eventually
+withdrawn on grounds of technical inaccuracy and
+plagiarism. In light of the plagiarism controversy,
+Dr. R.A. Mashelkar resigned as the head of the
+committee, and the committee was once again given
+an opportunity by the Government to correct the
+‘technical inaccuracies’ and to re-submitting their
+report. Thereafter, in March 2009, the revised report
+was re-submitted to the Government.
+The conclusions in the revised Report are essentially
+on similar lines as those contained in its 2006 version.
+The Report in conclusion remarks that the grant of
+patents for pharmaceutical substances only to a NCE
+or NME despite satisfying the basic requirements of
+patentability may prima facie amount to ‘excluding
+a field of technology’ in light of Article 27.1 of
+TRIPS that states: “…patents shall be available for
+any inventions, whether products or processes,
+in all fields of technology, provided that they are
+new, involve an inventive step and are capable of
+industrial application”. Thus, such a limitation on
+pharmaceutical patents may be held as TRIPS noncompatible.
+In addition, the Report recommended that “every
+effort must be made to prevent the practice of ‘evergreening’ ……….by making claims based sometimes
+on ‘trivial’ changes to the original patented product.”
+The Indian Patent Office has the full authority under
+law and practice to determine what is patentable.
+Further, such authority should decide what would
+constitute only a trivial change with no significant
+additional improvements or inventive steps
+involving benefits in order to prevent ‘ever-greening’,
+rather than introduce a “statutory exclusion”
+of incremental innovations from the scope of
+patentability.
+While the terms ‘ever-greening’ and ‘incremental
+innovation’ is not defined in any Indian patent
+legislation, the 2006 version of the Mashelkar
+Committee Report explained the two terms as
+follows:
+“While ‘ever-greening’ refers to an extension of a
+patent monopoly, achieved by executing trivial and
+insignificant changes to an already existing patented
+product, ‘incremental innovations’ are sequential
+developments that build on the original patented
+product and may be of tremendous value in a
+country like India.”
+59. Decision of the Chennai Patent Office dated January 30, 2009in the matter of patent application no. 959/MAS/1995.
+60. Article 27.3 of the TRIPS Agreement states that Members may also exclude from patentability:
+“(a) diagnostic, therapeutic and surgical method for the treatment of humans or animals;
+(b) plants and animals other than micro-organisms, and essentially biological processes for the production of plants and animals other than nonbiological and microbiological processes.”
+© Nishith Desai Associates 2015
+Provided upon request only
+24
+However, no such guidelines on the interpretation of
+the two terms appear in the revised version.
+VII. Who can be the Applicant?
+India grants patent right on a first-to-apply basis. The
+application can be made by either (i) the inventor
+or (ii) the assignee61 or legal representative62 of the
+inventor. Foreign applicants are given national
+treatment.
+VIII.What is the Process of
+Registration?
+Patent rights with respect to any invention are
+created only upon grant of the patent by the Patent
+Office following the procedure established by the
+Patents Act and the Rules. India follows a declarative
+system for patent rights. Below are the three types of
+applications that may be filed in the Indian Patent
+Office:
+i. Regular Application
+ii. Convention Application
+India has published a list of convention countries
+under Section 133 of the Patents Act and is also a
+member of the Paris Convention. The convention
+application has to be filed within one year from
+the date of priority and has to specify the date on
+which, and the convention country in which the
+application for protection (first application) was
+made. The priority document has to be filed with the
+application.
+iii. Patent Cooperation Treaty (PCT) National Phase
+Application
+A National Phase Application may be filed in
+India as India is a PCT member country. Since
+December 2007, the Indian Patent Office has also
+been recognized as one of the many International
+Searching Authorities (ISA) and International
+Preliminary Examining Authorities (IPEA)
+nominated by World Intellectual Property
+Organization (WIPO). The office is expected to soon
+start operations in this capacity.
+The procedure for filing and obtaining patent in
+India is as shown overleaf.
+61. Section 2(1) (ab) of the Patents Act: “Assignee includes an assignee of the assignee and the legal representative of the deceased assignee and references to the assignee of any person include references to the assignee of the legal representative or assignee of that person”.
+62. Section 2(1) (k) of the Patents Act: “Legal representative means a person who in law represents the estate of a deceased person.”
+On the date the application is filed, it is numbered.
+Generally within a month of filing the application, the Patent Office sends a preliminary
+objection letter, which has to be complied with within a specified time limit.
+The application is published in the Official Gazette and is open to public after eighteen
+months from the date of filing of application or the date of priority of the application,
+whichever is earlier. An application for earlier publication could be filed by the applicant.
+PRE-GRANT OPPOSITION
+Within 3 months from the date of publication or
+before the grant of patent whichever is later - any
+person may file opposition on limited grounds.
+Opposition is considered only when request for
+examination filed.
+FILING OF THE
+APPLICATION
+MEETING PROCEDURAL
+OBJECTIONS
+PUBLICATION OF THE
+APPLICATION
+REQUEST FOR EXAMINATION
+A request for examination to be filed by the applicant
+or any other interested person within 36 months
+from the date of priority or filing of the patent
+application, whichever is earlier.
+Patents
+© Nishith Desai Associates 2015
+Intellectual Property Law in India
+25
+Legal, Regulatory & Tax
+IX. Opposition Proceedings
+The Patents Act allows both pre-grant and postgrant opposition. The pre-grant opposition can be
+filed anytime after the publication of the patent
+application but before a patent is granted. The postgrant opposition can be filed within a period of one
+year from the date of publication of the granted
+patent. The grounds on which pre-grant opposition
+and post-grant opposition can be filed are similar.
+X. What is the term of a Patent?
+Every patent granted under the Act shall be dated as
+of the date on which the complete specification was
+filed The Second Amendment prescribed a uniform
+term of 20 years from the date of filling the patent
+application in India63 for all categories of patents
+in compliance with Article 33 of TRIPS. There is
+no provision for an extension of the patent term.
+Term of patent in case of applications filed under
+the PCT designating India is twenty years from the
+international filling date.64
+XI. Secrecy Provisions65
+Any person resident in India is not allowed to apply
+for grant of patent for any invention unless either of
+the following two conditions is satisfied:
+￭ Obtaining written permission of the Controller
+of Patents. The Controller is required to obtain
+consent of the Central Government before
+granting such permission for invention relevant
+for defense purpose / atomic energy. The
+application is to be disposed of within 3 months.
+OR
+￭ Patent application for the same invention has
+been first filed in India at least six weeks before
+the application outside India and there is no
+direction passed under Section 35 for prohibiting
+/ restricting publication / communication of
+information relating to invention.
+This section is not applicable in relation to an invention
+for which an application for protection has first been
+filed in a country outside India by a person resident
+outside India. Inspite of this exclusion, this provision
+is likely to delay the filing of US applications since US
+applications are required to be filed by the inventors
+and not assignees of the inventors.
+XII. Can the Patent be
+Surrendered?
+A patentee may surrender his patent under Section
+63 at any time by giving notice to the Controller in
+the prescribed manner.
+63. Section 53 of the Patents Act.
+64. Explanation to Section 53 of the Patents Act
+65. Sections 35 to 43 of the Patents Act; Can you keep a secret? <eco-times/2005/Can-you-keep-a-secret-Feb-14-2005.htm>, February 13, 2005.
+The applicant has to comply with the objections to put the application in order for
+acceptance within 6 months from the date of the Report. This period could be
+extended by another three months by filing an application to that effect.
+If the Applicant complies with objections raised in the First Statement of Objections
+within 6 months (extendable by 3 months) from the date of First Statement. Else the
+application is deemed to have been abandoned.
+Within 1 year from the date of publication of grant of a patent, any person interested
+may file an Opposition on the grounds enlisted in Section 25(3).
+MEETING THE OFFICIAL
+OBJECTIONS
+GRANT OF THE PATENT
+POST-GRANT OPPOSITION
+The Examiner of Patents is required to issue a First Examination Report, within one
+month but not exceeding three months from the date of the reference. This Report
+raises various substantive and procedural objections.
+FIRST EXAMINATION
+REPORT
+© Nishith Desai Associates 2015
+Provided upon request only
+26
+XIII.How can the Patent be
+Cancelled / Revoked?
+Either the Intellectual Property Appellate Board
+(IPAB) by way of a revocation application filed under
+Section 64 of the Patent Act or the High Court by
+way of a counter-claim in a suit for infringement of
+the patent may pass orders for revocation of a patent.
+In a patent infringement action, the defendant can
+raise the grounds for cancellation as defenses and at
+the same time file a counterclaim for revocation. The
+grounds on which the patent can be revoked include
+wrongful procurement of invention, false suggestion
+or representation in obtaining patent, failure
+to disclose corresponding foreign applications,
+prior secret use, prior grant, lack of novelty, or
+obviousness. The Controller of Patents also has the
+power to revoke the patent if, despite the grant of
+a compulsory license, the reasonable requirements
+of the public with respect to the patented invention
+remain unsatisfied or if the patented invention is not
+available to the public at a reasonable price.
+XIV. Assignment / Mortgage /
+License of Patent
+An assignment of a patent or a share in a patent,
+a mortgage, license, or the creation of any other
+interest in a patent is only valid if the following
+conditions are satisfied:
+￭ There is a written agreement embodying all
+the terms and conditions governing rights and
+obligations of parties; and,
+￭ The agreement is registered by filing Form 16
+under the Patents Rules, 2003 with the patent
+office that has granted the patent.
+Registration can be done at any time after the
+assignment is done.
+However, the agreement, when registered, is effective
+as of the date of its execution.66 The consequence of
+non-registration is that the agreement under which
+the patent rights are transferred is not admissible
+as evidence in an Indian court and therefore not
+enforceable in legal proceedings.67
+XV. Working of a Patent
+It is mandatory under Indian patent law to file a
+statement as to the extent of commercial working
+in the Indian territory of a patent granted by Indian
+Patent Office.68 The statement embodied in Form 27
+of the Patents Rules, 2003 is required to be filed in
+respect of every calendar year within three months
+of the end of each year (i.e. before March 31st of every
+year). Non-compliance with this requirement may
+invite penalty of imprisonment which may extend
+to six months, or with fine, or with both, as provided
+under section 122(1) (b) of the Patents Act. Section
+83 of the Patents Act states “that patents are granted
+in India to encourage inventions and to secure those
+inventions are worked in India on a commercial
+scale and to the fullest extent reasonably practicable
+without undue delay”.
+XVI. Compulsory Licensing
+The Patent Act provides for the grounds on and
+procedures by which, a compulsory license can be
+granted. The grounds on which a compulsory license
+can be granted are:
+￭ Reasonable requirements of the public with
+respect to the patented invention have not been
+satisfied; or,
+￭ The patented invention is not available to the
+public at a reasonably affordable price; or,
+￭ The patented invention is not worked (i.e. not
+used or performed) in the territory of India.
+The following factors are also to be taken into
+account: a circumstance of national emergency;
+a circumstance of extreme urgency; or a case of
+public non-commercial use, which may arise or
+is required, as the case may be, including public
+health crises such as those relating to Acquired
+Immuno Deficiency Syndrome (AIDS), Human
+Immunodeficiency Virus (HIV), Tuberculosis,
+Malaria, or other epidemics.
+However, the Patents Act does not provide
+the definitions of the following expressions:
+“circumstance of national emergency”; and “a
+circumstance of extreme urgency.” Therefore,
+the courts would be required to interpret these
+expressions on a case-by-case basis.
+66. Section 68 of the Patents Act. Section 69 describes the procedure for the recording of interest.
+67. Section 69(5) of the Patents Act.
+68. Section 146 of the Patents Act and Rule 131(2) of Patents Rules, 2003.
+Patents
+© Nishith Desai Associates 2015
+Intellectual Property Law in India
+27
+Legal, Regulatory & Tax
+Any person interested in working the patented
+invention may apply to the Controller of Patents for
+a compulsory license at any time after three years
+have elapsed from the date of grant of the patent.
+While examining the application, the Controller
+also considers such aspects as the nature of the
+invention; the time that has elapsed since the grant
+of the patent and the measures already taken by
+the patentee or any licensee to make full use of the
+invention; the ability of the applicant to work the
+invention for public advantage; and the capacity
+of the applicant to undertake the risk in providing
+capital and working the invention, if the application
+were granted.69
+Section 92A provides for grant of license to
+manufacture and export the patented product to any
+country having insufficient or no manufacturing
+capacity in the pharmaceutical sector to address
+public health problems, provided a compulsory
+license has been granted in that country or, if
+such country has allowed importation of the
+patented pharmaceutical products from India.
+The amendment seeks to implement the Para 6 of
+Doha Declaration on TRIPS and public health. This
+provision will allow Indian companies to produce
+and export AIDS drugs to African and South East
+Asian countries.
+Natco v Bayer70 and Compulsory
+License cases in India
+In March 2012, the Controller General of Patents
+created history with a landmark judgment granting
+the first ever Compulsory License to an Indian
+generic company. It permitted Natco Pharma to
+manufacture and sell a generic version of Bayer
+Corporation’s patent protected anti-cancer drug
+‘Sorafenib Tosyalte’ (marketed as NEXAVAR). The
+drug was useful in treating advanced liver and
+kidney cancer. Natco had filed an application for
+Compulsory License under Section 84(1), Patents
+Act, 1970. It had earlier approached Bayer with a
+request for a voluntary license proposing to sell the
+drug at a greatly reduced price, which Bayer did
+not allow. The Controller found that all the three
+conditions71 required for the grant of compulsory
+license were fulfilled and that this case merited the
+award of compulsory license to Natco. On appeal,
+the IPAB held that Bayer did not meet the reasonable
+requirement of the public (as only 2% patients
+are eligible for the same) and that the price of the
+drug (Rs. 2.8 lakhs per month) was not reasonably
+affordable in India when the purchasing power of
+the public is taken into consideration. This was the
+first case in which a request under Section 84 of the
+Indian Patent Act, 1970 had been made, seeking the
+grant of compulsory license.
+Since the Bayer-Natco decision, there have been two
+more instances where Compulsory Licenses have
+been applied for. In the first instance, the Health
+Ministry applied to the Department of Industrial
+Policy and Promotion for the grant of Compulsory
+License for cancer drug Trastuzumab, which was
+marketed in India as Herceptin by Genentech and
+Herclon by Roche. The request was made under
+Section 92 of the Patents Act, 1970, which allows the
+Government to file for a license in case of national
+emergency. This was on the ground that the drug
+was not affordable. However, the DIPP rejected this
+request as it found that the requirements for grant of
+compulsory license under Section 92 of the Indian
+Patent Act, 1970 was not satisfied
+A request was also made by Indian generic drug
+manufacturer, BDR Pharmaceutical with respect to
+cancer drug Dacatinib, marketed by Bristol Myers
+Squibb as Sprycel under Section 84 of the Indian
+Patents Act for grant of compulsory license. An order
+was passed by the Controller of Patents on 29th
+October, 2013 wherein the compulsory licensing
+application was rejected on the basis that a prima
+facie case had not been made out since BDR had not
+followed the procedural requirements as prescribed
+under the law before applying for the compulsory
+license application. In view of this the Controller of
+Patents did not go into the merits and rejected the
+compulsory license application.
+Rights of the Applicant Post
+Publication
+From the date of publication of the application
+until the date of the grant of a patent, the applicant
+has the like privileges and rights as if a patent
+for the invention has been granted on the date of
+publication of the application. However, applicant
+is not entitled to institute any proceedings for
+infringement until the patent has been granted.
+69. Section 84 of the Patents Act.
+70. Compulsory Application No. 1 of 2011 available at http://www.ipindia.nic.in/ipoNew/compulsory_License_12032012.pdf
+71. (a) that the reasonable requirements of the public with respect to the patented invention have not been satisfied, or (b) that the patented invention is
+not available to the public at a reasonably affordable price, or (c) that the patented invention is not worked in the territory of India.
+© Nishith Desai Associates 2015
+Provided upon request only
+28
+XVII. Infringement
+Section 48 of the Act grants the following rights to
+the patentee.
+In the case of a product patent, the following actions
+would amount to infringement:
+￭ making,
+￭ using,
+￭ offering for sale,
+￭ selling, or
+￭ importing for these purposes, the product in
+India without the permission of the patentee.
+In the case of a process patent, the following would
+amount to infringement:
+￭ using,
+￭ offering for sale,
+￭ selling, or
+￭ importing for these purposes the product
+obtained directly by that process in India without
+the permission of the patentee.
+Any person without the consent of the patentee
+performs the above activities of the infringes the
+patent.
+In patent infringement suits, the damages are not
+granted for the use of the patented invention during
+the period prior to the date of acceptance of the
+patent application.
+In a patent infringement action, the defendant can
+file a counterclaim for a revocation of the patent.
+Consequently, the main suit and the counterclaim
+are heard together.
+A. What acts do not Constitute
+Infringement?
+Section 107A in the Act, incorporates Bolar provision
+and provision for parallel imports. Section 107A
+states that the following acts do not constitute
+infringement:
+￭ Any act of making, constructing, using, selling
+or importing a patented invention solely for
+uses reasonably related to the development and
+submission of information required under any
+Indian law, or law of a country other than India,
+that regulates the manufacture, construction, use,
+sale or import of any product;
+￭ The importation of patented products by any
+person from a person who is duly authorized by
+the patentee under the law to produce and sell or
+distribute the products.
+i. Bolar Provision
+In view of introduction of the product patent
+regime, this provision will gain importance. Bolar
+provision allows manufacturers to begin the
+research and development process in time to ensure
+that affordable equivalent generic medicines can be
+brought to market immediately upon the expiry of
+the product patent.
+ii. Parallel Imports
+A machine, though patented in India, can be
+imported (without the consent of the patentee)
+from the patentee’s agent, say, in China, who
+manufactures it at a lower cost with the consent of
+the patentee.
+B. Reversal of Burden of Proof
+The Second Amendment also inserted Section 104A
+concerning the burden of proof in infringement
+suits. The section provides that in any suit for
+infringement of a process patent, the defendant may
+be directed to prove that the process used by him to
+obtain the product that is identical to the product of
+the patented process, is different from the patented
+process. Such direction may be passed by the court, if:
+￭ the subject matter of the patent is a process for
+obtaining a new product; or,
+￭ there is a substantial likelihood that the identical
+product is made by the process, and the patentee
+or a person deriving title or interest in the patent
+from him, has been unable through reasonable
+efforts to determine the process actually used.
+However, before obtaining such a direction, the
+plaintiff (claimant) has to prove that the product
+is identical to the product directly obtained by the
+patented process.
+C. Remedies in the Case of
+Infringement72
+In the case of infringement of the Indian patent,
+72. Section 108 of the Patents Act.
+Patents
+© Nishith Desai Associates 2015
+Intellectual Property Law in India
+29
+Legal, Regulatory & Tax
+the patentee can file a suit in the appropriate court,
+which may be a District Court or a High Court. In
+case a patent infringement suit is filed in a district
+court and counter claim is filed by a defendant, the
+patent infringement suit is transferred to a High
+Court. In the infringement suit the plaintiff can
+seek an injunction and damages or order for an
+account for profits from the potential infringer of
+the patent. Where the defendant proves that at the
+time of infringement he was not aware of and had
+no reasonable ground to believe that the patent
+existed, an order for damages or accounts for profits
+is not granted. Therefore, the patentee should
+take steps to convey to the general public that his
+product or process is patented. In an infringement
+suit, infringing goods, materials, and equipment
+used for their production can be seized, forfeited, or
+destroyed. The courts can appoint suo motu, or on
+application of a party to the suit, scientific advisors
+to assist the court or to submit a report on a specified
+question.73
+The Patents Act does not provide for criminal action
+in case of patent infringement.
+XVIII. Patent Linkage
+Internationally recognized patent linkage is a
+process by which the drug regulatory authority (the
+Drug Controller) delays or refuses to grant marketing
+approval to a generic manufacturer to manufacture
+and sell the drug, if the drug is patented. In effect it
+links the marketing approval to the lifetime of the
+patent. Such a system would require the generic
+manufacturer to demonstrate before the Drug
+Controller that the drug for which the marketing
+approval is sought for is not covered by a patent.
+In Bayer vs. Cipla74, Bayer had filed a writ petition
+requesting the court to direct the Drug Controller
+of India not to grant license to market Cipla’s drug
+“Soranib” as it infringed Bayer’s Patent.
+Bayer contended that Section 48 of the Patents Act,
+which grants right to the patentee and Section 2 of
+the Drugs and Cosmetics Act (DCA), should be read
+together. Section 2 of the DCA provides that the DCA
+shall not be in derogation of any other law and thus
+the DCA cannot contravene the provisions of the
+Patent Act. Therefore, any grant of license to CIPLA
+for its drug “Soranib” by the drug controller would be
+in contravention of section 48 of the Patents Act and
+it is in contravention of Section 2 of the DCA, when
+read together. Thus, the drug license should not be
+granted. Further, Form 44 of the DCA75 also requires
+applicant to mention the patent status of the drug in
+question in the application, this shows a conscious
+effort by the legislature to include patent linkage.
+The court held that the Patents Act and the DCA
+are two separate legislations and highlight distinct
+and disparate objectives. The DCA prescribes
+standards of safety and good manufacture practices,
+which are to be followed by every pharmaceutical
+industry whereas, Patent Act prescribes standards
+for conferring private monopoly rights in favor
+of inventors. Expertise that exist under the Patent
+Act to adjudicate upon whether claimed products
+or processes are patentable or not does not exist
+with the officials under the DCA, who can only
+test the safety of the product, and ensure that it
+conforms to the therapeutic claim put forward.
+The drug controller also lacks the jurisdiction
+under the law to adjudicate on the issue of patent
+infringement. Further the court held that there
+is no intention on the part of the legislators to
+place patent superintendence, or policing powers,
+with Drug authorities. If the Drugs authorities,
+on a representation of the patentee were to refuse
+licenses or approval, to applicants who otherwise
+satisfy the requirement of the Drugs Act and its
+provisions, or even be precluded from examining
+such applications, on assumed infringement, various
+provisions of the Patent Act would be rendered a
+dead letter.
+The court also held that the requirement of
+indication of patent status in Form 44 is only to
+indicate bio availability and bio equivalence protocol
+and does not in any way suggest the intention of the
+legislature to include patent linkage.
+73. Section 115 of the Patents Act.
+74. 2009(41)PTC634(Del)
+75. Form- 44:- Application for grant of permission to import or manufacture a New Drug or to undertake clinical trial.
+© Nishith Desai Associates 2015
+Provided upon request only
+30
+Industrial designs in India are protected under the
+Designs Act, 2000 (“Designs Act”), which replaced the
+Designs Act, 1911. The Designs Act has been in effect
+since May 11, 2001. The Designs Rules, 2001 have
+been framed under the Designs Act. The Designs
+Act incorporates the minimum standards for the
+protection of industrial designs, in accordance with
+the TRIPS agreement. It provides for the introduction
+of an international system of classification, as per the
+Locarno Classification.
+I. What is the Meaning “Design”
+Within the Scope of the
+Designs Act?
+As per the Designs Act, “design” means only the
+features of shape, configuration, pattern, ornament
+or composition of lines or colours applied to any
+“article”76 whether in two dimensional or three
+dimensional or in both forms, by any industrial
+process or means, whether manual mechanical
+or chemical, separate or combined, which in the
+finished article appeal to and are judged solely by the
+eye. However, “design” does not include any mode
+or principle of construction, or anything which is in
+substance a mere mechanical device, and does not
+include any trademark (as defined in section 2(1)
+(v) of the Trade and Merchandise Marks Act, 1958),
+or property mark (as defined in section 479 of the
+Indian Penal Code), or any artistic work (as defined
+in Section 2 (c) of the Copyright Act, 1957).
+In order to obtain registration under the Designs
+Act, the design must be applied to an article. In
+other words, a mere painting of a natural scene or its
+presentation on paper is not entitled for registration
+under the Designs Act.
+II. Who can Apply for Registration
+of a Design?
+Any person claiming to be the “proprietor of any
+new or original design”
+77 not previously published
+in any country and is not contrary to public order or
+morality can apply for the registration of the design.
+The expressions “public order” or “morality” have
+not been defined in the Designs Act.
+The term “original,” with respect to design, means
+a design originating from the author of such a
+design and includes the cases that, although old in
+themselves, are new in their application. Absolute
+novelty is now the criterion for registration.
+III.What is the Process of
+Registration?
+The process of registration of a design under the
+Designs Act requires the following steps:
+￭ File an application for registration of design with
+the prescribed fee with the Controller of Patents
+and Designs. Photographs of the articles from all
+angles must be filed along with the statement of
+novelty.
+￭ Reply to the objections raised by the Controller.
+￭ Upon removal objections, the design is registered.
+When registered, a design is deemed to have been
+registered as of the date of the application for
+registration.
+￭ After registration, the particulars of the design are
+published.
+￭ If the Controller rejects the application, the
+aggrieved person can appeal to the High Court.
+7. Designs
+76. Per Section 2(a) of the Designs Act: “article” means any article of manufacture and any substance, artificial, or partly artificial and partly natural; and
+includes any part of an article capable of being made and sold separately.
+77. Per Section 2(j) of the Designs Act: ”proprietor of a new or original design”,-
+(i) where the author of the design, for good consideration, executes the work for some other person, means the person for whom the design is so executed;
+(ii) where any person acquires the design or the right to apply the design to any article, either exclusively of any other person or otherwise, means, in the
+respect and to the extent in and to which the design or right has been so acquired, the person b whom the design or right is so acquired; and
+(iii) in any other case, means the author of the design; and where the property in or the right to apply, the design has devolved from the original proprietor upon any other person, includes that other person.
+© Nishith Desai Associates 2015
+Intellectual Property Law in India
+31
+Legal, Regulatory & Tax
+There is no opposition procedure prior to
+registration.
+IV. What are the Rights
+Conferred by Registration?
+Registration of a design confers upon the registered
+proprietor a “copyright” with respect to the design.
+Under the Designs Act, the word “copyright” refers to
+the exclusive right to apply the design to any article
+in any class in which the design has been registered.
+The first term of registration is ten years after which
+it can be renewed for an additional five-year period.
+V. Assignment
+When a person becomes entitled by assignment,
+transmission, or other operation of law to the
+copyright of a registered design, a record of the
+title must be registered by an application to the
+Controller for the same, accompanied by the
+prescribed fee and proof of title.
+When a person becomes entitled to any right in
+the registered design either by way of a mortgage, a
+license, or otherwise, an application in the prescribed
+form must be made to the Controller to register his
+title.
+VI. Cancellation of Design
+Any person interested may present a petition for a
+cancellation of the design registration at any time
+after the registration, on the following grounds: that
+the design has been previously registered in India;
+that it has been published in India or in any other
+country prior to the registration date; that the design
+is not a new or original design; that the design is not
+registrable under the Designs Act or that it is not a
+design as defined under Section 2(d) of the Designs
+Act. An appeal from any order by the Controller can
+be filed with the High Court.
+Section 15 of the Copyright Act, 1957 states that the
+copyright in any design ,which is capable of being
+registered under the Designs Act, but is not, will
+lose its copyright as soon as the design has been
+reproduced 50 times by an industrial process by
+either the owner of the copyright or his licensee.
+VII. Piracy
+Section 22 of the Designs Act lists the different
+acts that amount to piracy of the registered design,
+including: 1) any application of the registered design
+for the purpose of sale during the existence of the
+copyright in the design without a license or the
+express consent of the registered proprietor; 2) or
+the importation for sale without the consent of the
+registered proprietor of any article belonging to the
+class in which the design has been registered and
+having applied to it the design or any fraudulent or
+obvious imitation; or, 3) knowing that the design, or
+a fraudulent or obvious imitation has been applied
+to any article in any class of articles in which the
+design is registered, published, or exposed for sale,
+without the consent of the registered proprietor of
+such an article. Any grounds on which the design
+can be cancelled can also be used as a defense in an
+infringement action.
+VIII. Remedies
+The Designs Act provides for civil remedies in cases
+of infringement of copyright in a design, but does
+not provide for criminal actions. The civil remedies
+available in such cases are injunctions, damages,
+compensation, or delivery-up of the infringing
+articles.
+IX. Paris Convention
+Reciprocity for the purpose of claiming priority is
+now allowed from the applications originating from
+the Paris Convention countries
+© Nishith Desai Associates 2015
+Provided upon request only
+32
+Geographical Indications (“GI”) are those, which
+identify a good as originating in a place where a given
+quality, reputation, or other characteristic of the good
+is essentially attributable to its geographical origin.
+Some better-known examples of GI are “Champagne,”
+“Bordeaux,” and “Chianti,” the first two being regions
+in France and the third, a region in Italy, all famous
+for their wines. In the Indian context, ‘Darjeeling Tea’
+was the first GI registered under the GI Act. This GI
+is registered in the name of the Tea Board of India
+which also hold GI registrations for ‘Nilgiri Tea’ and
+‘Assam Tea’. Similarly, the Coffee Board (under the
+Ministry of Commerce & Industry) has a subsisting
+registration for Malabar Coffee. Other well-known
+GIs include ‘Kashmiri Pashmina’, ‘Mysore Silk’,
+‘Lucknow Chicken Craft’ and ‘Feni’. The convention
+application for ‘Champagne’ was filed in September
+2008 and is in the process of registration.
+The Geographical Indications of Goods (Registration
+and Protection) Act, 1999 came into effect on
+September 15, 2003. The Act was passed with
+the goal of providing protection, as a GI, to any
+agricultural, natural, or manufactured goods, or
+to any goods of handicraft or industry, including
+foodstuffs.
+I. Registration
+The Act provides for the registration of a GI and the
+‘authorized user’ thereof. Any person claiming to be
+the producer of goods in respect of a registered GI
+can apply for registering him as an authorized user.
+The authorized user is able to bring an action against
+the wrongful users of GI. Convention applications
+can also be filed under this Act.
+An application for registration can be filed by any:-
+￭ organisation of persons or producers, or
+￭ organisation or authority established by or under
+any law,
+such organisation or authority representing the
+interest of the producers of the concerned goods.
+The office of the Geographical Indications Registry is
+in Chennai.
+To qualify as a GI, two requirements must be
+satisfied: (i) the territorial aspect i.e. as to how the GI
+serves to designate the goods originating from the
+concerned territory, (ii) a given quality, reputation,
+or other characteristic should be essentially
+attributable to the geographical origin.
+II. Rights Conferred by
+Registration
+Registration of a GI confers the following rights on
+the registered proprietor and the authorized users:
+￭ Right to obtain relief in respect of the
+infringement of the GI; and
+￭ Exclusive right to use the GI in relation to the
+goods for which GI is registered
+Two or more authorized users of a registered GI shall
+have co-equal rights.
+III. Classes
+All the goods have been classified in accordance
+with the International Classification of Goods for the
+purposes of GI registration.
+IV. Duration and Renewal
+GI registration is valid for a period of ten years, and
+may be renewed thereafter from time to time. The
+registration of an authorized user is valid for a period
+of ten years or for the period until the date on which
+the GI registration expires, whichever is earlier.
+V. Procedure for Registration
+The procedure for registering a GI and procedure
+for registering oneself as an authorized user are
+substantially the same. The procedure is as follows:
+8. Geographical Indications of Goods
+(Registration and Protection) Act, 1999
+© Nishith Desai Associates 2015
+Intellectual Property Law in India
+33
+Legal, Regulatory & Tax
+FILE APPLICATION WITH THE GEOGRAPHICAL INDICATIONS REGISTRY
+AFTER ACCEPTANCE, THE APPLICATION IS ADVERTISED FOR OPPOSITION
+IF AFTER PUBLICATION THE APPLICATION HAS NOT BEEN OPPOSED AND THE OPPOSITION PERIOD (3 MONTHS
+EXTENDABLE FOR 1 MONTH THEREAFTER) HAS EXPIRED, THEN REGISTRATION IS GRANTED. THE DATE OF REGISTRATION
+IS THE DATE ON WHICH THE APPLICATION IS FILED
+VI. Prohibition of Assignment or
+Transmission
+GI, being a public proprietary right, is not assignable
+or transmissible by any other means. Therefore,
+the Act prohibits the assignment, transmission,
+licensing, pledge, or mortgage or any such other
+agreement in respect of a GI.
+VII. Infringement
+The Act also provides for infringement and passing
+off actions, thus recognizing the common law right
+in a GI, which includes civil as well as criminal
+remedies. Infringement has been defined to include
+unfair competition.
+An action for infringement of a GI may be initiated
+in a District Court or High Court having jurisdiction.
+Available relief includes injunctions, discovery of
+documents, damages or accounts of profits, deliveryup of the infringing labels, and indications for
+destruction or erasure.
+© Nishith Desai Associates 2015
+Provided upon request only
+34
+This Act was enacted in order to comply with the
+provisions of TRIPS. The Semiconductor Integrated
+Circuits Layout Design Act, 2000 received the assent
+of the President of India on September 4, 2000,
+after it was approved by both Houses of the Indian
+Parliament. However, the Act has not come into
+effect yet. The obligations imposed under the TRIPS
+and the Washington Treaty, 1980 made it mandatory
+for India to enact a law to protect the layout designs
+of Integrated Circuits (“IC”). This form of protection
+is quite different from patents, industrial designs,
+and copyrights, although the principles of protection
+and enforcement stem from industrial design and
+copyright.
+As the Act has not come into effect yet, the existing
+patent and copyright regime does not appropriately
+accommodate the requirements of protection for the
+layout design of IC. This is because in the context
+of layout design of IC, the concept of “originality” is
+of utmost significance, whether it is “novel or not”,
+whereas the patent law requires that the idea should
+be original and novel. On the other hand, the copyright
+law is too general to accommodate the original ideas of
+scientific creation of layout designs of IC.
+In order to ascertain the nature of protection which
+will be conferred on layout designs of IC on the
+coming into force of this Act, we have analyzed some
+of the salient features of the Act in the following
+paragraphs.
+I. Definitions
+A. Layout Design
+Layout design refers to a layout of transistors and
+other circuitry elements and includes lead wires
+connecting such elements and expressed in any
+manner in a semiconductor integrated circuit.
+B. Semiconductor Integrated Circuit
+Semiconductor Integrated Circuit means a product
+having transistors and other circuitry elements,
+which are inseparably formed on semiconductor
+material or insulating material, or inside the
+semiconductor material, and designed to perform an
+electronic circuitry function.
+II. IC layout Designs not
+Registrable in India
+The following are layout-designs, which cannot be
+registered in India;
+(a) those which are not original; or (b) those which
+have been commercially exploited anywhere in India
+or in a convention country78, or (c) those which are
+not inherently distinctive; or (d) those which are not
+inherently capable of being distinguishable from any
+other registered layout-design.
+9. Semiconductor Integrated Circuits Layout
+Design Act, 2000
+78. Per Section 7: A layout design which has been commercially exploited for not more than two years from the date on which an application for its
+registration has been filed either in India or a convention country shall be treated as not having been commercially exploited for the purposes of this
+Act.
+III. Procedure for Registration of Layout Designs
+FILE APPLICATION WITH THE SEMICONDUCTOR INTEGRATED CIRCUITS LAYOUT DESIGN REGISTRY
+AFTER ACCEPTANCE, THE APPLICATION IS ADVERTISED FOR OPPOSITION
+IF AFTER PUBLICATION THE APPLICATION HAS NOT BEEN OPPOSED AND THE OPPOSITION PERIOD (3 MONTHS
+EXTENDABLE FOR 1 MONTH THEREAFTER) HAS EXPIRED, THEN REGISTRATION IS GRANTED. THE DATE OF REGISTRATION
+IS THE DATE ON WHICH THE APPLICATION IS FILED
+© Nishith Desai Associates 2015
+Intellectual Property Law in India
+35
+Legal, Regulatory & Tax
+IV. What are the Rights Granted
+to the Registered Proprietor?
+Registration provides the registered proprietor the
+exclusive right to use the layout design and provides
+protection against infringement.
+V. What is the Term of
+Registration?
+The term of registration is for a period of ten years
+from the date of filing an application for registration
+or from the date of its first commercial exploitation
+anywhere in India or in any country, whichever is
+earlier.
+VI. Infringement of Layout
+Designs
+Reproducing, importing, selling, or distributing for
+commercial purposes a registered layout design or
+a semiconductor IC incorporating such a design
+constitutes infringement. However, if reproduction
+of the layout design is for purposes of scientific
+evaluation, analysis, research or teaching, this shall
+not constitute infringement.
+VII. Penalty for Infringement
+Any person found to be infringing a registered layout
+design can be punished by way of imprisonment for
+a maximum of three years and/or a fine (minimum
+INR 50,000 and maximum INR 1,000,000).
+© Nishith Desai Associates 2015
+Provided upon request only
+36
+This Act was enacted to give effect to Article 27.3(b)79
+of the TRIPs Agreement relating to protection of
+plant varieties. India opted to protect them under a
+sui generis system and passed the Act.
+The Act includes:
+￭ Protection of varieties developed through public
+and private sector research;
+￭ Protection of varieties developed and conserved by
+farmers and traditional communities, providing
+them with legal rights to save, use, sow, resow,
+exchange, share, or sell their farm seed, although
+farmer shall not be entitled to sell branded seed of
+a variety protected under this Act ;
+￭ Encouraging plant breeders and researchers to
+develop new and improved varieties;
+￭ Establishment of the Protection of Plant Varieties
+and Farmers’ Rights Authority (“PPV&FRA”) for
+the registration of new varieties and determine
+claims of benefit sharing to such varieties;
+￭ Provision of civil and criminal relief for
+infringement and passing off of protected plant
+varieties.
+￭ Provisions for granting compulsory licenses
+when reasonable requirements of the public have
+not been satisfied.
+The Act strikes a balance between the rights of
+farmers and breeders by rewarding the farmers/local
+communities from the pool of National Gene Fund
+for their conservation and development efforts and,
+at the same time, ensuring reward for innovation by
+granting plant breeders’ rights.
+I. Varieties Registerable under
+the Act
+The following are registerable under the Act:80
+i. a new variety if it confirms the criteria of novelty,
+distinctiveness, uniformity and stability; and
+ii. an extant variety if it confirms the criteria of
+novelty, distinctiveness, uniformity and stability
+as specified under Protection of Plant Varieties
+and Farmers’ Rights Regulations, 2006.
+‘Extant Variety’ has been defined under the Act to
+mean:81
+i. a variety notified under Section 5 of the Seeds
+Act, 1966; or
+ii. a farmer’s variety (which has been defined to
+mean a variety traditionally cultivated and
+evolved by the framers in their fields or a
+variety which is relative or land race of a variety
+about which the farmers possess common
+knowledge);82 or
+iii. a variety about which there is common
+knowledge; or
+iv. any other variety which is in public domain
+II. Term of Protection
+As prescribed under Section 24 of the Act, the total
+period of validity of registration shall not exceed:
+i. eighteen years, in case of trees and vines;
+ii. fifteen years, in case of extant varieties; and
+iii. fifteen years, in any other case.
+The certificate of registration issued under this Act
+is valid for nine years in case of trees and vines and
+six years in case of other crops and a registrant is
+required to renew the same for the remaining period
+of registration.
+III. Setting up of PPV & FRA
+The PPV&FRA was set up in November, 2005 for
+registration of new varieties and determine claims
+of benefit sharing to such varieties. The Authority
+is located in New Delhi. This Authority has already
+evolved the detailed rules and regulations and crop10. The Protection of Plant and Varieties and
+Farmers Rights Act, 2001
+79. Article 27.3(b) of TRIPs requires member countries to either grant patent protection plant varieties or to protect them under a sui generis system.
+80. Section 14 of the Act
+81. Section 2(1)(j) of the Act
+82. Section 2(1)(l) of the Act.
+© Nishith Desai Associates 2015
+Intellectual Property Law in India
+37
+Legal, Regulatory & Tax
+specific guidelines for seeking this protection. A
+National Plant Variety Registry has been set up by
+PPV&FR under the Union ministry of agriculture to
+register crop varieties.
+IV. Registration of Plant Varieties
+now Possible in India
+The Act has started documentation and registration
+of varieties of 12 crops which include the following:
+rice, wheat (bread wheat types), maize, sorghum
+(jowar), pearl millet (bajra), chickpea (chana), pigeon
+pea (arhar), green gram (mung), blackgram (urad),
+lentil (masur), field pea (matar) and kidney bean
+(rajmah).
+© Nishith Desai Associates 2015
+Provided upon request only
+38
+India is a member of the Convention on Biological
+Diversity (“CBD”). To comply with its obligation
+under the CBD, this Act has been enacted. This
+Act aims to ensure the conservation of biological
+diversity in India, sustainable use of its components
+and fair and equitable sharing of the benefits arising
+out of the use of biological resources. “Biological
+diversity” means the variability among living
+organisms from all sources and the ecological
+complexes of which they are part, and includes
+diversity within species or between species of
+eco-systems. “Biological resources” means plants,
+animals and micro-organisms or parts thereof, their
+genetic material and by-products (excluding value
+added products) with actual or potential use or value,
+but does not include human genetic material.
+Only selective provisions of the Biodiversity Act,
+2002 – namely, definition provisions, provisions
+relating to the constitution of the National
+Biodiversity Authority (“NBA”) and rule-making
+powers of Government – have been brought into
+force with effect from October 1, 2003. NBA regulates
+the commercial / other uses of biodiversity by both
+Indian and non-Indian entities. Prior to seeking any
+form of IPR in respect of biological resources, the
+applicant will be required to obtain approval of the
+NBA.
+The Act confers extensive powers on the NBA with
+regard to protection of biological resources. The
+NBA will consist of a chairperson, seven ex-officio
+members representing ministries and departments
+of the Federal Government, and five non-official
+members who are specialists, scientists and
+representatives from the industry. The ex-officio
+members include representatives from the tribal
+affairs ministry, biotechnology, ocean development,
+the Indian systems of medicine and homeopathy,
+and the ministries of environment and agriculture.
+Some of the salient provisions of the Act are as
+follows:
+￭ All foreign individuals, associations and
+organizations would be required to seek the prior
+approval of the NBA to access any biological
+resource or the results of research occurring in
+India, for any use. The NBA’s approval would also
+have to be obtained before biological resources
+can be exported out of India. Proposals have
+been made to set up biodiversity funds and
+management committees at national, state, and
+municipal levels.
+￭ All Indian citizens would have to seek the NBA’s
+prior approval to transfer the results of research
+relating to any biological resource to foreigners.
+The term “foreigners” has been defined as
+“individuals who are not Indian citizens”.
+￭ Indian citizens, including local people and
+communities, vaids and hakims (native Indian
+doctors) will have free access to biological
+resources for use within the country for any
+purpose. However, the NBA’s prior approval
+would be required before seeking any form of IPR
+on an invention based on a biological resource.
+￭ The NBA will have the power to impose
+conditions to ensure a share in the benefits
+accruing from the acquisition of IPRs.
+11. The Biological Diversity Act, 2002
+© Nishith Desai Associates 2015
+Intellectual Property Law in India
+39
+Legal, Regulatory & Tax
+Confidential information and trade secrets are
+protected under the common law and there are
+no statutes that specifically govern the protection
+of the same. In order to protect trade secrets and
+confidential information, watertight agreements
+should be agreed upon, and they should be supported
+by sound policies and procedures.
+I. Protection of Confidential
+Information in the Hands of
+Employees
+In this information age, it’s imperative that
+a business protects its new formula, product,
+technology, customer lists, or future business plans.
+In the global marketplace, Indian corporations are
+often required to comply with foreign laws and are
+likely to be exposed to liabilities for violation of
+confidential information or trade secrets of their
+business partners or third parties. For example, the
+U.S. Economic Espionage Act, 1996 imposes criminal
+liability (including fines and prison sentences) on
+any person who intentionally or knowingly steals
+a trade secret, knowingly receives, or purchases a
+wrongfully obtained trade secret. The standards for
+protection have to be tailored to address the risks
+associated with rapid advancement in technology
+and communications. The standards accepted today
+may become inadequate tomorrow. However, one
+constant factor is the presence of a corporate culture
+imbued with information protection values.
+The employees of an organization are privy to
+confidential information and trade secrets on a daily
+basis. In the absence of any specific Indian statute
+conferring protection on such information in the
+hands of employees, recourse has to be taken to
+common law rights and contractual obligations.
+II. Non-Disclosure Agreements
+Sound and concise company policies and nondisclosure agreements with the employees
+protecting confidential information and trade secrets
+are recommended so as to provide contractual
+remedy in addition to the one under the common
+law. Such agreements should define “confidential
+information” and the exceptions to confidentiality.
+Agreements should have clauses negating a grant of
+an implied license, restrictions on disclosure, use and
+copy; restriction on use of confidential information
+upon termination of the employment, return of
+information upon termination and right to withhold
+salary and emoluments till such return.
+Non-compete clauses, depending upon their
+applicability in the Indian context, read with the
+confidentiality clauses would afford an organization
+added protection with respect to its confidential
+information. Such provisions must have a clear
+purpose, which is to restrict the use of confidential
+information and trade secrets obtained during
+employment and ensure that employees do not
+compete unfairly. However, non-compete provisions
+would need to be reasonable, and the Indian courts
+may treat a tough non-compete provision as
+unenforceable.
+In order to ensure that the rights of third parties
+are not violated, the non-disclosure/employment
+agreement should clearly impose an obligation on
+the employee not to integrate into the organization’s
+data or intellectual property, any confidential
+information of a third party. Employees should
+be required to indemnify the organization in case
+of violation of this clause. If the organization
+has not executed such agreements at the time of
+employment, subsequently executed agreements
+should expressly cover the confidential information
+obtained by the employee from the date of his
+employment.
+III. Internal Processes
+Strong internal controls and processes to protect
+confidential information should be in place.
+Employees should be educated to identify
+information that is confidential or in the nature of
+a trade secret, to enable them to make an informed
+decision. They should have a clear understanding of
+their responsibilities to protect confidential matter
+and treat this as an on-going process that is integral
+to their work. Data that is confidential should be
+clearly indicated as such in all communications.
+Appropriate security procedures must be established
+and followed by the company and access to specific
+sensitive areas of workplace restricted or limited to
+certain senior employees only.
+Third-party interaction and disclosures should
+be channeled only through specified personnel.
+12. Confidential Information & Trade Secrets
+© Nishith Desai Associates 2015
+Provided upon request only
+40
+Wherever feasible, confidential information should
+only be shared with those employees who have a
+legitimate need to know such information, thus
+enabling the employees to perform the assigned
+tasks.
+IV. An Exit-Interview
+During such an interview, an employee should
+be reminded of his obligations with respect to the
+company’s confidential information and trade secrets
+and should be asked to sign a document reaffirming
+his obligations. If an employment agreement
+was signed, the document to be signed upon
+termination should be attached. A copy of the signed
+exit-interview form, including the employment
+agreement, must be given to the employee. Such an
+interview not only serves as a meaningful reminder
+but can also be valuable evidence of employee’s
+knowledge of such obligations.
+Success of suits for protection of confidential
+information and trade secrets depends upon
+production of satisfactory evidence to prove
+confidentiality of the information, act of disclosure
+and the damages caused thereby, as well as the
+reasonability of such restriction.
+Enactment of a strong statute for protection of
+confidential information and trade secrets would
+certainly help the Indian industry. In any event,
+strategies for protection of the organization’s
+confidential information and trade secrets have, in
+today’s economic scenario, become a prerequisite to
+the organization’s survival.
+Confidential Information & Trade Secrets
+© Nishith Desai Associates 2015
+Intellectual Property Law in India
+41
+Legal, Regulatory & Tax
+India is a signatory to the following international conventions:
+Convention Date
+Berne Convention April 1, 1928 (Party to convention)
+Universal Copyright Convention January 7,1988 (Ratification)
+Paris Convention December 7,1998 (Entry into force)
+Convention on Biological Diversity June 5,1992 (Signature and ratification)
+Patent Cooperation Treaty December 7,1998 (Entry into force)
+Budapest Treaty on the International Recognition of
+Microorganisms for the Purposes of Patent Procedure 1977
+December 17, 2001(Party to treaty)
+13. International Conventions
+By virtue of such membership, convention
+applications for the registration of trademarks,
+patents, and designs are accepted with the priority
+date claim; copyright infringement suits can be
+instituted in India based on copyright created in the
+convention countries.
+The Madrid Protocol
+The Madrid System, administered by the
+International Bureau of World Intellectual Property
+Organization (WIPO), Geneva, permits the filing,
+registration and maintenance of trademark
+rights in more than one jurisdiction on a global
+basis. This system comprises two treaties; the
+Madrid Agreement concerning the International
+Registration of Marks, which was concluded in
+1891 and came into force in 1892, and the Protocol
+relating to the Madrid Agreement, which came
+into operation on April 1, 1996. India acceded to
+the relevant treaties in 2005 and in 2007.The new
+Trademarks (Amendment) Bill to amend the TM Act
+was introduced in the Parliament to implement the
+Madrid System in India in 2009. The Trade Marks
+(Amendment) Rules 2013, with provisions relating
+to the international registration of trademarks under
+the Madrid Protocol, came into force in India from
+8th July, 2013.
+© Nishith Desai Associates 2015
+Provided upon request only
+42
+Effective September 15, 2003, the Intellectual
+Property Appellate Board (Board) has been set up
+in Chennai (in the state of Tamil Nadu, India) with
+benches in Ahmedabad, Delhi, Mumbai and Kolkata.
+The Board has the jurisdiction to consider appeals
+from the decisions of the Registrar of Trade Marks
+and Registrar of GI and to consider cancellation /
+rectification cases of trademarks and GIs. The cases,
+which were pending before various High Courts
+with respect to the aforementioned matters stand
+transferred to the Board with effect from October 6,
+2003. Setting up of the exclusive IP Board is expected
+to lead to an effective and speedy disposal of cases.
+The cases with respect to infringement and passing
+off will continue to be instituted in regular courts.
+14. Special Tribunals
+© Nishith Desai Associates 2015
+Intellectual Property Law in India
+43
+Legal, Regulatory & Tax
+Income tax in India is governed by the provisions of
+the Income-tax Act, 1961 (“ITA”), which lays down
+elaborate provisions in respect of chargeability
+to tax, determination of residency, computation
+of income, transfer pricing, etc. All residents are
+subject to tax in India on their worldwide income,
+whereas non-residents are taxed only on Indian
+source income, i.e. income that is received in India
+or accrues or arises to them in India or is deemed to
+accrue or arise or is deemed to be received in India.83
+Every company that is chargeable to tax in India is
+required to file a tax return in India.84
+I. Residency85 and Scope of
+Income
+A company incorporated under the laws of India
+is deemed to be a resident of India for Indian tax
+purposes. A company incorporated outside India
+is deemed to be resident in India if it is wholly
+controlled and managed from India. Income of an
+Indian company (which would include an Indian
+subsidiary of a foreign company) is taxed in India at
+the rate of 30%.86 A foreign company is taxed at the
+rate of 40% on its business income earned in India,
+only if it has a PE87 or business connection88 in India.
+Section 90(2) of the ITA provides that where India
+has entered into a tax treaty with the Government
+of any other country for granting of relief of tax or
+avoidance of double taxation, in relation to such
+a tax payer to whom such tax treaty applies, the
+provisions of the ITA would apply to the extent they
+are more beneficial to the tax payer.
+II.Deemed Indian Source
+Incomes
+Royalties and fees for technical services (“FTS”)
+are taxable in India when they arise from sources
+within India.89 Royalties and FTS paid by a resident
+to a non-resident are generally taxable in India.
+However, if such royalties/FTS are paid with respect
+to a business or profession carried on by such
+resident outside India or for earning income from
+any source outside India, then such royalties and FTS
+are not taxable in India. Further, even payments of
+royalties or FTS made by one non-resident to another
+non-resident are brought within the Indian tax net,
+if such royalties/FTS are payable with respect to
+any business or profession carried on by such nonresident in India or for earning any income from a
+source in India.
+Explanation 2 to section 9(1)(vi) and (vii) of ITA
+defines the terms “royalty” and FTS respectively to
+mean:
+Royalty means consideration (including lump sum
+consideration but excluding any consideration
+which would be the income of the recipient
+chargeable under the head “Capital Gains”) for:
+i. “the transfer of all or any rights (including the
+granting of a license) in respect of a patent,
+invention, model, design, secret formula or
+process or trademark or similar property; (It is
+pertinent to note that the payment for transfer of
+all or any rights in respect of any right, property
+or information includes transfer of all or any
+right for use or right to use a computer software
+(including granting of a licence) irrespective
+of the medium through which such right is
+transferred.)
+ii. the imparting of any information concerning
+the working of, or the use of, a patent, invention,
+model, design, secret formula or process or
+trademark or similar property;
+iii. the use of any patent, invention, model, design,
+secret formula or process or trademark or similar
+property;
+iv. the imparting of any information concerning
+technical, industrial, commercial or scientific
+knowledge, experience or skill;
+15. Tax Regime in India
+83. Section 4 and 5 of the ITA.
+84. Section 139(1) of the ITA.
+85. Section 6 of the ITA.
+86. The income tax rates mentioned in this paper are exclusive of the currently applicable surcharge at the rate of 5% and a 3% education cess on such
+income tax and surcharge.
+87. Permanent Establishment.
+88. The term ‘business connection’ is a term, which is used in the ITA and is analogous to the term ‘PE’ used in tax treaties.
+89. Section 9(1) (vi), (vii) of the ITA.
+© Nishith Desai Associates 2015
+Provided upon request only
+44
+iv-a. the use or right to use any industrial,
+commercial or scientific equipment;
+v. the transfer of all or any rights (including the
+granting of a license) in respect of any copyright,
+literary, artistic or scientific work including
+films or video tapes for the use in connection
+with television or tapes for the use in connection
+with radio broadcasting, but not including
+consideration for the sale, distribution or
+exhibition of cinematograph films; or
+vi. the rendering of any services in connection with
+the activities referred to in sub-clauses (i) to (v).
+With respect to the aforesaid definition of royalty
+it is important to note that for the purposes of
+determination of whether a payment for right,
+property or information is in the nature of royalty
+it is irrelevant whether the payer is in possession
+or control of such right, property or information or
+whether such right, property or information is used
+directly by the payer. Further, the location of such
+right, property or information is also not of essence.
+“Fees for technical services” means any consideration
+(including any lump sum consideration) for
+the rendering of any managerial, technical or
+consultancy services (including the provision of
+services of technical or other personnel) but does
+not include consideration for any construction,
+assembly, mining or like project undertaken by the
+recipient or consideration which would be income of
+the recipient chargeable under the head “Salaries”.
+Royalties and FTS, which are chargeable to tax in
+India and are payable to non-residents who do not
+have a PE in India, are subject to a withholding tax
+at the rate 10% on gross basis.90 No deductions are
+allowed from the gross royalties or FTS. This rate
+may be reduced if there is a favorable provision
+in the tax treaty between India and the country of
+residence of the non-resident.
+If the non-resident company having a PE in India
+receives royalties/FTS, which is chargeable to tax
+in India and the payment of such royalties/FTS is
+effectively connected to the PE in India, then such
+royalties/FTS would be liable to tax in India as
+business income at the rate of 40% on net basis.91 In
+such cases, expenditure incurred in this respect by
+the non-resident in earning the royalties/FTS would
+be allowable as a deduction.
+India, does not have any special provisions for the
+taxation of computer software. Thus, the general
+rules of taxation of business income, FTS or royalties,
+as the case may be, are applied. The Central Board
+of Direct Taxes (“CBDT”) had constituted a High
+Powered Committee (“HPC”) in the year 1999 to
+advise the government with respect to any changes
+that may be required in the domestic law to address
+the taxation of electronic commerce. The HPC
+while making its recommendations had taken a
+different view on the taxation of 13 out of the 28
+categories of e-commerce transactions examined by
+the Technical Advisory Group (“TAG”) in its report
+on ”Treaty Characterisation of Electronic Commerce
+Payments” dated February 1, 2001. On account of
+several representations made by the industry and
+professionals,92 the recommendations of the HPC
+have not yet been adopted.
+III. Tax Incentives
+Tax incentives are available to a company engaged
+in the manufacture and export of goods and services
+if the export is undertaken via a facility set up
+in a Special Economic Zone. In such a case, a tax
+exemption equivalent to 100% of the profits derived
+by such unit from export of goods and services is
+available for the first 5 years of its operations and
+a 50% tax exemption on such profits is available
+for subsequent five years. Subject to fulfillment of
+specific conditions regarding creation of a reserve
+and utilization of profits, a 50% tax exemption for an
+additional 5 years may also be claimed.
+Some of the other tax incentives available include
+incentives for a company engaged in the business of
+bio-technology or in any business of manufacture
+or production (except certain specified businesses),
+whereby such companies can claim a deduction
+equivalent up to 200% of the expenditure incurred
+for in-house R&D facilities (not being expense in the
+nature of cost of land and building) that have been
+approved by Department of Scientific and Industrial
+Research, Ministry of Science and Technology, Govt.
+of India. In other cases, a deduction shall be allowed
+for any expenditure laid out on scientific research
+related to the business carried out by the company is
+allowed.
+90. Section 115AA and 115BB respectively of the ITA.
+91. Section 44 DA of the ITA
+92. Our recommendations can be found at www.nishithdesai.com/eComTaxpert/ecomtaxpertnew.htm
+Tax Regime in India
+© Nishith Desai Associates 2015
+Intellectual Property Law in India
+45
+Legal, Regulatory & Tax
+IV. Depreciation
+Depreciation is allowed on intangible assets in the
+nature of know-how, patents, copyrights, trade
+names, licenses, franchises or any other business or
+commercial rights of a similar nature acquired on or
+after April 1, 1998 at the rate of 25% as per written
+down value method. Computer software is entitled
+to depreciation at a higher rate i.e. 60%.
+V. Second tier Royalty
+As discussed above, payments of royalties/FTS made
+by one non-resident to another non-resident are
+brought within the Indian tax net, if such royalties/
+FTS are payable with respect to any business or
+profession carried on by such non-resident in India
+or for earning any income from any source in India.
+Thus, for example if any royalties/FTS are payable
+by a non-resident sub-licensor to a non-resident
+licensor, the same could be subject to tax in India if
+they are payable by the sub-licensor in respect of any
+business or profession carried on by him in India or
+for earning any income from any source in India.
+However, under certain tax treaties, which India
+has entered into, such second tier royalty/FTS can
+be taxed in India only if the sub-licensor has a PE in
+India and the royalties/FTS are borne by the PE.
+© Nishith Desai Associates 2015
+Provided upon request only
+46
+I. Place of Filing of Infringement
+Actions
+In India, infringement and passing-off actions can
+be instituted by filing a suit in the appropriate court.
+All IP laws state the appropriate court in which
+such suits can be instituted. For example, under
+the TM Act, suits for trademark infringement or
+passing off can be filed in the district court within
+the local limits of whose jurisdiction, at the time
+of the institution of the suit / other proceedings,
+the plaintiff / one of the plaintiffs (for example,
+registered proprietor, registered user) actually
+and voluntarily resides or carries on business or
+personally works for gain. Under the Copyright Act
+there is a similar provision as well.
+II. Interim Injunctions
+In India, court cases often reach a final hearing after
+twelve to sixteen years from the date of their filing.
+Therefore, obtaining an interim injunction becomes
+crucial for the plaintiffs, especially in intellectual
+property lawsuits. The damages are awarded only
+after the final hearing.
+Indian courts also grant injunctions in a quia timet
+(anticipatory) action if the plaintiff proves that
+defendant’s activities or proposed activities would
+lead to violation of plaintiffs’ rights.
+III. Interim Relief
+After filing the suit, the plaintiffs can seek ad interim
+and interim relief, including injunctions, Mareva
+Injunctions, an appointment of the commissioner
+or the court receiver, Anton Piller orders, John
+Doe (Ashok Kumar) orders, and other orders,
+such as discovery and inspection, or orders for
+interrogatories.
+Ad-interim and interim injunctions are granted
+under Order 39, Rules 1 and 2, read with Section 151
+of the Code of Civil Procedure, 1908.The Supreme
+Court of India in Wander Ltd. v. Antox India (P)
+Ltd.93 laid down the principles for the granting
+of an interim injunction. For the grant of such ad
+interim and interim orders, the plaintiff has to show
+that he has a prima facie case, that the balance of
+convenience is in his favor, and the hardship suffered
+by the plaintiff would be greater if the order is not
+granted. If the plaintiff is able to convince the Court
+of these points, then plaintiff can obtain an ad
+interim and interim injunction within a couple of
+days of filing of the suit. Some courts also grant ex
+parte injunctions if a strong case is made.
+Generally, a plaintiff is required to give at least fortyeight hours notice to the defendant for a hearing of
+the interim application. If the defendant appears
+before the court, he may be granted further time to
+file his reply and the plaintiff in turn may be allowed
+to file his response to the defendant’s reply. The
+hearing of the interim applications could go on for
+three to four days, depending upon the complexity of
+the matter. Both the parties have the liberty to file an
+appeal from the interim order and subsequently the
+parties may have to fight the matter even up to the
+Supreme Court of India. The appellate court also has
+the power to grant interim orders pending the final
+hearing of appeal.
+Indian courts have realized the importance of
+protecting IP and have started granting innovative
+orders. Recently, of India’s 40,000 cable operators,
+only 3,500 had obtained licenses from the owners
+of the rights to broadcast the World Cup (soccer)
+in India. Given the transitory nature of both the
+World Cup rights and the cable operators themselves
+(and the normal time frame of the Indian courts),
+the Delhi High Court granted an order against
+anonymous defendants whereby the rights owner,
+accompanied by a court-appointed commissioner,
+were able to locate the unlicensed cable operators
+and shut down the unauthorized World Cup
+transmissions. Such orders are called Ashok Kumar
+orders in India, equivalent to John Doe orders.
+The damages are awarded only after the final hearing
+of the suit, which could take twelve to sixteen years,
+as stated earlier. Traditionally Indian courts have
+been slow and conservative in granting damages in
+intellectual property matters. However, recently the
+courts have started granting punitive and exemplary
+damages in the intellectual property law matters. In
+the matter of Time Incorporated v. Lokesh Srivastava
+and Anr.94 the Delhi Court observed:
+16. Enforcement
+93. (1990) Supp. S.C.C. 727.
+94. 2005 (3) PTC 3 (Del)
+© Nishith Desai Associates 2015
+Intellectual Property Law in India
+47
+Legal, Regulatory & Tax
+“This Court has no hesitation in saying that the
+time has come when the Courts dealing actions for
+infringement of trademarks, copy rights, patents
+etc. should not only grant compensatory damages
+but award punitive damages also with a view to
+discourage and dishearten law breakers who indulge
+in violations with impunity out of lust for money
+so that they realize that in case they are caught, they
+would be liable not only to reimburse the aggrieved
+party but would be liable to pay punitive damages
+also, which may spell financial disaster for them.”
+© Nishith Desai Associates 2015
+Provided upon request only
+48
+In its circular dated October 29, 2007 (“Circular”),
+the Central Board of Excise & Customs under
+the Ministry of Finance, issued instructions to
+the relevant customs and excise authorities, for
+implementation of the Intellectual Property Rights
+(Imported Goods) Enforcement Rules, 2007 (“IPR
+Rules”) dated May 8, 2007. The IPR Rules emanate
+from Section 11 of the Customs Act, 1952 which
+empowers the Central Government to prohibit
+import or export of goods infringing intellectual
+property rights. Before the notification of the IPR
+Rules, the notification of January 18, 1964, prohibited
+import of goods infringing trademarks and design.
+The IPR Rules prohibit import of goods infringing
+patent, copyright and geographical indications as
+well.
+I. Features of the IPR Rules
+The Circular contemplates to implement a
+centralized web-enabled registration system. The
+Circular emphasizes that under the IPR Rules, the
+determination of whether the goods are infringing
+or not would be in accordance with the applicable
+IP legislation. For smooth implementation of the
+IPR regime, the Circular stipulates establishment
+of an IPR Cell in each Custom House. The IPR Cell
+is vested with the responsibility of verifying the
+applications, completing web-enabled registration
+formalities and making correspondence with the
+Risk Management Division and other Customs
+formations. Further, any import involving suspected
+infringement of IPRs would be handled by the IPR
+Cell. Any instance of suo-moto interdiction of the
+import consignments by the Customs, involving
+possible infringements, would also be referred
+to such IPR Cell. In view of the fact that these
+proceedings might require the customs to determine
+right in personam, participation of the rights holder
+is made mandatory. The qualification and training
+imparted to the members of the IPR Cell will play a
+crucial role in effective implementation of the IPR
+Rules. Abstention on the part of the right holder
+would result in discontinuation of the proceedings
+and release of the goods.
+The other principle features of the IPR Rules are
+summarized below:
+￭ adequate protection to the rightful importer;
+￭ adequate protection to the Customs for bona fide
+act;
+￭ suo-moto action by the Customs in specified
+circumstances;
+￭ disposal of the confiscated goods;
+￭ no action against goods of non commercial
+nature contained in personal baggage or sent in
+small consignments intended for personal use of
+the importer.
+II. Procedure for Procuring
+Registration under the IPR
+Rules
+The IPR Rules read with the Circular lay down
+a detailed procedure to be followed by the right
+holders as also by the Customs authorities for
+seeking suspension or release of infringing goods.
+￭ A right holder would have to give a notice for
+registration requesting the Customs Department
+to suspend clearance of infringing goods at the
+port of such goods. Such notices can be filed
+online.
+￭ The information submitted by the right holder is
+required to be cross verified by the Customs from
+the concerned authorities with whom the rights
+are registered in accordance with the parent IP
+enactments.
+￭ If the information is found to be wrong or false,
+then registration accorded to the rights holder
+may be cancelled. Further, an amendment to
+the registration would require the rights holder
+to undergo the entire process of registration
+as if it were a fresh application. In relation
+to a particular goods there are separate IP
+registrations, then a separate registration is
+required to be done for each type of IP.
+￭ Upon satisfaction by the authorities, the notice
+may be rejected or registered for a minimum
+period of five years (or less if so requested by the
+rights holder).
+17. Measures to Check Import of Infringing
+Goods
+© Nishith Desai Associates 2015
+Intellectual Property Law in India
+49
+Legal, Regulatory & Tax
+￭ There are certain conditions as to the provision
+of bond, surety and security that the rights
+holder needs to satisfy. This is primarily to avoid
+frivolous registrations. The bond amount is equal
+to 110% of the value of goods while the security
+deposit is 25% of the bond value.
+© Nishith Desai Associates 2015
+Provided upon request only
+50
+The importance of IPR and their protection is
+acknowledged the world over as essential to
+business. In tune with the world scenario, India too
+has recognized the value of IP, which recognition
+has been consistently upheld by legislators, courts
+and the industry. India is now a signatory to various
+IP treaties and conventions. This has helped India
+become more attuned to the world’s approaches and
+attitudes towards IP protection. India has already
+taken steps to comply with its obligations under
+TRIPS, and the Indian IP law regime is almost at
+par with the regimes of many developed nations.
+Historically, the enforcement of IPRs in India was
+not particularly effective. However, recent judicial
+rulings and steps taken by various enforcement
+agencies demonstrate that India is gearing up for
+effective protection and enforcement of IPRs. The
+Indian police has established special IP cells where
+specially trained police officers have been appointed
+to monitor IP infringement and cyber crimes.
+Various Indian industries have also become more
+proactive in protecting their IPRs. For example,
+the Indian Music Industry, an association of music
+companies, which headed by a retired senior police
+official, has taken similar proactive steps to combat
+music piracy. All in all, India has taken many
+positive steps toward improving its IPR regime and
+is expected to do much more in the coming years to
+streamline itself with the best practices in the field of
+intellectual property rights.
+Conclusion
+© Nishith Desai Associates 2015
+Provided upon request only
+The following research papers and much more are available on our Knowledge Site: www.nishithdesai.com
+NDA Insights
+TITLE TYPE DATE
+Thomas Cook – Sterling Holiday Buyout M&A Lab December 2014
+Reliance tunes into Network18! M&A Lab December 2014
+Sun Pharma –Ranbaxy, A Panacea for Ranbaxy’s ills? M&A Lab December 2014
+Jet Etihad Jet Gets a Co-Pilot M&A Lab May 2014
+Apollo’s Bumpy Ride in Pursuit of Cooper M&A Lab May 2014
+Diageo-USL- ‘King of Good Times; Hands over Crown Jewel to Diageo M&A Lab May 2014
+Copyright Amendment Bill 2012 receives Indian Parliament’s assent IP Lab September 2013
+Public M&A’s in India: Takeover Code Dissected M&A Lab August 2013
+File Foreign Application Prosecution History With Indian Patent Office IP Lab April 2013
+Warburg - Future Capital - Deal Dissected M&A Lab January 2013
+Real Financing - Onshore and Offshore Debt Funding Realty in India Realty Check May 2012
+Pharma Patent Case Study IP Lab March 2012
+Patni plays to iGate’s tunes M&A Lab January 2012
+Vedanta Acquires Control Over Cairn India M&A Lab January 2012
+Corporate Citizenry in the face of Corruption Yes, Governance
+Matters!
+September 2011
+Funding Real Estate Projects - Exit Challenges Realty Check April 2011
+Joint-Ventures in
+India
+November 2014
+The Curious Case of
+the Indian Gaming
+Laws
+September 2015
+Fund Structuring
+and Operations
+June 2015
+Private Equity
+and Private Debt
+Investments in
+India
+June 2015
+E-Commerce in
+India
+July 2015
+Corporate Social
+Responsibility &
+Social Business
+Models in India
+March 2015
+Doing Business in
+India
+June 2015
+Convergence:
+Internet of Things
+July 2015
+Outbound
+Acquisitions by
+India-Inc
+September 2014
+© Nishith Desai Associates 2015
+Intellectual Property Law in India
+Legal, Regulatory & Tax
+Research is the DNA of NDA. In early 1980s, our firm emerged from an extensive, and then pioneering, research
+by Nishith M. Desai on the taxation of cross-border transactions. The research book written by him provided the
+foundation for our international tax practice. Since then, we have relied upon research to be the cornerstone of
+our practice development. Today, research is fully ingrained in the firm’s culture.
+Research has offered us the way to create thought leadership in various areas of law and public policy. Through
+research, we discover new thinking, approaches, skills, reflections on jurisprudence, and ultimately deliver
+superior value to our clients.
+Over the years, we have produced some outstanding research papers, reports and articles. Almost on a daily
+basis, we analyze and offer our perspective on latest legal developments through our “Hotlines”. These Hotlines
+provide immediate awareness and quick reference, and have been eagerly received. We also provide expanded
+commentary on issues through detailed articles for publication in newspapers and periodicals for dissemination
+to wider audience. Our NDA Insights dissect and analyze a published, distinctive legal transaction using multiple
+lenses and offer various perspectives, including some even overlooked by the executors of the transaction. We
+regularly write extensive research papers and disseminate them through our website. Although we invest heavily
+in terms of associates’ time and expenses in our research activities, we are happy to provide unlimited access to
+our research to our clients and the community for greater good.
+Our research has also contributed to public policy discourse, helped state and central governments in drafting
+statutes, and provided regulators with a much needed comparative base for rule making. Our ThinkTank
+discourses on Taxation of eCommerce, Arbitration, and Direct Tax Code have been widely acknowledged.
+As we continue to grow through our research-based approach, we are now in the second phase of establishing a
+four-acre, state-of-the-art research center, just a 45-minute ferry ride from Mumbai but in the middle of verdant
+hills of reclusive Alibaug-Raigadh district. The center will become the hub for research activities involving
+our own associates as well as legal and tax researchers from world over. It will also provide the platform to
+internationally renowned professionals to share their expertise and experience with our associates and select
+clients.
+We would love to hear from you about any suggestions you may have on our research reports. Please feel free to
+contact us at
+research@nishithdesai.com
+Research @ NDA
+Intellectual Property Law in India
+© Copyright 2015 Nishith Desai Associates www.nishithdesai.com
+MUMBAI
+93 B, Mittal Court,Nariman Point,
+Mumbai 400 021 India
+Tel: +91 - 22 - 6669 5000
+Fax: +91 - 22 - 6669 5001
+SINGAPORE
+Level 30,Six Battery Road,
+Singapore 049909
+Tel: +65 - 6550 9855
+Fax: +65 - 6550 9856
+MUNICH
+Maximilianstraße 13
+80539 Munich, Germany
+Tel: +49 - 89 - 203006 - 268
+Fax: +49 - 89 - 203006 - 450
+BANGALORE
+Prestige Loka, G01, 7/1 Brunton Rd,
+Bangalore 560 025, India
+Tel: +91 - 80 - 6693 5000
+Fax: +91 - 80 - 6693 5001
+NEW DELHI
+C-5, Defence Colony
+New Delhi - 110024, India
+Tel: +91 - 11 - 4906 5000
+Fax: +91 - 11- 4906 5001
+SILICON VALLEY
+220 S California Ave., Suite 201,
+Palo Alto, CA 94306, USA
+Tel: +1 - 650 - 325 7100
+Fax: +1 - 650 - 325 7300
+MUMBAI BKC
+3, North Avenue, Maker Maxity
+Bandra – Kurla Complex,
+Mumbai 400 051, India
+Tel: +91 - 22 - 6159 5000
+Fax: +91 - 22 - 6159 5001
